@@ -1,0 +1,142 @@
+{
+  "day_total": 11786.6,
+  "day_orders": 3265,
+  "branches": [
+    {
+      "name": "Roastry",
+      "sales": 1234.962,
+      "orders": 5,
+      "discount": 0.0
+    },
+    {
+      "name": "Kaifan",
+      "sales": 1043.758,
+      "orders": 353,
+      "discount": 67.293
+    },
+    {
+      "name": "SabahSalem",
+      "sales": 957.051,
+      "orders": 286,
+      "discount": 56.294
+    },
+    {
+      "name": "Alnasser",
+      "sales": 790.49,
+      "orders": 245,
+      "discount": 93.81
+    },
+    {
+      "name": "JahraGate",
+      "sales": 739.653,
+      "orders": 196,
+      "discount": 39.098
+    },
+    {
+      "name": "Jabriya",
+      "sales": 738.2,
+      "orders": 225,
+      "discount": 68.85
+    },
+    {
+      "name": "Marina",
+      "sales": 704.075,
+      "orders": 271,
+      "discount": 90.075
+    },
+    {
+      "name": "Qurain",
+      "sales": 693.2,
+      "orders": 224,
+      "discount": 15.6
+    },
+    {
+      "name": "360Mall",
+      "sales": 659.41,
+      "orders": 230,
+      "discount": 48.09
+    },
+    {
+      "name": "Salmiya",
+      "sales": 595.32,
+      "orders": 185,
+      "discount": 62.38
+    },
+    {
+      "name": "TheLane",
+      "sales": 518.96,
+      "orders": 152,
+      "discount": 28.69
+    },
+    {
+      "name": "KhiranMall",
+      "sales": 460.9,
+      "orders": 130,
+      "discount": 18.85
+    },
+    {
+      "name": "Catering&Events",
+      "sales": 423.0,
+      "orders": 4,
+      "discount": 0.0
+    },
+    {
+      "name": "Crystal",
+      "sales": 416.416,
+      "orders": 134,
+      "discount": 25.084
+    },
+    {
+      "name": "Warehousemall",
+      "sales": 394.24,
+      "orders": 126,
+      "discount": 21.06
+    },
+    {
+      "name": "AlassimamallRooftop",
+      "sales": 360.6,
+      "orders": 102,
+      "discount": 21.85
+    },
+    {
+      "name": "Daralshifa",
+      "sales": 351.705,
+      "orders": 127,
+      "discount": 30.995
+    },
+    {
+      "name": "Qortuba",
+      "sales": 303.16,
+      "orders": 93,
+      "discount": 14.041
+    },
+    {
+      "name": "SabahHospital",
+      "sales": 154.95,
+      "orders": 67,
+      "discount": 8.05
+    },
+    {
+      "name": "Alkout",
+      "sales": 135.55,
+      "orders": 56,
+      "discount": 9.3
+    },
+    {
+      "name": "AIU",
+      "sales": 101.65,
+      "orders": 49,
+      "discount": 18.75
+    },
+    {
+      "name": "Events4",
+      "sales": 9.35,
+      "orders": 5,
+      "discount": 0.0
+    }
+  ],
+  "active_branches": 22,
+  "brand": "CAF",
+  "date": "2026-05-07",
+  "_v": 3
+}
