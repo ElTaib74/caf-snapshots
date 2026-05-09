@@ -1,0 +1,124 @@
+{
+  "day_total": 12037.18,
+  "day_orders": 3359,
+  "branches": [
+    {
+      "name": "KhiranMall",
+      "sales": 1631.744,
+      "orders": 430,
+      "discount": 30.608
+    },
+    {
+      "name": "Marina",
+      "sales": 1003.775,
+      "orders": 353,
+      "discount": 110.425
+    },
+    {
+      "name": "SabahSalem",
+      "sales": 983.011,
+      "orders": 258,
+      "discount": 31.439
+    },
+    {
+      "name": "Kaifan",
+      "sales": 941.209,
+      "orders": 311,
+      "discount": 52.393
+    },
+    {
+      "name": "Alnasser",
+      "sales": 887.0,
+      "orders": 227,
+      "discount": 63.65
+    },
+    {
+      "name": "JahraGate",
+      "sales": 836.55,
+      "orders": 218,
+      "discount": 13.15
+    },
+    {
+      "name": "Qurain",
+      "sales": 781.881,
+      "orders": 246,
+      "discount": 9.919
+    },
+    {
+      "name": "Jabriya",
+      "sales": 686.379,
+      "orders": 214,
+      "discount": 180.771
+    },
+    {
+      "name": "Salmiya",
+      "sales": 679.682,
+      "orders": 191,
+      "discount": 60.868
+    },
+    {
+      "name": "360Mall",
+      "sales": 666.05,
+      "orders": 208,
+      "discount": 24.1
+    },
+    {
+      "name": "Catering&Events",
+      "sales": 615.0,
+      "orders": 5,
+      "discount": 0.0
+    },
+    {
+      "name": "TheLane",
+      "sales": 599.558,
+      "orders": 163,
+      "discount": 21.493
+    },
+    {
+      "name": "Warehousemall",
+      "sales": 498.9,
+      "orders": 165,
+      "discount": 20.8
+    },
+    {
+      "name": "AlassimamallRooftop",
+      "sales": 341.525,
+      "orders": 98,
+      "discount": 17.725
+    },
+    {
+      "name": "Qortuba",
+      "sales": 337.836,
+      "orders": 83,
+      "discount": 15.614
+    },
+    {
+      "name": "Alkout",
+      "sales": 187.95,
+      "orders": 77,
+      "discount": 0.0
+    },
+    {
+      "name": "Daralshifa",
+      "sales": 147.08,
+      "orders": 47,
+      "discount": 11.67
+    },
+    {
+      "name": "SabahHospital",
+      "sales": 128.7,
+      "orders": 48,
+      "discount": 0.0
+    },
+    {
+      "name": "Crystal",
+      "sales": 83.35,
+      "orders": 17,
+      "discount": 20.9
+    }
+  ],
+  "active_branches": 19,
+  "brand": "CAF",
+  "date": "2026-05-01",
+  "_v": 4
+}
