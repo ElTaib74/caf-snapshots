@@ -1,42 +1,42 @@
 {
-  "day_total": 11553.32,
+  "day_total": 11553.314,
   "day_orders": 3359,
   "branches": [
     {
       "name": "KhiranMall",
-      "sales": 1559.43,
+      "sales": 1559.432,
       "orders": 399,
-      "discount": 29.87
+      "discount": 42.67
     },
     {
       "name": "Kaifan",
-      "sales": 1140.13,
+      "sales": 1140.131,
       "orders": 332,
-      "discount": 51.72
+      "discount": 59.52
     },
     {
       "name": "Marina",
-      "sales": 1103.22,
+      "sales": 1103.216,
       "orders": 396,
-      "discount": 84.68
+      "discount": 84.684
     },
     {
       "name": "SabahSalem",
-      "sales": 922.41,
+      "sales": 922.413,
       "orders": 248,
-      "discount": 38.64
+      "discount": 38.638
     },
     {
       "name": "Alnasser",
-      "sales": 800.74,
+      "sales": 800.743,
       "orders": 211,
-      "discount": 38.51
+      "discount": 38.508
     },
     {
       "name": "Qurain",
-      "sales": 763.37,
+      "sales": 763.374,
       "orders": 235,
-      "discount": 15.23
+      "discount": 15.226
     },
     {
       "name": "360Mall",
@@ -52,33 +52,33 @@
     },
     {
       "name": "JahraGate",
-      "sales": 682.13,
+      "sales": 682.125,
       "orders": 186,
-      "discount": 52.63
+      "discount": 52.625
     },
     {
       "name": "TheLane",
-      "sales": 663.48,
+      "sales": 663.478,
       "orders": 197,
-      "discount": 37.37
+      "discount": 37.373
     },
     {
       "name": "Jabriya",
       "sales": 621.34,
       "orders": 194,
-      "discount": 43.66
+      "discount": 51.46
     },
     {
       "name": "Warehousemall",
-      "sales": 455.65,
+      "sales": 455.645,
       "orders": 144,
-      "discount": 24.51
+      "discount": 24.505
     },
     {
       "name": "AlassimamallRooftop",
-      "sales": 410.26,
+      "sales": 410.262,
       "orders": 124,
-      "discount": 25.84
+      "discount": 27.738
     },
     {
       "name": "Qortuba",
@@ -100,9 +100,9 @@
     },
     {
       "name": "Daralshifa",
-      "sales": 142.44,
+      "sales": 142.435,
       "orders": 50,
-      "discount": 15.07
+      "discount": 15.065
     },
     {
       "name": "Catering&Events",
@@ -126,5 +126,5 @@
   "active_branches": 20,
   "brand": "CAF",
   "date": "2026-05-08",
-  "_v": 12
+  "_v": 13
 }
