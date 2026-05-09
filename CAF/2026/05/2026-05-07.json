@@ -1,6 +1,6 @@
 {
   "day_total": 11786.6,
-  "day_orders": 3265,
+  "day_orders": 3245,
   "branches": [
     {
       "name": "Roastry",
@@ -11,62 +11,62 @@
     {
       "name": "Kaifan",
       "sales": 1043.758,
-      "orders": 353,
-      "discount": 67.293
+      "orders": 351,
+      "discount": 58.893
     },
     {
       "name": "SabahSalem",
       "sales": 957.051,
-      "orders": 286,
-      "discount": 56.294
+      "orders": 284,
+      "discount": 42.001
     },
     {
       "name": "Alnasser",
       "sales": 790.49,
       "orders": 245,
-      "discount": 93.81
+      "discount": 81.46
     },
     {
       "name": "JahraGate",
       "sales": 739.653,
       "orders": 196,
-      "discount": 39.098
+      "discount": 28.897
     },
     {
       "name": "Jabriya",
       "sales": 738.2,
-      "orders": 225,
-      "discount": 68.85
+      "orders": 224,
+      "discount": 60.9
     },
     {
       "name": "Marina",
       "sales": 704.075,
-      "orders": 271,
+      "orders": 270,
       "discount": 90.075
     },
     {
       "name": "Qurain",
       "sales": 693.2,
-      "orders": 224,
-      "discount": 15.6
+      "orders": 220,
+      "discount": 11.65
     },
     {
       "name": "360Mall",
       "sales": 659.41,
-      "orders": 230,
-      "discount": 48.09
+      "orders": 224,
+      "discount": 44.94
     },
     {
       "name": "Salmiya",
       "sales": 595.32,
       "orders": 185,
-      "discount": 62.38
+      "discount": 59.93
     },
     {
       "name": "TheLane",
       "sales": 518.96,
       "orders": 152,
-      "discount": 28.69
+      "discount": 27.14
     },
     {
       "name": "KhiranMall",
@@ -95,13 +95,13 @@
     {
       "name": "AlassimamallRooftop",
       "sales": 360.6,
-      "orders": 102,
-      "discount": 21.85
+      "orders": 99,
+      "discount": 17.75
     },
     {
       "name": "Daralshifa",
       "sales": 351.705,
-      "orders": 127,
+      "orders": 126,
       "discount": 30.995
     },
     {
@@ -138,5 +138,5 @@
   "active_branches": 22,
   "brand": "CAF",
   "date": "2026-05-07",
-  "_v": 3
+  "_v": 6
 }
