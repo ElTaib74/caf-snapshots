@@ -6,115 +6,115 @@
       "name": "KhiranMall",
       "sales": 1559.432,
       "orders": 399,
-      "discount": 42.67
+      "discount": 0.0
     },
     {
       "name": "Kaifan",
       "sales": 1140.131,
       "orders": 332,
-      "discount": 59.52
+      "discount": 0.0
     },
     {
       "name": "Marina",
       "sales": 1103.216,
       "orders": 396,
-      "discount": 84.684
+      "discount": 0.0
     },
     {
       "name": "SabahSalem",
       "sales": 922.413,
       "orders": 248,
-      "discount": 38.638
+      "discount": 0.0
     },
     {
       "name": "Alnasser",
       "sales": 800.743,
       "orders": 211,
-      "discount": 38.508
+      "discount": 0.0
     },
     {
       "name": "Qurain",
       "sales": 763.374,
       "orders": 235,
-      "discount": 15.226
+      "discount": 0.0
     },
     {
       "name": "360Mall",
       "sales": 708.95,
       "orders": 224,
-      "discount": 25.3
+      "discount": 0.0
     },
     {
       "name": "Salmiya",
       "sales": 685.8,
       "orders": 180,
-      "discount": 58.45
+      "discount": 0.0
     },
     {
       "name": "JahraGate",
       "sales": 682.125,
       "orders": 186,
-      "discount": 52.625
+      "discount": 0.0
     },
     {
       "name": "TheLane",
       "sales": 663.478,
       "orders": 197,
-      "discount": 37.373
+      "discount": 0.0
     },
     {
       "name": "Jabriya",
       "sales": 621.34,
       "orders": 194,
-      "discount": 51.46
+      "discount": 0.0
     },
     {
       "name": "Warehousemall",
       "sales": 455.645,
       "orders": 144,
-      "discount": 24.505
+      "discount": 0.0
     },
     {
       "name": "AlassimamallRooftop",
       "sales": 410.262,
       "orders": 124,
-      "discount": 27.738
+      "discount": 0.0
     },
     {
       "name": "Qortuba",
       "sales": 287.27,
       "orders": 82,
-      "discount": 22.63
+      "discount": 0.0
     },
     {
       "name": "SabahHospital",
       "sales": 230.65,
       "orders": 71,
-      "discount": 6.0
+      "discount": 0.0
     },
     {
       "name": "Alkout",
       "sales": 191.6,
       "orders": 66,
-      "discount": 11.55
+      "discount": 0.0
     },
     {
       "name": "Daralshifa",
       "sales": 142.435,
       "orders": 50,
-      "discount": 15.065
+      "discount": 0.0
     },
     {
       "name": "Catering&Events",
       "sales": 110.0,
       "orders": 1,
-      "discount": 175.0
+      "discount": 0.0
     },
     {
       "name": "Crystal",
       "sales": 59.75,
       "orders": 12,
-      "discount": 15.5
+      "discount": 0.0
     },
     {
       "name": "Events4",
@@ -126,5 +126,5 @@
   "active_branches": 20,
   "brand": "CAF",
   "date": "2026-05-08",
-  "_v": 7
+  "_v": 8
 }
