@@ -1,0 +1,52 @@
+{
+  "day_total": 2148.2,
+  "day_orders": 418,
+  "branches": [
+    {
+      "name": "Qortuba",
+      "sales": 569.45,
+      "orders": 99,
+      "discount": 2.9
+    },
+    {
+      "name": "360 Mall",
+      "sales": 557.6,
+      "orders": 121,
+      "discount": 4.296
+    },
+    {
+      "name": "Qurain Kitchen Cloud",
+      "sales": 335.8,
+      "orders": 56,
+      "discount": 9.052
+    },
+    {
+      "name": "Ardiya",
+      "sales": 284.95,
+      "orders": 61,
+      "discount": 8.472
+    },
+    {
+      "name": "Khiran Mall",
+      "sales": 174.85,
+      "orders": 35,
+      "discount": 1.74
+    },
+    {
+      "name": "HAP - Qortuba",
+      "sales": 162.475,
+      "orders": 31,
+      "discount": 127.125
+    },
+    {
+      "name": "HAP - Qurain Kitchen Cloud",
+      "sales": 63.075,
+      "orders": 15,
+      "discount": 15.675
+    }
+  ],
+  "active_branches": 7,
+  "brand": "WACHAMEAN",
+  "date": "2026-05-09",
+  "_v": 13
+}
