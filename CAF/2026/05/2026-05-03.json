@@ -1,0 +1,136 @@
+{
+  "day_total": 8842.736,
+  "day_orders": 2868,
+  "branches": [
+    {
+      "name": "Kaifan",
+      "sales": 1108.694,
+      "orders": 414,
+      "discount": 85.955
+    },
+    {
+      "name": "SabahSalem",
+      "sales": 850.275,
+      "orders": 252,
+      "discount": 51.875
+    },
+    {
+      "name": "Qurain",
+      "sales": 696.519,
+      "orders": 240,
+      "discount": 15.131
+    },
+    {
+      "name": "JahraGate",
+      "sales": 678.52,
+      "orders": 199,
+      "discount": 21.83
+    },
+    {
+      "name": "Alnasser",
+      "sales": 631.603,
+      "orders": 202,
+      "discount": 37.998
+    },
+    {
+      "name": "Jabriya",
+      "sales": 607.953,
+      "orders": 199,
+      "discount": 217.147
+    },
+    {
+      "name": "Marina",
+      "sales": 554.55,
+      "orders": 215,
+      "discount": 60.1
+    },
+    {
+      "name": "Salmiya",
+      "sales": 534.242,
+      "orders": 177,
+      "discount": 24.808
+    },
+    {
+      "name": "TheLane",
+      "sales": 527.129,
+      "orders": 167,
+      "discount": 37.971
+    },
+    {
+      "name": "360Mall",
+      "sales": 451.955,
+      "orders": 171,
+      "discount": 61.895
+    },
+    {
+      "name": "Daralshifa",
+      "sales": 405.955,
+      "orders": 146,
+      "discount": 18.195
+    },
+    {
+      "name": "Crystal",
+      "sales": 374.379,
+      "orders": 109,
+      "discount": 20.721
+    },
+    {
+      "name": "Catering&Events",
+      "sales": 280.0,
+      "orders": 2,
+      "discount": 0.0
+    },
+    {
+      "name": "Qortuba",
+      "sales": 269.092,
+      "orders": 75,
+      "discount": 21.859
+    },
+    {
+      "name": "Warehousemall",
+      "sales": 251.85,
+      "orders": 91,
+      "discount": 19.5
+    },
+    {
+      "name": "KhiranMall",
+      "sales": 226.85,
+      "orders": 61,
+      "discount": 8.6
+    },
+    {
+      "name": "SabahHospital",
+      "sales": 179.25,
+      "orders": 76,
+      "discount": 5.15
+    },
+    {
+      "name": "Alkout",
+      "sales": 96.55,
+      "orders": 43,
+      "discount": 9.15
+    },
+    {
+      "name": "AlassimamallRooftop",
+      "sales": 74.17,
+      "orders": 24,
+      "discount": 14.08
+    },
+    {
+      "name": "Roastry",
+      "sales": 36.0,
+      "orders": 1,
+      "discount": 0.0
+    },
+    {
+      "name": "AIU",
+      "sales": 7.2,
+      "orders": 4,
+      "discount": 4.6
+    }
+  ],
+  "active_branches": 21,
+  "brand": "CAF",
+  "date": "2026-05-03",
+  "_v": 13
+}
