@@ -1,0 +1,136 @@
+{
+  "day_total": 8851.19,
+  "day_orders": 2879,
+  "branches": [
+    {
+      "name": "Kaifan",
+      "sales": 952.694,
+      "orders": 341,
+      "discount": 76.256
+    },
+    {
+      "name": "SabahSalem",
+      "sales": 812.959,
+      "orders": 248,
+      "discount": 52.041
+    },
+    {
+      "name": "Alnasser",
+      "sales": 720.517,
+      "orders": 242,
+      "discount": 54.584
+    },
+    {
+      "name": "Qurain",
+      "sales": 700.43,
+      "orders": 225,
+      "discount": 34.27
+    },
+    {
+      "name": "JahraGate",
+      "sales": 653.421,
+      "orders": 199,
+      "discount": 25.079
+    },
+    {
+      "name": "Jabriya",
+      "sales": 642.049,
+      "orders": 200,
+      "discount": 338.05
+    },
+    {
+      "name": "360Mall",
+      "sales": 591.991,
+      "orders": 214,
+      "discount": 46.409
+    },
+    {
+      "name": "Salmiya",
+      "sales": 548.66,
+      "orders": 164,
+      "discount": 49.99
+    },
+    {
+      "name": "TheLane",
+      "sales": 509.246,
+      "orders": 162,
+      "discount": 39.755
+    },
+    {
+      "name": "Marina",
+      "sales": 496.15,
+      "orders": 186,
+      "discount": 53.25
+    },
+    {
+      "name": "Daralshifa",
+      "sales": 427.8,
+      "orders": 136,
+      "discount": 18.25
+    },
+    {
+      "name": "Crystal",
+      "sales": 406.524,
+      "orders": 121,
+      "discount": 18.899
+    },
+    {
+      "name": "Warehousemall",
+      "sales": 268.31,
+      "orders": 102,
+      "discount": 11.49
+    },
+    {
+      "name": "Qortuba",
+      "sales": 239.286,
+      "orders": 75,
+      "discount": 19.315
+    },
+    {
+      "name": "KhiranMall",
+      "sales": 233.634,
+      "orders": 75,
+      "discount": 11.166
+    },
+    {
+      "name": "SabahHospital",
+      "sales": 198.761,
+      "orders": 79,
+      "discount": 6.84
+    },
+    {
+      "name": "Roastry",
+      "sales": 144.0,
+      "orders": 1,
+      "discount": 0.0
+    },
+    {
+      "name": "Alkout",
+      "sales": 125.4,
+      "orders": 46,
+      "discount": 8.2
+    },
+    {
+      "name": "AIU",
+      "sales": 83.8,
+      "orders": 52,
+      "discount": 11.65
+    },
+    {
+      "name": "Catering&Events",
+      "sales": 80.0,
+      "orders": 1,
+      "discount": 117.0
+    },
+    {
+      "name": "AUM",
+      "sales": 15.558,
+      "orders": 10,
+      "discount": 17.042
+    }
+  ],
+  "active_branches": 21,
+  "brand": "CAF",
+  "date": "2026-05-12",
+  "_v": 13
+}
