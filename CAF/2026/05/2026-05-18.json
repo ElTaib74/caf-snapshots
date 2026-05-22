@@ -1,0 +1,142 @@
+{
+  "day_total": 9092.026,
+  "day_orders": 3063,
+  "branches": [
+    {
+      "name": "SabahSalem",
+      "sales": 885.426,
+      "orders": 271,
+      "discount": 30.725
+    },
+    {
+      "name": "Kaifan",
+      "sales": 837.235,
+      "orders": 304,
+      "discount": 60.165
+    },
+    {
+      "name": "Alnasser",
+      "sales": 648.881,
+      "orders": 216,
+      "discount": 56.52
+    },
+    {
+      "name": "Qurain",
+      "sales": 645.305,
+      "orders": 224,
+      "discount": 25.145
+    },
+    {
+      "name": "Jabriya",
+      "sales": 643.95,
+      "orders": 214,
+      "discount": 94.25
+    },
+    {
+      "name": "JahraGate",
+      "sales": 580.511,
+      "orders": 172,
+      "discount": 22.489
+    },
+    {
+      "name": "Event 4",
+      "sales": 534.83,
+      "orders": 192,
+      "discount": 29.02
+    },
+    {
+      "name": "360Mall",
+      "sales": 527.32,
+      "orders": 189,
+      "discount": 34.38
+    },
+    {
+      "name": "Marina",
+      "sales": 501.05,
+      "orders": 185,
+      "discount": 47.45
+    },
+    {
+      "name": "TheLane",
+      "sales": 468.993,
+      "orders": 155,
+      "discount": 20.707
+    },
+    {
+      "name": "Salmiya",
+      "sales": 409.263,
+      "orders": 126,
+      "discount": 56.038
+    },
+    {
+      "name": "Daralshifa",
+      "sales": 367.22,
+      "orders": 127,
+      "discount": 14.63
+    },
+    {
+      "name": "Event 5",
+      "sales": 356.94,
+      "orders": 165,
+      "discount": 39.66
+    },
+    {
+      "name": "Crystal",
+      "sales": 335.479,
+      "orders": 103,
+      "discount": 31.522
+    },
+    {
+      "name": "KhiranMall",
+      "sales": 305.82,
+      "orders": 82,
+      "discount": 14.63
+    },
+    {
+      "name": "Warehousemall",
+      "sales": 305.31,
+      "orders": 99,
+      "discount": 35.14
+    },
+    {
+      "name": "Qortuba",
+      "sales": 256.023,
+      "orders": 78,
+      "discount": 11.278
+    },
+    {
+      "name": "Roastry",
+      "sales": 151.23,
+      "orders": 2,
+      "discount": 0.0
+    },
+    {
+      "name": "SabahHospital",
+      "sales": 120.15,
+      "orders": 58,
+      "discount": 2.95
+    },
+    {
+      "name": "Alkout",
+      "sales": 116.8,
+      "orders": 47,
+      "discount": 2.9
+    },
+    {
+      "name": "AUM",
+      "sales": 52.04,
+      "orders": 32,
+      "discount": 27.111
+    },
+    {
+      "name": "AIU",
+      "sales": 42.25,
+      "orders": 22,
+      "discount": 10.75
+    }
+  ],
+  "active_branches": 22,
+  "brand": "CAF",
+  "date": "2026-05-18",
+  "_v": 18
+}
