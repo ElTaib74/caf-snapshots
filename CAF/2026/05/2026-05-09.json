@@ -117,7 +117,7 @@
       "discount": 0.0
     },
     {
-      "name": "Events4",
+      "name": "Event 4",
       "sales": 9.8,
       "orders": 5,
       "discount": 0.0
@@ -126,5 +126,5 @@
   "active_branches": 20,
   "brand": "CAF",
   "date": "2026-05-09",
-  "_v": 13
+  "_v": 18
 }
