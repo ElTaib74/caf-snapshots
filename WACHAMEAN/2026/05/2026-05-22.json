@@ -1,11 +1,48 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-05-23T08:05:08.032069+03:00",
-  "generated_by": "api_refresh",
+  "generated_at": "2026-05-23T08:11:00.017480+03:00",
+  "generated_by": "scheduler",
   "brand": "WACHAMEAN",
   "date": "2026-05-22",
   "is_closed": false,
   "data": {
+    "today": {
+      "day_total": 281.225,
+      "day_orders": 60,
+      "branches": [
+        {
+          "name": "Qortuba",
+          "sales": 113.1,
+          "orders": 17,
+          "discount": 0.0
+        },
+        {
+          "name": "Ardiya",
+          "sales": 85.0,
+          "orders": 21,
+          "discount": 3.0
+        },
+        {
+          "name": "Qurain Kitchen Cloud",
+          "sales": 60.85,
+          "orders": 16,
+          "discount": 0.0
+        },
+        {
+          "name": "HAP - Qurain Kitchen Cloud",
+          "sales": 17.35,
+          "orders": 4,
+          "discount": 12.65
+        },
+        {
+          "name": "HAP - Qortuba",
+          "sales": 4.925,
+          "orders": 2,
+          "discount": 4.925
+        }
+      ],
+      "active_branches": 5
+    },
     "totals": {
       "mtd_total": 45066.46,
       "ytd_total": 386690.163,
@@ -91,8 +128,7 @@
           "ytd": 3079.984,
           "yesterday": 0.0
         }
-      },
-      "_v": 18
+      }
     },
     "week": {
       "trend": [
