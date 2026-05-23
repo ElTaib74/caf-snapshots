@@ -13,7 +13,7 @@
           "orders": 39
         },
         "Dine IN": {
-          "sales": 712.7,
+          "sales": 708.8,
           "orders": 252
         },
         "Pick UP": {
@@ -100,13 +100,13 @@
       "orders": 229,
       "discount": 32.65,
       "order_types": {
-        "Dine IN": {
-          "sales": 549.1,
-          "orders": 186
-        },
         "Pick UP": {
           "sales": 118.15,
           "orders": 43
+        },
+        "Dine IN": {
+          "sales": 543.3,
+          "orders": 186
         }
       }
     },
@@ -141,16 +141,16 @@
           "orders": 68
         },
         "Delivery": {
-          "sales": 413.2,
+          "sales": 409.3,
           "orders": 113
-        },
-        "Take Out": {
-          "sales": 2.45,
-          "orders": 1
         },
         "Pick UP": {
           "sales": 19.925,
           "orders": 6
+        },
+        "Take Out": {
+          "sales": 2.45,
+          "orders": 1
         },
         "Vthru Pickup": {
           "sales": 4.3,
@@ -165,7 +165,7 @@
       "discount": 45.75,
       "order_types": {
         "Dine IN": {
-          "sales": 228.65,
+          "sales": 224.2,
           "orders": 80
         },
         "Drive Thru": {
@@ -173,7 +173,7 @@
           "orders": 52
         },
         "Delivery": {
-          "sales": 222.45,
+          "sales": 219.0,
           "orders": 55
         },
         "Pick UP": {
@@ -189,7 +189,7 @@
       "discount": 45.615,
       "order_types": {
         "Delivery": {
-          "sales": 351.7,
+          "sales": 342.8,
           "orders": 101
         },
         "Dine IN": {
@@ -209,7 +209,7 @@
       "discount": 42.746,
       "order_types": {
         "Dine IN": {
-          "sales": 211.6,
+          "sales": 209.35,
           "orders": 67
         },
         "Delivery": {
@@ -217,7 +217,7 @@
           "orders": 41
         },
         "Drive Thru": {
-          "sales": 180.604,
+          "sales": 177.642,
           "orders": 66
         },
         "Pick UP": {
@@ -233,15 +233,15 @@
       "discount": 43.161,
       "order_types": {
         "Drive Thru": {
-          "sales": 192.95,
+          "sales": 176.75,
           "orders": 74
         },
         "Dine IN": {
-          "sales": 115.2,
+          "sales": 108.85,
           "orders": 35
         },
         "Delivery": {
-          "sales": 211.52,
+          "sales": 191.87,
           "orders": 49
         },
         "Pick UP": {
@@ -257,7 +257,7 @@
       "discount": 27.307,
       "order_types": {
         "Dine IN": {
-          "sales": 419.7,
+          "sales": 416.0,
           "orders": 142
         },
         "Pick UP": {
@@ -301,7 +301,7 @@
           "orders": 2
         },
         "Pick UP": {
-          "sales": 67.75,
+          "sales": 61.85,
           "orders": 24
         },
         "Car Service": {
@@ -317,7 +317,7 @@
       "discount": 23.45,
       "order_types": {
         "Dine IN": {
-          "sales": 217.4,
+          "sales": 215.4,
           "orders": 60
         }
       }
@@ -355,6 +355,10 @@
         "Delivery": {
           "sales": 95.25,
           "orders": 10
+        },
+        "Pick UP": {
+          "sales": 0.0,
+          "orders": 0
         }
       }
     },
@@ -406,5 +410,5 @@
   "active_branches": 20,
   "brand": "CAF",
   "date": "2026-05-09",
-  "_v": 19
+  "_v": 20
 }
