@@ -1,51 +1,130 @@
 {
   "day_total": 2937.9,
-  "day_orders": 557,
+  "day_orders": 528,
   "branches": [
     {
       "name": "360 Mall",
       "sales": 951.05,
-      "orders": 198,
-      "discount": 0.0
+      "orders": 188,
+      "discount": 4.296,
+      "order_types": {
+        "Dine IN": {
+          "sales": 946.85,
+          "orders": 186
+        },
+        "Pick UP": {
+          "sales": 1.9,
+          "orders": 1
+        },
+        "Drive Thru": {
+          "sales": 2.3,
+          "orders": 1
+        }
+      }
     },
     {
       "name": "Qortuba",
       "sales": 646.2,
-      "orders": 103,
-      "discount": 0.0
+      "orders": 98,
+      "discount": 3.036,
+      "order_types": {
+        "Delivery": {
+          "sales": 587.75,
+          "orders": 91
+        },
+        "Dine IN": {
+          "sales": 49.8,
+          "orders": 5
+        },
+        "Pick UP": {
+          "sales": 8.65,
+          "orders": 2
+        }
+      }
     },
     {
       "name": "Khiran Mall",
       "sales": 420.0,
-      "orders": 86,
-      "discount": 0.0
+      "orders": 79,
+      "discount": 74.338,
+      "order_types": {
+        "Delivery": {
+          "sales": 132.2,
+          "orders": 17
+        },
+        "Dine IN": {
+          "sales": 286.85,
+          "orders": 61
+        },
+        "Vthru Pickup": {
+          "sales": 0.95,
+          "orders": 1
+        }
+      }
     },
     {
       "name": "Ardiya",
       "sales": 370.6,
-      "orders": 74,
-      "discount": 0.0
+      "orders": 69,
+      "discount": 20.984,
+      "order_types": {
+        "Delivery": {
+          "sales": 359.9,
+          "orders": 68
+        },
+        "Dine IN": {
+          "sales": 10.7,
+          "orders": 1
+        }
+      }
     },
     {
       "name": "Qurain Kitchen Cloud",
       "sales": 280.05,
-      "orders": 50,
-      "discount": 0.0
+      "orders": 48,
+      "discount": 1.328,
+      "order_types": {
+        "Delivery": {
+          "sales": 275.3,
+          "orders": 47
+        },
+        "Pick UP": {
+          "sales": 4.75,
+          "orders": 1
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
     },
     {
       "name": "HAP - Qurain Kitchen Cloud",
       "sales": 175.15,
       "orders": 25,
-      "discount": 0.0
+      "discount": 8.25,
+      "order_types": {
+        "Delivery": {
+          "sales": 175.15,
+          "orders": 25
+        }
+      }
     },
     {
       "name": "HAP - Qortuba",
       "sales": 94.85,
       "orders": 21,
-      "discount": 0.0
+      "discount": 87.85,
+      "order_types": {
+        "Delivery": {
+          "sales": 94.85,
+          "orders": 21
+        }
+      }
     }
   ],
   "active_branches": 7,
   "brand": "WACHAMEAN",
-  "date": "2026-05-08"
+  "date": "2026-05-08",
+  "_v": 20
 }
