@@ -1,0 +1,142 @@
+{
+  "day_total": 3041.675,
+  "day_orders": 489,
+  "branches": [
+    {
+      "name": "360 Mall",
+      "sales": 879.6,
+      "orders": 167,
+      "discount": 3.648,
+      "order_types": {
+        "Dine IN": {
+          "sales": 878.7,
+          "orders": 166
+        },
+        "Delivery": {
+          "sales": 0.9,
+          "orders": 1
+        }
+      }
+    },
+    {
+      "name": "Qortuba",
+      "sales": 662.05,
+      "orders": 93,
+      "discount": 52.38,
+      "order_types": {
+        "Delivery": {
+          "sales": 635.2,
+          "orders": 86
+        },
+        "Vthru Pickup": {
+          "sales": 9.1,
+          "orders": 2
+        },
+        "Dine IN": {
+          "sales": 12.85,
+          "orders": 3
+        },
+        "Pick UP": {
+          "sales": 4.9,
+          "orders": 2
+        }
+      }
+    },
+    {
+      "name": "Khiran Mall",
+      "sales": 459.45,
+      "orders": 69,
+      "discount": 2.472,
+      "order_types": {
+        "Dine IN": {
+          "sales": 233.4,
+          "orders": 46
+        },
+        "Delivery": {
+          "sales": 224.05,
+          "orders": 22
+        },
+        "Vthru Pickup": {
+          "sales": 2.0,
+          "orders": 1
+        }
+      }
+    },
+    {
+      "name": "Ardiya",
+      "sales": 447.4,
+      "orders": 65,
+      "discount": 19.876,
+      "order_types": {
+        "Delivery": {
+          "sales": 447.4,
+          "orders": 65
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "Qurain Kitchen Cloud",
+      "sales": 362.95,
+      "orders": 55,
+      "discount": 0.0,
+      "order_types": {
+        "Delivery": {
+          "sales": 362.95,
+          "orders": 55
+        }
+      }
+    },
+    {
+      "name": "HAP - Qurain Kitchen Cloud",
+      "sales": 129.175,
+      "orders": 22,
+      "discount": 46.575,
+      "order_types": {
+        "Delivery": {
+          "sales": 129.175,
+          "orders": 22
+        }
+      }
+    },
+    {
+      "name": "The Lane",
+      "sales": 94.85,
+      "orders": 16,
+      "discount": 1.74,
+      "order_types": {
+        "Delivery": {
+          "sales": 53.3,
+          "orders": 7
+        },
+        "Dine IN": {
+          "sales": 34.05,
+          "orders": 6
+        },
+        "Pick UP": {
+          "sales": 7.5,
+          "orders": 3
+        }
+      }
+    },
+    {
+      "name": "HAP - The Lane",
+      "sales": 6.2,
+      "orders": 2,
+      "discount": 3.6,
+      "order_types": {
+        "Delivery": {
+          "sales": 6.2,
+          "orders": 2
+        }
+      }
+    }
+  ],
+  "active_branches": 8,
+  "brand": "WACHAMEAN",
+  "date": "2026-05-01",
+  "_v": 20
+}
