@@ -1,0 +1,150 @@
+{
+  "day_total": 2165.825,
+  "day_orders": 395,
+  "branches": [
+    {
+      "name": "360 Mall",
+      "sales": 579.4,
+      "orders": 112,
+      "discount": 3.616,
+      "order_types": {
+        "Dine IN": {
+          "sales": 579.4,
+          "orders": 112
+        }
+      }
+    },
+    {
+      "name": "Qortuba",
+      "sales": 529.35,
+      "orders": 89,
+      "discount": 6.48,
+      "order_types": {
+        "Delivery": {
+          "sales": 503.35,
+          "orders": 83
+        },
+        "Pick UP": {
+          "sales": 9.65,
+          "orders": 4
+        },
+        "Dine IN": {
+          "sales": 12.65,
+          "orders": 1
+        },
+        "Vthru Pickup": {
+          "sales": 3.7,
+          "orders": 1
+        }
+      }
+    },
+    {
+      "name": "Qurain Kitchen Cloud",
+      "sales": 293.65,
+      "orders": 61,
+      "discount": 3.0,
+      "order_types": {
+        "Delivery": {
+          "sales": 285.8,
+          "orders": 60
+        },
+        "Pick UP": {
+          "sales": 7.85,
+          "orders": 1
+        }
+      }
+    },
+    {
+      "name": "Ardiya",
+      "sales": 264.4,
+      "orders": 48,
+      "discount": 14.472,
+      "order_types": {
+        "Delivery": {
+          "sales": 264.4,
+          "orders": 48
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "Khiran Mall",
+      "sales": 249.5,
+      "orders": 37,
+      "discount": 2.32,
+      "order_types": {
+        "Delivery": {
+          "sales": 96.25,
+          "orders": 10
+        },
+        "Dine IN": {
+          "sales": 148.1,
+          "orders": 25
+        },
+        "Pick UP": {
+          "sales": 0.45,
+          "orders": 1
+        },
+        "Drive Thru": {
+          "sales": 4.7,
+          "orders": 1
+        }
+      }
+    },
+    {
+      "name": "The Lane",
+      "sales": 130.85,
+      "orders": 24,
+      "discount": 21.66,
+      "order_types": {
+        "Delivery": {
+          "sales": 41.15,
+          "orders": 7
+        },
+        "Dine IN": {
+          "sales": 62.5,
+          "orders": 12
+        },
+        "Pick UP": {
+          "sales": 27.2,
+          "orders": 5
+        }
+      }
+    },
+    {
+      "name": "HAP - Qurain Kitchen Cloud",
+      "sales": 107.675,
+      "orders": 21,
+      "discount": 44.975,
+      "order_types": {
+        "Delivery": {
+          "sales": 104.875,
+          "orders": 20
+        },
+        "Pick UP": {
+          "sales": 2.8,
+          "orders": 1
+        }
+      }
+    },
+    {
+      "name": "HAP - The Lane",
+      "sales": 11.0,
+      "orders": 3,
+      "discount": 7.15,
+      "order_types": {
+        "Delivery": {
+          "sales": 11.0,
+          "orders": 3
+        }
+      }
+    }
+  ],
+  "active_branches": 8,
+  "brand": "WACHAMEAN",
+  "date": "2026-05-02",
+  "_v": 20
+}
