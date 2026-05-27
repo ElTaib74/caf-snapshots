@@ -1,56 +1,60 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-05-27T08:05:07.794221+03:00",
-  "generated_by": "api_refresh",
+  "generated_at": "2026-05-27T08:10:48.589069+03:00",
+  "generated_by": "scheduler",
   "brand": "WACHAMEAN",
   "date": "2026-05-26",
   "is_closed": false,
   "data": {
     "today": {
-      "day_total": 130.875,
-      "day_orders": 21,
+      "day_total": 344.425,
+      "day_orders": 61,
       "branches": [
         {
-          "name": "Qortuba",
-          "sales": 58.3,
-          "orders": 9,
+          "name": "Qurain Kitchen Cloud",
+          "sales": 129.4,
+          "orders": 21,
           "discount": 0.0,
           "order_types": {
-            "Pick UP": {
-              "sales": 6.65,
-              "orders": 1
-            },
             "Delivery": {
-              "sales": 46.6,
-              "orders": 7
+              "sales": 125.9,
+              "orders": 20
+            },
+            "Car Service": {
+              "sales": 3.5,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Qortuba",
+          "sales": 124.6,
+          "orders": 22,
+          "discount": 0.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 100.2,
+              "orders": 18
             },
             "Dine IN": {
-              "sales": 5.05,
-              "orders": 1
+              "sales": 12.7,
+              "orders": 2
+            },
+            "Pick UP": {
+              "sales": 11.7,
+              "orders": 2
             }
           }
         },
         {
           "name": "Ardiya",
-          "sales": 48.1,
-          "orders": 7,
+          "sales": 75.4,
+          "orders": 13,
           "discount": 0.0,
           "order_types": {
             "Delivery": {
-              "sales": 48.1,
-              "orders": 7
-            }
-          }
-        },
-        {
-          "name": "Qurain Kitchen Cloud",
-          "sales": 13.2,
-          "orders": 2,
-          "discount": 0.0,
-          "order_types": {
-            "Delivery": {
-              "sales": 13.2,
-              "orders": 2
+              "sales": 75.4,
+              "orders": 13
             }
           }
         },
@@ -68,13 +72,13 @@
         },
         {
           "name": "HAP - Qortuba",
-          "sales": 3.5,
-          "orders": 1,
-          "discount": 3.5,
+          "sales": 7.25,
+          "orders": 3,
+          "discount": 5.25,
           "order_types": {
             "Delivery": {
-              "sales": 3.5,
-              "orders": 1
+              "sales": 7.25,
+              "orders": 3
             }
           }
         }
@@ -166,8 +170,7 @@
           "ytd": 3714.235,
           "yesterday": 0.0
         }
-      },
-      "_v": 18
+      }
     },
     "week": {
       "trend": [
