@@ -1,11 +1,262 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-05-30T08:00:35.984763+03:00",
-  "generated_by": "api_refresh",
+  "generated_at": "2026-05-30T08:10:34.794767+03:00",
+  "generated_by": "scheduler",
   "brand": "CAF",
   "date": "2026-05-29",
   "is_closed": false,
   "data": {
+    "today": {
+      "day_total": 1487.75,
+      "day_orders": 458,
+      "branches": [
+        {
+          "name": "JahraGate",
+          "sales": 293.35,
+          "orders": 90,
+          "discount": 12.0,
+          "order_types": {
+            "Dine IN": {
+              "sales": 40.9,
+              "orders": 16
+            },
+            "Delivery": {
+              "sales": 237.95,
+              "orders": 68
+            },
+            "Pick UP": {
+              "sales": 14.5,
+              "orders": 6
+            }
+          }
+        },
+        {
+          "name": "Qurain",
+          "sales": 230.1,
+          "orders": 77,
+          "discount": 28.4,
+          "order_types": {
+            "Dine IN": {
+              "sales": 30.05,
+              "orders": 8
+            },
+            "Drive Thru": {
+              "sales": 93.65,
+              "orders": 41
+            },
+            "Delivery": {
+              "sales": 104.45,
+              "orders": 27
+            },
+            "Pick UP": {
+              "sales": 1.95,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Kaifan",
+          "sales": 167.75,
+          "orders": 53,
+          "discount": 14.25,
+          "order_types": {
+            "Dine IN": {
+              "sales": 103.7,
+              "orders": 32
+            },
+            "Delivery": {
+              "sales": 61.6,
+              "orders": 20
+            },
+            "Pick UP": {
+              "sales": 2.45,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Alnasser",
+          "sales": 153.35,
+          "orders": 39,
+          "discount": 42.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 145.95,
+              "orders": 37
+            },
+            "Dine IN": {
+              "sales": 4.1,
+              "orders": 1
+            },
+            "Car Service": {
+              "sales": 3.3,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Jabriya",
+          "sales": 134.5,
+          "orders": 48,
+          "discount": 23.25,
+          "order_types": {
+            "Delivery": {
+              "sales": 82.05,
+              "orders": 26
+            },
+            "Dine IN": {
+              "sales": 31.65,
+              "orders": 15
+            },
+            "Drive Thru": {
+              "sales": 20.8,
+              "orders": 7
+            }
+          }
+        },
+        {
+          "name": "Salmiya",
+          "sales": 124.05,
+          "orders": 40,
+          "discount": 15.55,
+          "order_types": {
+            "Drive Thru": {
+              "sales": 50.5,
+              "orders": 14
+            },
+            "Delivery": {
+              "sales": 22.0,
+              "orders": 8
+            },
+            "Dine IN": {
+              "sales": 51.55,
+              "orders": 18
+            }
+          }
+        },
+        {
+          "name": "SabahSalem",
+          "sales": 116.95,
+          "orders": 40,
+          "discount": 32.85,
+          "order_types": {
+            "Delivery": {
+              "sales": 88.15,
+              "orders": 27
+            },
+            "Drive Thru": {
+              "sales": 13.2,
+              "orders": 7
+            },
+            "Dine IN": {
+              "sales": 12.95,
+              "orders": 5
+            },
+            "Pick UP": {
+              "sales": 2.65,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "TheLane",
+          "sales": 115.45,
+          "orders": 33,
+          "discount": 25.3,
+          "order_types": {
+            "Dine IN": {
+              "sales": 6.7,
+              "orders": 2
+            },
+            "Delivery": {
+              "sales": 73.85,
+              "orders": 21
+            },
+            "Drive Thru": {
+              "sales": 34.9,
+              "orders": 10
+            }
+          }
+        },
+        {
+          "name": "KhiranMall",
+          "sales": 114.9,
+          "orders": 22,
+          "discount": 6.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 108.15,
+              "orders": 20
+            },
+            "Pick UP": {
+              "sales": 3.9,
+              "orders": 1
+            },
+            "Dine IN": {
+              "sales": 2.85,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Marina",
+          "sales": 19.4,
+          "orders": 8,
+          "discount": 0.0,
+          "order_types": {
+            "Dine IN": {
+              "sales": 19.4,
+              "orders": 8
+            }
+          }
+        },
+        {
+          "name": "SabahHospital",
+          "sales": 13.05,
+          "orders": 5,
+          "discount": 6.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 6.95,
+              "orders": 2
+            },
+            "Take Out": {
+              "sales": 6.1,
+              "orders": 3
+            }
+          }
+        },
+        {
+          "name": "360Mall",
+          "sales": 3.15,
+          "orders": 2,
+          "discount": 1.45,
+          "order_types": {
+            "Pick UP": {
+              "sales": 0.0,
+              "orders": 0
+            },
+            "Dine IN": {
+              "sales": 3.15,
+              "orders": 2
+            }
+          }
+        },
+        {
+          "name": "Daralshifa",
+          "sales": 1.75,
+          "orders": 1,
+          "discount": 0.0,
+          "order_types": {
+            "Pick UP": {
+              "sales": 1.75,
+              "orders": 1
+            }
+          }
+        }
+      ],
+      "active_branches": 13
+    },
     "totals": {
       "mtd_total": 303282.477,
       "ytd_total": 1395757.828,
@@ -156,8 +407,7 @@
           "ytd": 4135.1,
           "yesterday": 0.0
         }
-      },
-      "_v": 18
+      }
     },
     "week": {
       "trend": [
