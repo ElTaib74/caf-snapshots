@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "5f7ca10fd867",
+    "username": "abdo",
+    "password_hash": "$2b$12$HelJAubspjcy0ngtYn2OEOY7kcP9WdaXf4OwSEeHQmt5migfeY.QO",
+    "requested_at": "2026-05-31T09:48:24Z",
+    "notes": null
+  }
+]
