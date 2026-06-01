@@ -1,16 +1,53 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-01T08:05:07.129967+03:00",
-  "generated_by": "api_refresh",
+  "generated_at": "2026-06-01T08:10:48.952139+03:00",
+  "generated_by": "scheduler",
   "brand": "WACHAMEAN",
   "date": "2026-05-31",
   "is_closed": false,
   "data": {
     "today": {
-      "day_total": 0.0,
-      "day_orders": 0,
-      "branches": [],
-      "active_branches": 0
+      "day_total": 204.65,
+      "day_orders": 43,
+      "branches": [
+        {
+          "name": "Ardiya",
+          "sales": 93.85,
+          "orders": 20,
+          "discount": 0.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 93.85,
+              "orders": 20
+            }
+          }
+        },
+        {
+          "name": "Qortuba",
+          "sales": 86.55,
+          "orders": 17,
+          "discount": 0.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 86.55,
+              "orders": 17
+            }
+          }
+        },
+        {
+          "name": "HAP - Qortuba",
+          "sales": 24.25,
+          "orders": 6,
+          "discount": 0.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 24.25,
+              "orders": 6
+            }
+          }
+        }
+      ],
+      "active_branches": 3
     },
     "totals": {
       "mtd_total": 67591.21,
@@ -97,8 +134,7 @@
           "ytd": 3765.4,
           "yesterday": 85.05
         }
-      },
-      "_v": 18
+      }
     },
     "week": {
       "trend": [
