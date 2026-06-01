@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-01T08:10:35.738856+03:00",
+  "generated_at": "2026-06-01T08:15:34.881973+03:00",
   "generated_by": "scheduler",
   "brand": "CAF",
   "date": "2026-05-31",
   "is_closed": false,
   "data": {
     "today": {
-      "day_total": 1051.392,
-      "day_orders": 365,
+      "day_total": 1079.092,
+      "day_orders": 374,
       "branches": [
         {
           "name": "Qurain",
@@ -36,13 +36,13 @@
         },
         {
           "name": "JahraGate",
-          "sales": 218.56,
-          "orders": 61,
+          "sales": 233.76,
+          "orders": 65,
           "discount": 0.99,
           "order_types": {
             "Delivery": {
-              "sales": 153.61,
-              "orders": 40
+              "sales": 168.81,
+              "orders": 44
             },
             "Dine IN": {
               "sales": 39.25,
@@ -104,13 +104,13 @@
         },
         {
           "name": "TheLane",
-          "sales": 80.35,
-          "orders": 28,
+          "sales": 82.3,
+          "orders": 29,
           "discount": 0.0,
           "order_types": {
             "Drive Thru": {
-              "sales": 42.55,
-              "orders": 16
+              "sales": 44.5,
+              "orders": 17
             },
             "Delivery": {
               "sales": 36.25,
@@ -160,17 +160,17 @@
         },
         {
           "name": "SabahSalem",
-          "sales": 47.35,
-          "orders": 21,
+          "sales": 54.6,
+          "orders": 23,
           "discount": 4.3,
           "order_types": {
+            "Delivery": {
+              "sales": 15.85,
+              "orders": 4
+            },
             "Drive Thru": {
               "sales": 20.0,
               "orders": 10
-            },
-            "Delivery": {
-              "sales": 8.6,
-              "orders": 2
             },
             "Pick UP": {
               "sales": 2.65,
@@ -240,13 +240,25 @@
         },
         {
           "name": "Daralshifa",
-          "sales": 3.89,
-          "orders": 3,
+          "sales": 4.64,
+          "orders": 4,
           "discount": 1.11,
           "order_types": {
             "Pick UP": {
-              "sales": 3.89,
-              "orders": 3
+              "sales": 4.64,
+              "orders": 4
+            }
+          }
+        },
+        {
+          "name": "Warehousemall",
+          "sales": 2.55,
+          "orders": 1,
+          "discount": 0.0,
+          "order_types": {
+            "Dine IN": {
+              "sales": 2.55,
+              "orders": 1
             }
           }
         },
@@ -275,7 +287,7 @@
           }
         }
       ],
-      "active_branches": 15
+      "active_branches": 16
     },
     "totals": {
       "mtd_total": 330284.365,
