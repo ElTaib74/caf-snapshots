@@ -1,29 +1,81 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-06T08:05:06.038766+03:00",
-  "generated_by": "api_refresh",
+  "generated_at": "2026-06-06T08:10:40.531892+03:00",
+  "generated_by": "scheduler",
   "brand": "WACHAMEAN",
   "date": "2026-06-05",
   "is_closed": false,
   "data": {
     "today": {
-      "day_total": 46.4,
-      "day_orders": 9,
+      "day_total": 445.425,
+      "day_orders": 90,
       "branches": [
         {
-          "name": "Ardiya",
-          "sales": 46.4,
-          "orders": 9,
-          "discount": 3.0,
+          "name": "Qortuba",
+          "sales": 225.55,
+          "orders": 42,
+          "discount": 9.0,
           "order_types": {
             "Delivery": {
-              "sales": 46.4,
-              "orders": 9
+              "sales": 225.55,
+              "orders": 42
+            }
+          }
+        },
+        {
+          "name": "Ardiya",
+          "sales": 127.0,
+          "orders": 27,
+          "discount": 6.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 124.5,
+              "orders": 26
+            },
+            "Pick UP": {
+              "sales": 2.5,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Qurain Kitchen Cloud",
+          "sales": 78.1,
+          "orders": 16,
+          "discount": 0.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 78.1,
+              "orders": 16
+            }
+          }
+        },
+        {
+          "name": "HAP - Qurain Kitchen Cloud",
+          "sales": 11.225,
+          "orders": 4,
+          "discount": 9.125,
+          "order_types": {
+            "Delivery": {
+              "sales": 11.225,
+              "orders": 4
+            }
+          }
+        },
+        {
+          "name": "HAP - Qortuba",
+          "sales": 3.55,
+          "orders": 1,
+          "discount": 1.55,
+          "order_types": {
+            "Delivery": {
+              "sales": 3.55,
+              "orders": 1
             }
           }
         }
       ],
-      "active_branches": 1
+      "active_branches": 5
     },
     "totals": {
       "mtd_total": 11613.362,
@@ -110,8 +162,7 @@
           "ytd": 3079.984,
           "yesterday": 0.0
         }
-      },
-      "_v": 18
+      }
     },
     "week": {
       "trend": [
