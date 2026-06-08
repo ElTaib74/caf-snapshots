@@ -1,0 +1,118 @@
+{
+  "day_total": 1429.1,
+  "day_orders": 309,
+  "branches": [
+    {
+      "name": "Qortuba",
+      "sales": 436.35,
+      "orders": 79,
+      "discount": 38.852,
+      "order_types": {
+        "Pick UP": {
+          "sales": 6.85,
+          "orders": 4
+        },
+        "Delivery": {
+          "sales": 405.45,
+          "orders": 69
+        },
+        "Dine IN": {
+          "sales": 21.55,
+          "orders": 5
+        },
+        "Vthru Pickup": {
+          "sales": 2.5,
+          "orders": 1
+        }
+      }
+    },
+    {
+      "name": "360 Mall",
+      "sales": 298.95,
+      "orders": 71,
+      "discount": 3.12,
+      "order_types": {
+        "Dine IN": {
+          "sales": 298.95,
+          "orders": 71
+        }
+      }
+    },
+    {
+      "name": "Ardiya",
+      "sales": 254.15,
+      "orders": 59,
+      "discount": 20.51,
+      "order_types": {
+        "Delivery": {
+          "sales": 254.15,
+          "orders": 59
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "Qurain Kitchen Cloud",
+      "sales": 209.4,
+      "orders": 42,
+      "discount": 30.906,
+      "order_types": {
+        "Delivery": {
+          "sales": 209.4,
+          "orders": 42
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "HAP - Qortuba",
+      "sales": 97.825,
+      "orders": 23,
+      "discount": 71.525,
+      "order_types": {
+        "Delivery": {
+          "sales": 97.825,
+          "orders": 23
+        }
+      }
+    },
+    {
+      "name": "HAP - Qurain Kitchen Cloud",
+      "sales": 76.625,
+      "orders": 24,
+      "discount": 55.775,
+      "order_types": {
+        "Delivery": {
+          "sales": 76.625,
+          "orders": 24
+        }
+      }
+    },
+    {
+      "name": "Khiran Mall",
+      "sales": 55.8,
+      "orders": 11,
+      "discount": 1.824,
+      "order_types": {
+        "Dine IN": {
+          "sales": 45.1,
+          "orders": 8
+        },
+        "Delivery": {
+          "sales": 10.7,
+          "orders": 3
+        }
+      }
+    }
+  ],
+  "active_branches": 7,
+  "brand": "WACHAMEAN",
+  "date": "2026-06-07",
+  "_v": 20
+}
