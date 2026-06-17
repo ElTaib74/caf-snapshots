@@ -1,258 +1,110 @@
 {
-  "schema_version": 2,
-  "generated_at": "2026-06-10T08:11:01.431032+03:00",
-  "generated_by": "scheduler",
-  "brand": "WACHAMEAN",
-  "date": "2026-06-09",
-  "is_closed": false,
-  "data": {
-    "today": {
-      "day_total": 154.475,
-      "day_orders": 35,
-      "branches": [
-        {
-          "name": "Qortuba",
-          "sales": 81.9,
-          "orders": 14,
-          "discount": 0.0,
-          "order_types": {
-            "Delivery": {
-              "sales": 81.9,
-              "orders": 14
-            }
-          }
+  "day_total": 1949.225,
+  "day_orders": 405,
+  "branches": [
+    {
+      "name": "Qortuba",
+      "sales": 541.65,
+      "orders": 99,
+      "discount": 18.236,
+      "order_types": {
+        "Delivery": {
+          "sales": 507.75,
+          "orders": 94
         },
-        {
-          "name": "Ardiya",
-          "sales": 27.85,
-          "orders": 8,
-          "discount": 0.0,
-          "order_types": {
-            "Delivery": {
-              "sales": 27.85,
-              "orders": 8
-            }
-          }
+        "Pick UP": {
+          "sales": 19.25,
+          "orders": 3
         },
-        {
-          "name": "HAP - Qurain Kitchen Cloud",
-          "sales": 25.275,
-          "orders": 6,
-          "discount": 12.525,
-          "order_types": {
-            "Delivery": {
-              "sales": 25.275,
-              "orders": 6
-            }
-          }
-        },
-        {
-          "name": "Qurain Kitchen Cloud",
-          "sales": 14.0,
-          "orders": 5,
-          "discount": 0.0,
-          "order_types": {
-            "Delivery": {
-              "sales": 14.0,
-              "orders": 5
-            }
-          }
-        },
-        {
-          "name": "HAP - Qortuba",
-          "sales": 5.45,
-          "orders": 2,
-          "discount": 5.45,
-          "order_types": {
-            "Delivery": {
-              "sales": 5.45,
-              "orders": 2
-            }
-          }
-        }
-      ],
-      "active_branches": 5
-    },
-    "totals": {
-      "mtd_total": 18764.137,
-      "ytd_total": 427979.05,
-      "yest_total": 1750.1,
-      "branch_totals": {
-        "The Lane": {
-          "mtd": 0.0,
-          "ytd": 20441.941,
-          "yesterday": 0.0
-        },
-        "HAP - Shuwaikh": {
-          "mtd": 0.0,
-          "ytd": 3714.235,
-          "yesterday": 0.0
-        },
-        "Qortuba": {
-          "mtd": 5053.55,
-          "ytd": 76104.372,
-          "yesterday": 435.9
-        },
-        "Salwa Cloud Kitchen": {
-          "mtd": 0.0,
-          "ytd": 13588.85,
-          "yesterday": 0.0
-        },
-        "Alsalam Co-op": {
-          "mtd": 0.0,
-          "ytd": 40587.705,
-          "yesterday": 0.0
-        },
-        "Qurain Kitchen Cloud": {
-          "mtd": 2651.4,
-          "ytd": 47414.04,
-          "yesterday": 345.65
-        },
-        "HAP - Alsalam Co-op": {
-          "mtd": 0.0,
-          "ytd": 8472.057,
-          "yesterday": 0.0
-        },
-        "HAP - The Lane": {
-          "mtd": 0.0,
-          "ytd": 3079.984,
-          "yesterday": 0.0
-        },
-        "Shuwaikh": {
-          "mtd": 0.0,
-          "ytd": 19249.464,
-          "yesterday": 0.0
-        },
-        "HAP - Qortuba": {
-          "mtd": 819.475,
-          "ytd": 4584.875,
-          "yesterday": 65.0
-        },
-        "360 Mall": {
-          "mtd": 5474.287,
-          "ytd": 73521.87,
-          "yesterday": 469.05
-        },
-        "Ardiya": {
-          "mtd": 2683.45,
-          "ytd": 41675.915,
-          "yesterday": 259.55
-        },
-        "Khiran Mall": {
-          "mtd": 1363.25,
-          "ytd": 25196.777,
-          "yesterday": 120.5
-        },
-        "Jahra": {
-          "mtd": 0.0,
-          "ytd": 35128.095,
-          "yesterday": 0.0
-        },
-        "HAP - Qurain Kitchen Cloud": {
-          "mtd": 718.725,
-          "ytd": 8230.367,
-          "yesterday": 54.45
-        },
-        "HAP - Jahra": {
-          "mtd": 0.0,
-          "ytd": 6988.503,
-          "yesterday": 0.0
+        "Dine IN": {
+          "sales": 14.65,
+          "orders": 2
         }
       }
     },
-    "week": {
-      "trend": [
-        {
-          "date": "2026-06-03",
-          "label": "Wed",
-          "sales": 2228.85,
-          "orders": 472,
-          "channels": {
-            "dine_in": 1807.925,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 420.925
-          }
-        },
-        {
-          "date": "2026-06-04",
-          "label": "Thu",
-          "sales": 2595.75,
-          "orders": 512,
-          "channels": {
-            "dine_in": 2182.675,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 413.075
-          }
-        },
-        {
-          "date": "2026-06-05",
-          "label": "Fri",
-          "sales": 2812.65,
-          "orders": 533,
-          "channels": {
-            "dine_in": 2337.175,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 475.475
-          }
-        },
-        {
-          "date": "2026-06-06",
-          "label": "Sat",
-          "sales": 2022.35,
-          "orders": 414,
-          "channels": {
-            "dine_in": 1685.4,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 336.95
-          }
-        },
-        {
-          "date": "2026-06-07",
-          "label": "Sun",
-          "sales": 1429.1,
-          "orders": 341,
-          "channels": {
-            "dine_in": 1143.075,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 286.025
-          }
-        },
-        {
-          "date": "2026-06-08",
-          "label": "Mon",
-          "sales": 1750.1,
-          "orders": 384,
-          "channels": {
-            "dine_in": 1350.0,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 400.1
-          }
-        },
-        {
-          "date": "2026-06-09",
-          "label": "Tue",
-          "sales": 1949.225,
-          "orders": 436,
-          "channels": {
-            "dine_in": 1591.15,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 358.075
-          }
+    {
+      "name": "360 Mall",
+      "sales": 469.3,
+      "orders": 100,
+      "discount": 2.968,
+      "order_types": {
+        "Dine IN": {
+          "sales": 469.3,
+          "orders": 100
         }
-      ],
-      "weekly_channels": {
-        "dine_in": 12097.4,
-        "talabat": 0.0,
-        "keeta": 0.0,
-        "others": 2690.625
+      }
+    },
+    {
+      "name": "Qurain Kitchen Cloud",
+      "sales": 266.85,
+      "orders": 55,
+      "discount": 19.35,
+      "order_types": {
+        "Delivery": {
+          "sales": 266.85,
+          "orders": 55
+        }
+      }
+    },
+    {
+      "name": "Ardiya",
+      "sales": 247.85,
+      "orders": 66,
+      "discount": 47.072,
+      "order_types": {
+        "Delivery": {
+          "sales": 247.85,
+          "orders": 66
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "Khiran Mall",
+      "sales": 207.4,
+      "orders": 30,
+      "discount": 1.74,
+      "order_types": {
+        "Dine IN": {
+          "sales": 132.3,
+          "orders": 21
+        },
+        "Delivery": {
+          "sales": 75.1,
+          "orders": 9
+        }
+      }
+    },
+    {
+      "name": "HAP - Qortuba",
+      "sales": 124.95,
+      "orders": 36,
+      "discount": 90.4,
+      "order_types": {
+        "Delivery": {
+          "sales": 124.95,
+          "orders": 36
+        }
+      }
+    },
+    {
+      "name": "HAP - Qurain Kitchen Cloud",
+      "sales": 91.225,
+      "orders": 19,
+      "discount": 64.325,
+      "order_types": {
+        "Delivery": {
+          "sales": 91.225,
+          "orders": 19
+        }
       }
     }
-  }
+  ],
+  "active_branches": 7,
+  "brand": "WACHAMEAN",
+  "date": "2026-06-09",
+  "_v": 20
 }
