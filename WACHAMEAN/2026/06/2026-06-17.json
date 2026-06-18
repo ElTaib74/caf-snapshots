@@ -1,0 +1,110 @@
+{
+  "day_total": 1722.55,
+  "day_orders": 333,
+  "branches": [
+    {
+      "name": "Qortuba",
+      "sales": 522.2,
+      "orders": 87,
+      "discount": 3.236,
+      "order_types": {
+        "Delivery": {
+          "sales": 512.35,
+          "orders": 85
+        },
+        "Dine IN": {
+          "sales": 9.85,
+          "orders": 2
+        }
+      }
+    },
+    {
+      "name": "360 Mall",
+      "sales": 336.45,
+      "orders": 74,
+      "discount": 3.648,
+      "order_types": {
+        "Dine IN": {
+          "sales": 336.45,
+          "orders": 74
+        }
+      }
+    },
+    {
+      "name": "Qurain Kitchen Cloud",
+      "sales": 319.5,
+      "orders": 56,
+      "discount": 3.136,
+      "order_types": {
+        "Delivery": {
+          "sales": 319.5,
+          "orders": 56
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "Ardiya",
+      "sales": 237.85,
+      "orders": 56,
+      "discount": 2.54,
+      "order_types": {
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        },
+        "Delivery": {
+          "sales": 237.85,
+          "orders": 56
+        }
+      }
+    },
+    {
+      "name": "Khiran Mall",
+      "sales": 184.3,
+      "orders": 28,
+      "discount": 1.824,
+      "order_types": {
+        "Dine IN": {
+          "sales": 59.0,
+          "orders": 19
+        },
+        "Delivery": {
+          "sales": 125.3,
+          "orders": 9
+        }
+      }
+    },
+    {
+      "name": "HAP - Qortuba",
+      "sales": 62.025,
+      "orders": 18,
+      "discount": 59.675,
+      "order_types": {
+        "Delivery": {
+          "sales": 62.025,
+          "orders": 18
+        }
+      }
+    },
+    {
+      "name": "HAP - Qurain Kitchen Cloud",
+      "sales": 60.225,
+      "orders": 14,
+      "discount": 58.525,
+      "order_types": {
+        "Delivery": {
+          "sales": 60.225,
+          "orders": 14
+        }
+      }
+    }
+  ],
+  "active_branches": 7,
+  "brand": "WACHAMEAN",
+  "date": "2026-06-17",
+  "_v": 20
+}
