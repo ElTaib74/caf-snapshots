@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-21T08:10:37.620871+03:00",
-  "generated_by": "scheduler",
+  "generated_at": "2026-06-21T08:11:01.429253+03:00",
+  "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-06-20",
   "is_closed": false,
@@ -471,7 +471,8 @@
           "ytd": 57443.35,
           "yesterday": 317.489
         }
-      }
+      },
+      "_v": 18
     },
     "week": {
       "trend": [
