@@ -1,98 +1,114 @@
 {
-  "schema_version": 2,
-  "generated_at": "2026-06-23T01:33:57.012678+03:00",
-  "generated_by": "api_refresh",
+  "day_total": 1884.375,
+  "day_orders": 367,
+  "branches": [
+    {
+      "name": "Qortuba",
+      "sales": 502.75,
+      "orders": 85,
+      "discount": 11.556,
+      "order_types": {
+        "Delivery": {
+          "sales": 472.3,
+          "orders": 82
+        },
+        "Dine IN": {
+          "sales": 27.2,
+          "orders": 2
+        },
+        "Pick UP": {
+          "sales": 3.25,
+          "orders": 1
+        }
+      }
+    },
+    {
+      "name": "360 Mall",
+      "sales": 486.75,
+      "orders": 97,
+      "discount": 3.584,
+      "order_types": {
+        "Dine IN": {
+          "sales": 486.75,
+          "orders": 97
+        }
+      }
+    },
+    {
+      "name": "Ardiya",
+      "sales": 341.3,
+      "orders": 74,
+      "discount": 8.472,
+      "order_types": {
+        "Delivery": {
+          "sales": 341.3,
+          "orders": 74
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "Qurain Kitchen Cloud",
+      "sales": 309.15,
+      "orders": 55,
+      "discount": 17.472,
+      "order_types": {
+        "Delivery": {
+          "sales": 309.15,
+          "orders": 55
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "HAP - Qurain Kitchen Cloud",
+      "sales": 100.125,
+      "orders": 23,
+      "discount": 88.625,
+      "order_types": {
+        "Delivery": {
+          "sales": 100.125,
+          "orders": 23
+        }
+      }
+    },
+    {
+      "name": "HAP - Qortuba",
+      "sales": 77.6,
+      "orders": 16,
+      "discount": 44.3,
+      "order_types": {
+        "Delivery": {
+          "sales": 77.6,
+          "orders": 16
+        }
+      }
+    },
+    {
+      "name": "Khiran Mall",
+      "sales": 66.7,
+      "orders": 17,
+      "discount": 4.944,
+      "order_types": {
+        "Dine IN": {
+          "sales": 40.85,
+          "orders": 12
+        },
+        "Delivery": {
+          "sales": 25.85,
+          "orders": 5
+        }
+      }
+    }
+  ],
+  "active_branches": 7,
   "brand": "WACHAMEAN",
   "date": "2026-06-22",
-  "is_closed": false,
-  "data": {
-    "totals": {
-      "mtd_total": 47705.662,
-      "ytd_total": 456920.575,
-      "yest_total": 1754.35,
-      "branch_totals": {
-        "HAP - Qurain Kitchen Cloud": {
-          "mtd": 1564.675,
-          "ytd": 9076.317,
-          "yesterday": 69.35
-        },
-        "Alsalam Co-op": {
-          "mtd": 0.0,
-          "ytd": 40587.705,
-          "yesterday": 0.0
-        },
-        "Salwa Cloud Kitchen": {
-          "mtd": 0.0,
-          "ytd": 13588.85,
-          "yesterday": 0.0
-        },
-        "HAP - Jahra": {
-          "mtd": 0.0,
-          "ytd": 6988.503,
-          "yesterday": 0.0
-        },
-        "HAP - Alsalam Co-op": {
-          "mtd": 0.0,
-          "ytd": 8472.057,
-          "yesterday": 0.0
-        },
-        "Khiran Mall": {
-          "mtd": 4186.5,
-          "ytd": 28020.027,
-          "yesterday": 83.05
-        },
-        "Ardiya": {
-          "mtd": 7280.05,
-          "ytd": 46272.515,
-          "yesterday": 381.85
-        },
-        "The Lane": {
-          "mtd": 0.0,
-          "ytd": 20441.941,
-          "yesterday": 0.0
-        },
-        "Qortuba": {
-          "mtd": 13283.95,
-          "ytd": 84334.772,
-          "yesterday": 496.05
-        },
-        "360 Mall": {
-          "mtd": 11945.687,
-          "ytd": 79993.27,
-          "yesterday": 272.5
-        },
-        "Jahra": {
-          "mtd": 0.0,
-          "ytd": 35128.095,
-          "yesterday": 0.0
-        },
-        "HAP - The Lane": {
-          "mtd": 0.0,
-          "ytd": 3079.984,
-          "yesterday": 0.0
-        },
-        "Shuwaikh": {
-          "mtd": 0.0,
-          "ytd": 19249.464,
-          "yesterday": 0.0
-        },
-        "HAP - Shuwaikh": {
-          "mtd": 0.0,
-          "ytd": 3714.235,
-          "yesterday": 0.0
-        },
-        "Qurain Kitchen Cloud": {
-          "mtd": 7314.3,
-          "ytd": 52076.94,
-          "yesterday": 359.95
-        },
-        "HAP - Qortuba": {
-          "mtd": 2130.5,
-          "ytd": 5895.9,
-          "yesterday": 91.6
-        }
-      },
-      "_v": 18
-    }
-  }
+  "_v": 20
 }
