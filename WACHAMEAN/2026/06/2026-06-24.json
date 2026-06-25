@@ -1,11 +1,70 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-06-25T08:05:10.706934+03:00",
-  "generated_by": "api_refresh",
+  "generated_at": "2026-06-25T08:11:23.682907+03:00",
+  "generated_by": "scheduler",
   "brand": "WACHAMEAN",
   "date": "2026-06-24",
   "is_closed": false,
   "data": {
+    "today": {
+      "day_total": 374.425,
+      "day_orders": 83,
+      "branches": [
+        {
+          "name": "Ardiya",
+          "sales": 151.1,
+          "orders": 31,
+          "discount": 6.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 151.1,
+              "orders": 31
+            }
+          }
+        },
+        {
+          "name": "Qortuba",
+          "sales": 108.8,
+          "orders": 27,
+          "discount": 0.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 101.8,
+              "orders": 25
+            },
+            "Dine IN": {
+              "sales": 7.0,
+              "orders": 2
+            }
+          }
+        },
+        {
+          "name": "Qurain Kitchen Cloud",
+          "sales": 100.6,
+          "orders": 21,
+          "discount": 0.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 100.6,
+              "orders": 21
+            }
+          }
+        },
+        {
+          "name": "HAP - Qortuba",
+          "sales": 13.925,
+          "orders": 4,
+          "discount": 13.925,
+          "order_types": {
+            "Delivery": {
+              "sales": 13.925,
+              "orders": 4
+            }
+          }
+        }
+      ],
+      "active_branches": 4
+    },
     "totals": {
       "mtd_total": 51596.237,
       "ytd_total": 460811.15,
@@ -91,8 +150,101 @@
           "ytd": 20441.941,
           "yesterday": 0.0
         }
-      },
-      "_v": 18
+      }
+    },
+    "week": {
+      "trend": [
+        {
+          "date": "2026-06-18",
+          "label": "Thu",
+          "sales": 2585.85,
+          "orders": 494,
+          "channels": {
+            "dine_in": 2076.075,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 509.775
+          }
+        },
+        {
+          "date": "2026-06-19",
+          "label": "Fri",
+          "sales": 3779.8,
+          "orders": 800,
+          "channels": {
+            "dine_in": 3108.0,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 671.8
+          }
+        },
+        {
+          "date": "2026-06-20",
+          "label": "Sat",
+          "sales": 3231.15,
+          "orders": 735,
+          "channels": {
+            "dine_in": 2583.775,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 647.375
+          }
+        },
+        {
+          "date": "2026-06-21",
+          "label": "Sun",
+          "sales": 1754.35,
+          "orders": 362,
+          "channels": {
+            "dine_in": 1325.05,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 429.3
+          }
+        },
+        {
+          "date": "2026-06-22",
+          "label": "Mon",
+          "sales": 1884.375,
+          "orders": 391,
+          "channels": {
+            "dine_in": 1475.1,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 409.275
+          }
+        },
+        {
+          "date": "2026-06-23",
+          "label": "Tue",
+          "sales": 1875.3,
+          "orders": 397,
+          "channels": {
+            "dine_in": 1572.35,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 302.95
+          }
+        },
+        {
+          "date": "2026-06-24",
+          "label": "Wed",
+          "sales": 2015.275,
+          "orders": 411,
+          "channels": {
+            "dine_in": 1603.75,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 411.525
+          }
+        }
+      ],
+      "weekly_channels": {
+        "dine_in": 13744.1,
+        "talabat": 0.0,
+        "keeta": 0.0,
+        "others": 3382.0
+      }
     }
   }
 }
