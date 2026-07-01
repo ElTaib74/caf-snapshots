@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-01T08:11:10.029691+03:00",
-  "generated_by": "api_refresh",
+  "generated_at": "2026-07-01T08:15:40.280565+03:00",
+  "generated_by": "scheduler",
   "brand": "CAF",
   "date": "2026-06-30",
   "is_closed": false,
   "data": {
     "today": {
-      "day_total": 955.199,
-      "day_orders": 337,
+      "day_total": 974.514,
+      "day_orders": 345,
       "branches": [
         {
           "name": "Qurain",
@@ -119,26 +119,14 @@
           }
         },
         {
-          "name": "Crystal",
-          "sales": 56.37,
-          "orders": 23,
-          "discount": 4.281,
-          "order_types": {
-            "Dine IN": {
-              "sales": 56.37,
-              "orders": 23
-            }
-          }
-        },
-        {
           "name": "SabahSalem",
-          "sales": 55.31,
-          "orders": 22,
+          "sales": 57.46,
+          "orders": 24,
           "discount": 2.34,
           "order_types": {
             "Drive Thru": {
-              "sales": 44.9,
-              "orders": 17
+              "sales": 47.05,
+              "orders": 19
             },
             "Dine IN": {
               "sales": 7.16,
@@ -151,14 +139,26 @@
           }
         },
         {
+          "name": "Crystal",
+          "sales": 56.37,
+          "orders": 23,
+          "discount": 4.281,
+          "order_types": {
+            "Dine IN": {
+              "sales": 56.37,
+              "orders": 23
+            }
+          }
+        },
+        {
           "name": "Salmiya",
-          "sales": 46.3,
-          "orders": 14,
-          "discount": 0.0,
+          "sales": 47.6,
+          "orders": 15,
+          "discount": 2.65,
           "order_types": {
             "Drive Thru": {
-              "sales": 4.4,
-              "orders": 2
+              "sales": 5.7,
+              "orders": 3
             },
             "Delivery": {
               "sales": 27.35,
@@ -167,6 +167,18 @@
             "Dine IN": {
               "sales": 14.55,
               "orders": 5
+            }
+          }
+        },
+        {
+          "name": "Event 5",
+          "sales": 31.05,
+          "orders": 9,
+          "discount": 0.0,
+          "order_types": {
+            "Take Out": {
+              "sales": 31.05,
+              "orders": 9
             }
           }
         },
@@ -191,26 +203,14 @@
           }
         },
         {
-          "name": "Event 5",
-          "sales": 25.6,
-          "orders": 7,
-          "discount": 0.0,
-          "order_types": {
-            "Take Out": {
-              "sales": 25.6,
-              "orders": 7
-            }
-          }
-        },
-        {
           "name": "Alnasser",
-          "sales": 18.05,
-          "orders": 5,
+          "sales": 21.65,
+          "orders": 6,
           "discount": 0.0,
           "order_types": {
             "Dine IN": {
-              "sales": 14.55,
-              "orders": 3
+              "sales": 18.15,
+              "orders": 4
             },
             "Delivery": {
               "sales": 3.5,
@@ -220,17 +220,29 @@
         },
         {
           "name": "Daralshifa",
-          "sales": 14.05,
-          "orders": 5,
-          "discount": 0.0,
+          "sales": 15.715,
+          "orders": 6,
+          "discount": 0.585,
           "order_types": {
+            "Take Out": {
+              "sales": 6.565,
+              "orders": 4
+            },
             "Dine IN": {
               "sales": 9.15,
               "orders": 2
-            },
-            "Take Out": {
-              "sales": 4.9,
-              "orders": 3
+            }
+          }
+        },
+        {
+          "name": "Qortuba",
+          "sales": 9.7,
+          "orders": 2,
+          "discount": 0.0,
+          "order_types": {
+            "Dine IN": {
+              "sales": 9.7,
+              "orders": 2
             }
           }
         },
@@ -267,18 +279,6 @@
             "Take Out": {
               "sales": 6.4,
               "orders": 4
-            }
-          }
-        },
-        {
-          "name": "Qortuba",
-          "sales": 4.55,
-          "orders": 1,
-          "discount": 0.0,
-          "order_types": {
-            "Dine IN": {
-              "sales": 4.55,
-              "orders": 1
             }
           }
         },
@@ -459,8 +459,7 @@
           "ytd": 120075.192,
           "yesterday": 722.989
         }
-      },
-      "_v": 18
+      }
     },
     "week": {
       "trend": [
