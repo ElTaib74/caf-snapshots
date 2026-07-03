@@ -1,38 +1,9 @@
 {
-  "schema_version": 2,
-  "generated_at": "2026-07-03T20:54:15.807005+03:00",
-  "generated_by": "api_refresh",
+  "day_total": 0.0,
+  "day_orders": 0,
+  "branches": [],
+  "active_branches": 0,
   "brand": "KOLATA",
   "date": "2026-07-02",
-  "is_closed": false,
-  "data": {
-    "totals": {
-      "mtd_total": 1216.562,
-      "ytd_total": 37868.797,
-      "yest_total": 550.675,
-      "branch_totals": {
-        "Qurain": {
-          "mtd": 334.85,
-          "ytd": 10873.4,
-          "yesterday": 158.05
-        },
-        "Salmiya": {
-          "mtd": 137.5,
-          "ytd": 6356.5,
-          "yesterday": 92.5
-        },
-        "Catering&Events": {
-          "mtd": 426.212,
-          "ytd": 11607.721,
-          "yesterday": 178.625
-        },
-        "Khaitan": {
-          "mtd": 318.0,
-          "ytd": 9031.175,
-          "yesterday": 121.5
-        }
-      },
-      "_v": 18
-    }
-  }
+  "_v": 20
 }
