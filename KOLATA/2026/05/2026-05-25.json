@@ -1,0 +1,58 @@
+{
+  "day_total": 641.438,
+  "day_orders": 144,
+  "branches": [
+    {
+      "name": "Qurain",
+      "sales": 233.4,
+      "orders": 32,
+      "discount": 35.4,
+      "order_types": {
+        "Delivery": {
+          "sales": 233.4,
+          "orders": 32
+        }
+      }
+    },
+    {
+      "name": "Catering&Events",
+      "sales": 206.238,
+      "orders": 83,
+      "discount": 0.963,
+      "order_types": {
+        "Pickup": {
+          "sales": 206.238,
+          "orders": 83
+        }
+      }
+    },
+    {
+      "name": "Salmiya",
+      "sales": 122.55,
+      "orders": 16,
+      "discount": 27.45,
+      "order_types": {
+        "Delivery": {
+          "sales": 122.55,
+          "orders": 16
+        }
+      }
+    },
+    {
+      "name": "Khaitan",
+      "sales": 79.25,
+      "orders": 13,
+      "discount": 59.75,
+      "order_types": {
+        "Delivery": {
+          "sales": 79.25,
+          "orders": 13
+        }
+      }
+    }
+  ],
+  "active_branches": 4,
+  "brand": "KOLATA",
+  "date": "2026-05-25",
+  "_v": 20
+}
