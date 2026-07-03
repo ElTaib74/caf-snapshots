@@ -1,0 +1,46 @@
+{
+  "day_total": 249.0,
+  "day_orders": 48,
+  "branches": [
+    {
+      "name": "Khaitan",
+      "sales": 110.0,
+      "orders": 16,
+      "discount": 24.0,
+      "order_types": {
+        "Delivery": {
+          "sales": 110.0,
+          "orders": 16
+        }
+      }
+    },
+    {
+      "name": "Qurain",
+      "sales": 98.5,
+      "orders": 24,
+      "discount": 4.5,
+      "order_types": {
+        "Delivery": {
+          "sales": 98.5,
+          "orders": 24
+        }
+      }
+    },
+    {
+      "name": "Salmiya",
+      "sales": 40.5,
+      "orders": 8,
+      "discount": 34.5,
+      "order_types": {
+        "Delivery": {
+          "sales": 40.5,
+          "orders": 8
+        }
+      }
+    }
+  ],
+  "active_branches": 3,
+  "brand": "KOLATA",
+  "date": "2026-05-10",
+  "_v": 20
+}
