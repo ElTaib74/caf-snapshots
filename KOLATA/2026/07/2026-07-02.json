@@ -1,132 +1,62 @@
 {
-  "schema_version": 2,
-  "generated_at": "2026-07-03T20:19:16.027765+03:00",
-  "generated_by": "api_refresh",
-  "brand": "KOLATA",
-  "date": "2026-07-02",
-  "is_closed": false,
-  "data": {
-    "totals": {
-      "mtd_total": 1216.562,
-      "ytd_total": 37868.797,
-      "yest_total": 550.675,
-      "branch_totals": {
-        "Catering&Events": {
-          "mtd": 426.212,
-          "ytd": 11607.721,
-          "yesterday": 178.625
+  "day_total": 665.888,
+  "day_orders": 150,
+  "branches": [
+    {
+      "name": "Catering&Events",
+      "sales": 247.588,
+      "orders": 77,
+      "discount": 21.513,
+      "order_types": {
+        "Pickup": {
+          "sales": 242.988,
+          "orders": 76
         },
-        "Salmiya": {
-          "mtd": 137.5,
-          "ytd": 6356.5,
-          "yesterday": 92.5
-        },
-        "Khaitan": {
-          "mtd": 318.0,
-          "ytd": 9031.175,
-          "yesterday": 121.5
-        },
-        "Qurain": {
-          "mtd": 334.85,
-          "ytd": 10873.4,
-          "yesterday": 158.05
+        "Dine On": {
+          "sales": 4.6,
+          "orders": 1
         }
-      },
-      "_v": 18
+      }
     },
-    "week": {
-      "trend": [
-        {
-          "date": "2026-06-26",
-          "label": "Fri",
-          "sales": 1132.563,
-          "orders": 253,
-          "channels": {
-            "dine_in": 1132.563,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-06-27",
-          "label": "Sat",
-          "sales": 752.613,
-          "orders": 204,
-          "channels": {
-            "dine_in": 752.613,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-06-28",
-          "label": "Sun",
-          "sales": 636.725,
-          "orders": 193,
-          "channels": {
-            "dine_in": 636.725,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-06-29",
-          "label": "Mon",
-          "sales": 671.3,
-          "orders": 168,
-          "channels": {
-            "dine_in": 671.3,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-06-30",
-          "label": "Tue",
-          "sales": 590.663,
-          "orders": 159,
-          "channels": {
-            "dine_in": 590.663,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-07-01",
-          "label": "Wed",
-          "sales": 550.675,
-          "orders": 130,
-          "channels": {
-            "dine_in": 550.675,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-07-02",
-          "label": "Thu",
-          "sales": 665.887,
-          "orders": 158,
-          "channels": {
-            "dine_in": 665.887,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
+    {
+      "name": "Khaitan",
+      "sales": 196.5,
+      "orders": 29,
+      "discount": 40.0,
+      "order_types": {
+        "Delivery": {
+          "sales": 196.5,
+          "orders": 29
         }
-      ],
-      "weekly_channels": {
-        "dine_in": 5000.426,
-        "talabat": 0.0,
-        "keeta": 0.0,
-        "others": 0.0
+      }
+    },
+    {
+      "name": "Qurain",
+      "sales": 176.8,
+      "orders": 35,
+      "discount": 26.0,
+      "order_types": {
+        "Delivery": {
+          "sales": 176.8,
+          "orders": 35
+        }
+      }
+    },
+    {
+      "name": "Salmiya",
+      "sales": 45.0,
+      "orders": 9,
+      "discount": 0.0,
+      "order_types": {
+        "Delivery": {
+          "sales": 45.0,
+          "orders": 9
+        }
       }
     }
-  }
+  ],
+  "active_branches": 4,
+  "brand": "KOLATA",
+  "date": "2026-07-02",
+  "_v": 20
 }
