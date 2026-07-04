@@ -1,0 +1,118 @@
+{
+  "day_total": 2531.4,
+  "day_orders": 419,
+  "branches": [
+    {
+      "name": "Qortuba",
+      "sales": 712.9,
+      "orders": 98,
+      "discount": 3.304,
+      "order_types": {
+        "Delivery": {
+          "sales": 699.9,
+          "orders": 96
+        },
+        "Dine IN": {
+          "sales": 9.5,
+          "orders": 1
+        },
+        "Vthru Pickup": {
+          "sales": 3.5,
+          "orders": 1
+        }
+      }
+    },
+    {
+      "name": "360 Mall",
+      "sales": 502.9,
+      "orders": 101,
+      "discount": 3.752,
+      "order_types": {
+        "Dine IN": {
+          "sales": 502.9,
+          "orders": 101
+        }
+      }
+    },
+    {
+      "name": "Ardiya",
+      "sales": 426.65,
+      "orders": 73,
+      "discount": 0.664,
+      "order_types": {
+        "Delivery": {
+          "sales": 426.65,
+          "orders": 73
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "Qurain Kitchen Cloud",
+      "sales": 381.4,
+      "orders": 61,
+      "discount": 3.052,
+      "order_types": {
+        "Delivery": {
+          "sales": 381.4,
+          "orders": 61
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "HAP - Qurain Kitchen Cloud",
+      "sales": 198.9,
+      "orders": 27,
+      "discount": 0.0,
+      "order_types": {
+        "Delivery": {
+          "sales": 198.9,
+          "orders": 27
+        }
+      }
+    },
+    {
+      "name": "Khiran Mall",
+      "sales": 164.5,
+      "orders": 41,
+      "discount": 2.388,
+      "order_types": {
+        "Dine IN": {
+          "sales": 141.15,
+          "orders": 36
+        },
+        "Delivery": {
+          "sales": 20.85,
+          "orders": 4
+        },
+        "Take Out": {
+          "sales": 2.5,
+          "orders": 1
+        }
+      }
+    },
+    {
+      "name": "HAP - Qortuba",
+      "sales": 144.15,
+      "orders": 18,
+      "discount": 0.0,
+      "order_types": {
+        "Delivery": {
+          "sales": 144.15,
+          "orders": 18
+        }
+      }
+    }
+  ],
+  "active_branches": 7,
+  "brand": "WACHAMEAN",
+  "date": "2026-07-04",
+  "_v": 20
+}
