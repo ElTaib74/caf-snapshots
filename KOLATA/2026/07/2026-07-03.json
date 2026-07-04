@@ -1,66 +1,38 @@
 {
-  "day_total": 722.8,
-  "day_orders": 190,
-  "branches": [
-    {
-      "name": "Catering&Events",
-      "sales": 332.55,
-      "orders": 114,
-      "discount": 0.0,
-      "order_types": {
-        "Pickup": {
-          "sales": 331.8,
-          "orders": 113
-        },
-        "Delivery": {
-          "sales": 0.75,
-          "orders": 1
-        }
-      }
-    },
-    {
-      "name": "Khaitan",
-      "sales": 158.55,
-      "orders": 29,
-      "discount": 31.95,
-      "order_types": {
-        "Delivery": {
-          "sales": 158.55,
-          "orders": 29
-        }
-      }
-    },
-    {
-      "name": "Salmiya",
-      "sales": 124.0,
-      "orders": 21,
-      "discount": 57.5,
-      "order_types": {
-        "Delivery": {
-          "sales": 117.5,
-          "orders": 20
-        },
-        "Pickup": {
-          "sales": 6.5,
-          "orders": 1
-        }
-      }
-    },
-    {
-      "name": "Qurain",
-      "sales": 107.7,
-      "orders": 26,
-      "discount": 0.0,
-      "order_types": {
-        "Delivery": {
-          "sales": 107.7,
-          "orders": 26
-        }
-      }
-    }
-  ],
-  "active_branches": 4,
+  "schema_version": 2,
+  "generated_at": "2026-07-04T09:12:41.528890+03:00",
+  "generated_by": "api_refresh",
   "brand": "KOLATA",
   "date": "2026-07-03",
-  "_v": 20
+  "is_closed": false,
+  "data": {
+    "totals": {
+      "mtd_total": 1939.362,
+      "ytd_total": 38591.597,
+      "yest_total": 665.887,
+      "branch_totals": {
+        "Khaitan": {
+          "mtd": 476.55,
+          "ytd": 9189.725,
+          "yesterday": 196.5
+        },
+        "Qurain": {
+          "mtd": 442.55,
+          "ytd": 10981.1,
+          "yesterday": 176.8
+        },
+        "Catering&Events": {
+          "mtd": 758.762,
+          "ytd": 11940.271,
+          "yesterday": 247.588
+        },
+        "Salmiya": {
+          "mtd": 261.5,
+          "ytd": 6480.5,
+          "yesterday": 45.0
+        }
+      },
+      "_v": 18
+    }
+  }
 }
