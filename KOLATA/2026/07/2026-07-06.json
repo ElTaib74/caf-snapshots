@@ -1,72 +1,38 @@
 {
-  "day_total": 433.5,
-  "day_orders": 118,
-  "branches": [
-    {
-      "name": "Qurain",
-      "sales": 135.8,
-      "orders": 38,
-      "discount": 30.0,
-      "order_types": {
-        "Delivery": {
-          "sales": 135.8,
-          "orders": 38
-        }
-      }
-    },
-    {
-      "name": "Catering&Events",
-      "sales": 118.2,
-      "orders": 44,
-      "discount": 0.0,
-      "order_types": {
-        "Pickup": {
-          "sales": 118.2,
-          "orders": 44
-        }
-      }
-    },
-    {
-      "name": "Khaitan",
-      "sales": 113.5,
-      "orders": 25,
-      "discount": 52.0,
-      "order_types": {
-        "Delivery": {
-          "sales": 113.5,
-          "orders": 25
-        }
-      }
-    },
-    {
-      "name": "Salmiya",
-      "sales": 66.0,
-      "orders": 11,
-      "discount": 13.0,
-      "order_types": {
-        "Delivery": {
-          "sales": 66.0,
-          "orders": 11
-        }
-      }
-    },
-    {
-      "name": "Ardiya",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    },
-    {
-      "name": "CentralKitchen",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    }
-  ],
-  "active_branches": 4,
+  "schema_version": 2,
+  "generated_at": "2026-07-07T12:19:46.761759+03:00",
+  "generated_by": "api_refresh",
   "brand": "KOLATA",
   "date": "2026-07-06",
-  "_v": 20
+  "is_closed": false,
+  "data": {
+    "totals": {
+      "mtd_total": 3291.038,
+      "ytd_total": 39943.272,
+      "yest_total": 387.625,
+      "branch_totals": {
+        "Qurain": {
+          "mtd": 804.35,
+          "ytd": 11342.9,
+          "yesterday": 89.4
+        },
+        "Catering&Events": {
+          "mtd": 1215.137,
+          "ytd": 12396.646,
+          "yesterday": 171.225
+        },
+        "Salmiya": {
+          "mtd": 481.5,
+          "ytd": 6700.5,
+          "yesterday": 41.5
+        },
+        "Khaitan": {
+          "mtd": 790.05,
+          "ytd": 9503.225,
+          "yesterday": 85.5
+        }
+      },
+      "_v": 18
+    }
+  }
 }
