@@ -1,132 +1,72 @@
 {
-  "schema_version": 2,
-  "generated_at": "2026-07-05T13:52:59.655587+03:00",
-  "generated_by": "api_refresh",
+  "day_total": 530.55,
+  "day_orders": 140,
+  "branches": [
+    {
+      "name": "Catering&Events",
+      "sales": 166.95,
+      "orders": 63,
+      "discount": 0.0,
+      "order_types": {
+        "Pickup": {
+          "sales": 166.95,
+          "orders": 63
+        }
+      }
+    },
+    {
+      "name": "Qurain",
+      "sales": 136.6,
+      "orders": 33,
+      "discount": 44.0,
+      "order_types": {
+        "Delivery": {
+          "sales": 136.6,
+          "orders": 33
+        }
+      }
+    },
+    {
+      "name": "Khaitan",
+      "sales": 114.5,
+      "orders": 26,
+      "discount": 0.0,
+      "order_types": {
+        "Delivery": {
+          "sales": 114.5,
+          "orders": 26
+        }
+      }
+    },
+    {
+      "name": "Salmiya",
+      "sales": 112.5,
+      "orders": 18,
+      "discount": 0.0,
+      "order_types": {
+        "Delivery": {
+          "sales": 112.5,
+          "orders": 18
+        }
+      }
+    },
+    {
+      "name": "Ardiya",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "CentralKitchen",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    }
+  ],
+  "active_branches": 4,
   "brand": "KOLATA",
   "date": "2026-07-04",
-  "is_closed": false,
-  "data": {
-    "totals": {
-      "mtd_total": 2469.913,
-      "ytd_total": 39122.147,
-      "yest_total": 722.8,
-      "branch_totals": {
-        "Salmiya": {
-          "mtd": 374.0,
-          "ytd": 6593.0,
-          "yesterday": 124.0
-        },
-        "Qurain": {
-          "mtd": 579.15,
-          "ytd": 11117.7,
-          "yesterday": 107.7
-        },
-        "Khaitan": {
-          "mtd": 591.05,
-          "ytd": 9304.225,
-          "yesterday": 158.55
-        },
-        "Catering&Events": {
-          "mtd": 925.712,
-          "ytd": 12107.221,
-          "yesterday": 332.55
-        }
-      },
-      "_v": 18
-    },
-    "week": {
-      "trend": [
-        {
-          "date": "2026-06-28",
-          "label": "Sun",
-          "sales": 636.725,
-          "orders": 193,
-          "channels": {
-            "dine_in": 636.725,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-06-29",
-          "label": "Mon",
-          "sales": 671.3,
-          "orders": 168,
-          "channels": {
-            "dine_in": 671.3,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-06-30",
-          "label": "Tue",
-          "sales": 590.663,
-          "orders": 159,
-          "channels": {
-            "dine_in": 590.663,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-07-01",
-          "label": "Wed",
-          "sales": 550.675,
-          "orders": 130,
-          "channels": {
-            "dine_in": 550.675,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-07-02",
-          "label": "Thu",
-          "sales": 665.887,
-          "orders": 158,
-          "channels": {
-            "dine_in": 665.887,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-07-03",
-          "label": "Fri",
-          "sales": 722.8,
-          "orders": 196,
-          "channels": {
-            "dine_in": 722.8,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        },
-        {
-          "date": "2026-07-04",
-          "label": "Sat",
-          "sales": 530.55,
-          "orders": 147,
-          "channels": {
-            "dine_in": 530.55,
-            "talabat": 0.0,
-            "keeta": 0.0,
-            "others": 0.0
-          }
-        }
-      ],
-      "weekly_channels": {
-        "dine_in": 4368.6,
-        "talabat": 0.0,
-        "keeta": 0.0,
-        "others": 0.0
-      }
-    }
-  }
+  "_v": 20
 }
