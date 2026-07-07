@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-05T08:27:43.343985+03:00",
+  "generated_at": "2026-07-07T15:08:05.548470+03:00",
   "generated_by": "api_refresh",
   "brand": "KOLATA",
   "date": "2026-06-05",
@@ -11,11 +11,6 @@
       "ytd_total": 19825.335,
       "yest_total": 556.388,
       "branch_totals": {
-        "Khaitan": {
-          "mtd": 635.55,
-          "ytd": 4794.225,
-          "yesterday": 131.5
-        },
         "Qurain": {
           "mtd": 728.35,
           "ytd": 6238.45,
@@ -30,6 +25,11 @@
           "mtd": 269.5,
           "ytd": 3915.35,
           "yesterday": 38.5
+        },
+        "Khaitan": {
+          "mtd": 635.55,
+          "ytd": 4794.225,
+          "yesterday": 131.5
         }
       },
       "_v": 18
