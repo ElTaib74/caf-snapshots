@@ -63,7 +63,12 @@
     "active": true,
     "created_at": "2026-07-12T12:03:38Z",
     "last_login": null,
-    "permissions": {},
+    "permissions": {
+      "canSeeHourly": true,
+      "canSeeAnalytics": true,
+      "canSeeFinancials": true,
+      "canSeeDrilldown": true
+    },
     "display_name": "",
     "phone": "",
     "job_title": ""
