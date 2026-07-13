@@ -1,6 +1,6 @@
 {
-  "day_total": 8983.791,
-  "day_orders": 2680,
+  "day_total": 9002.553,
+  "day_orders": 2688,
   "branches": [
     {
       "name": "SabahSalem",
@@ -120,8 +120,8 @@
     },
     {
       "name": "360Mall",
-      "sales": 624.22,
-      "orders": 214,
+      "sales": 626.37,
+      "orders": 215,
       "discount": 34.78,
       "order_types": {
         "Take Out": {
@@ -129,8 +129,8 @@
           "orders": 38
         },
         "Dine IN": {
-          "sales": 516.07,
-          "orders": 175
+          "sales": 518.22,
+          "orders": 176
         },
         "Room Service": {
           "sales": 0.0,
@@ -140,8 +140,8 @@
     },
     {
       "name": "Jabriya",
-      "sales": 591.35,
-      "orders": 193,
+      "sales": 599.35,
+      "orders": 195,
       "discount": 65.15,
       "order_types": {
         "Drive Thru": {
@@ -153,8 +153,8 @@
           "orders": 56
         },
         "Delivery": {
-          "sales": 269.15,
-          "orders": 70
+          "sales": 277.15,
+          "orders": 72
         },
         "Pick UP": {
           "sales": 3.9,
@@ -216,13 +216,13 @@
     },
     {
       "name": "Daralshifa",
-      "sales": 555.14,
-      "orders": 174,
-      "discount": 16.365,
+      "sales": 556.665,
+      "orders": 175,
+      "discount": 16.89,
       "order_types": {
         "Dine IN": {
-          "sales": 209.62,
-          "orders": 66
+          "sales": 211.145,
+          "orders": 67
         },
         "Take Out": {
           "sales": 345.52,
@@ -256,13 +256,13 @@
     },
     {
       "name": "Warehousemall",
-      "sales": 433.8,
-      "orders": 138,
+      "sales": 439.5,
+      "orders": 141,
       "discount": 8.2,
       "order_types": {
         "Dine IN": {
-          "sales": 433.8,
-          "orders": 138
+          "sales": 439.5,
+          "orders": 141
         }
       }
     },
@@ -284,13 +284,13 @@
     },
     {
       "name": "Crystal",
-      "sales": 285.771,
-      "orders": 78,
-      "discount": 20.941,
+      "sales": 287.158,
+      "orders": 79,
+      "discount": 21.404,
       "order_types": {
         "Dine IN": {
-          "sales": 176.083,
-          "orders": 60
+          "sales": 177.47,
+          "orders": 61
         },
         "Take Out": {
           "sales": 1.989,
@@ -377,6 +377,97 @@
           "orders": 0
         }
       }
+    },
+    {
+      "name": "AIU",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "AUM",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "AlassimamallRooftop",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Arena",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Roastry",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Event 4",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Event 5",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Event 6",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Event 7",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Event 8",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Arena M1",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Ardiya",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "KuwaitHospital",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
     }
   ],
   "active_branches": 18,
