@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-13T13:16:21.699190+03:00",
+  "generated_at": "2026-07-13T13:16:43.739944+03:00",
   "generated_by": "api_refresh",
   "brand": "WACHAMEAN",
   "date": "2026-07-11",
@@ -93,6 +93,100 @@
         }
       },
       "_v": 18
+    },
+    "week": {
+      "trend": [
+        {
+          "date": "2026-07-05",
+          "label": "Sun",
+          "sales": 2102.7,
+          "orders": 414,
+          "channels": {
+            "dine_in": 1486.55,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 616.15
+          }
+        },
+        {
+          "date": "2026-07-06",
+          "label": "Mon",
+          "sales": 1932.15,
+          "orders": 408,
+          "channels": {
+            "dine_in": 1496.925,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 435.225
+          }
+        },
+        {
+          "date": "2026-07-07",
+          "label": "Tue",
+          "sales": 2024.2,
+          "orders": 380,
+          "channels": {
+            "dine_in": 1475.775,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 548.425
+          }
+        },
+        {
+          "date": "2026-07-08",
+          "label": "Wed",
+          "sales": 1820.3,
+          "orders": 387,
+          "channels": {
+            "dine_in": 1432.0,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 388.3
+          }
+        },
+        {
+          "date": "2026-07-09",
+          "label": "Thu",
+          "sales": 2512.775,
+          "orders": 466,
+          "channels": {
+            "dine_in": 1996.375,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 516.4
+          }
+        },
+        {
+          "date": "2026-07-10",
+          "label": "Fri",
+          "sales": 2662.7,
+          "orders": 511,
+          "channels": {
+            "dine_in": 2240.575,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 422.125
+          }
+        },
+        {
+          "date": "2026-07-11",
+          "label": "Sat",
+          "sales": 2539.725,
+          "orders": 487,
+          "channels": {
+            "dine_in": 1999.325,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 540.4
+          }
+        }
+      ],
+      "weekly_channels": {
+        "dine_in": 12127.525,
+        "talabat": 0.0,
+        "keeta": 0.0,
+        "others": 3467.025
+      }
     }
   }
 }
