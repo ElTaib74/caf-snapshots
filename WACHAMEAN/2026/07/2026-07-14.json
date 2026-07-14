@@ -1,0 +1,212 @@
+{
+  "day_total": 1682.825,
+  "day_orders": 349,
+  "branches": [
+    {
+      "name": "Qortuba",
+      "sales": 399.05,
+      "orders": 67,
+      "discount": 164.198,
+      "order_types": {
+        "Dine IN": {
+          "sales": 5.05,
+          "orders": 2
+        },
+        "Delivery": {
+          "sales": 394.0,
+          "orders": 65
+        }
+      }
+    },
+    {
+      "name": "360 Mall",
+      "sales": 311.85,
+      "orders": 77,
+      "discount": 676.876,
+      "order_types": {
+        "Dine IN": {
+          "sales": 292.8,
+          "orders": 74
+        },
+        "Delivery": {
+          "sales": 19.05,
+          "orders": 3
+        }
+      }
+    },
+    {
+      "name": "Ardiya",
+      "sales": 294.7,
+      "orders": 74,
+      "discount": 1.808,
+      "order_types": {
+        "Delivery": {
+          "sales": 294.7,
+          "orders": 74
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "Qurain Kitchen Cloud",
+      "sales": 244.1,
+      "orders": 53,
+      "discount": 6.152,
+      "order_types": {
+        "Delivery": {
+          "sales": 244.1,
+          "orders": 53
+        },
+        "Dine IN": {
+          "sales": 0.0,
+          "orders": 0
+        }
+      }
+    },
+    {
+      "name": "HAP - Qurain Kitchen Cloud",
+      "sales": 178.25,
+      "orders": 29,
+      "discount": 61.9,
+      "order_types": {
+        "Delivery": {
+          "sales": 178.25,
+          "orders": 29
+        }
+      }
+    },
+    {
+      "name": "Khiran Mall",
+      "sales": 145.25,
+      "orders": 21,
+      "discount": 1.74,
+      "order_types": {
+        "Delivery": {
+          "sales": 73.05,
+          "orders": 9
+        },
+        "Dine IN": {
+          "sales": 72.2,
+          "orders": 12
+        }
+      }
+    },
+    {
+      "name": "HAP - Qortuba",
+      "sales": 109.625,
+      "orders": 28,
+      "discount": 56.875,
+      "order_types": {
+        "Delivery": {
+          "sales": 109.625,
+          "orders": 28
+        }
+      }
+    },
+    {
+      "name": "The Lane",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "City Tower",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Jahra",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Marina Mall",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Shuwaikh",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Alsalam Co-op",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Salmiya KP",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Salwa Cloud Kitchen",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "Warehouse Mall",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "HAP - The Lane",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "HAP - Alsalam Co-op",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "HAP - Jahra",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "HAP - Shuwaikh",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    },
+    {
+      "name": "HAP-Ardiya",
+      "sales": 0.0,
+      "orders": 0,
+      "discount": 0.0,
+      "order_types": {}
+    }
+  ],
+  "active_branches": 7,
+  "brand": "WACHAMEAN",
+  "date": "2026-07-14",
+  "_v": 20
+}
