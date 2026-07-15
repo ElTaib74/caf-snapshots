@@ -1,24 +1,80 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-15T08:05:08.941787+03:00",
-  "generated_by": "api_refresh",
+  "generated_at": "2026-07-15T08:10:48.276489+03:00",
+  "generated_by": "scheduler",
   "brand": "WACHAMEAN",
   "date": "2026-07-14",
   "is_closed": false,
   "data": {
     "today": {
-      "day_total": 13.55,
-      "day_orders": 5,
+      "day_total": 328.15,
+      "day_orders": 81,
       "branches": [
         {
           "name": "Ardiya",
-          "sales": 13.55,
-          "orders": 5,
+          "sales": 121.6,
+          "orders": 34,
+          "discount": 0.664,
+          "order_types": {
+            "Delivery": {
+              "sales": 121.6,
+              "orders": 34
+            },
+            "Dine IN": {
+              "sales": 0.0,
+              "orders": 0
+            }
+          }
+        },
+        {
+          "name": "Qortuba",
+          "sales": 98.9,
+          "orders": 21,
           "discount": 0.0,
           "order_types": {
             "Delivery": {
-              "sales": 13.55,
-              "orders": 5
+              "sales": 95.45,
+              "orders": 20
+            },
+            "Vthru Pickup": {
+              "sales": 3.45,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Qurain Kitchen Cloud",
+          "sales": 54.75,
+          "orders": 11,
+          "discount": 0.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 54.75,
+              "orders": 11
+            }
+          }
+        },
+        {
+          "name": "HAP - Qurain Kitchen Cloud",
+          "sales": 28.45,
+          "orders": 7,
+          "discount": 26.4,
+          "order_types": {
+            "Delivery": {
+              "sales": 28.45,
+              "orders": 7
+            }
+          }
+        },
+        {
+          "name": "HAP - Qortuba",
+          "sales": 24.45,
+          "orders": 8,
+          "discount": 24.45,
+          "order_types": {
+            "Delivery": {
+              "sales": 24.45,
+              "orders": 8
             }
           }
         },
@@ -58,13 +114,6 @@
           "order_types": {}
         },
         {
-          "name": "Qortuba",
-          "sales": 0.0,
-          "orders": 0,
-          "discount": 0.0,
-          "order_types": {}
-        },
-        {
           "name": "Shuwaikh",
           "sales": 0.0,
           "orders": 0,
@@ -87,13 +136,6 @@
         },
         {
           "name": "Salmiya KP",
-          "sales": 0.0,
-          "orders": 0,
-          "discount": 0.0,
-          "order_types": {}
-        },
-        {
-          "name": "Qurain Kitchen Cloud",
           "sales": 0.0,
           "orders": 0,
           "discount": 0.0,
@@ -142,20 +184,6 @@
           "order_types": {}
         },
         {
-          "name": "HAP - Qurain Kitchen Cloud",
-          "sales": 0.0,
-          "orders": 0,
-          "discount": 0.0,
-          "order_types": {}
-        },
-        {
-          "name": "HAP - Qortuba",
-          "sales": 0.0,
-          "orders": 0,
-          "discount": 0.0,
-          "order_types": {}
-        },
-        {
           "name": "HAP-Ardiya",
           "sales": 0.0,
           "orders": 0,
@@ -163,7 +191,7 @@
           "order_types": {}
         }
       ],
-      "active_branches": 1
+      "active_branches": 5
     },
     "totals": {
       "mtd_total": 31732.845,
@@ -250,8 +278,7 @@
           "ytd": 6988.503,
           "yesterday": 0.0
         }
-      },
-      "_v": 18
+      }
     },
     "week": {
       "trend": [
