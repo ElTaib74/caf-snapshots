@@ -1,0 +1,272 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-07-18T00:03:14.324475+03:00",
+  "generated_by": "scheduler",
+  "brand": "CAF",
+  "date": "2026-07-17",
+  "is_closed": false,
+  "data": {
+    "today": {
+      "day_total": 0.0,
+      "day_orders": 0,
+      "branches": [],
+      "active_branches": 0
+    },
+    "totals": {
+      "mtd_total": 160624.514,
+      "ytd_total": 1874770.186,
+      "yest_total": 8871.725,
+      "branch_totals": {
+        "KuwaitHospital": {
+          "mtd": 0.0,
+          "ytd": 4203.839,
+          "yesterday": 0.0
+        },
+        "Warehousemall": {
+          "mtd": 5676.112,
+          "ytd": 56867.118,
+          "yesterday": 343.81
+        },
+        "SabahSalem": {
+          "mtd": 11875.734,
+          "ytd": 158251.997,
+          "yesterday": 698.8
+        },
+        "AlassimamallRooftop": {
+          "mtd": 0.0,
+          "ytd": 36100.156,
+          "yesterday": 0.0
+        },
+        "Daralshifa": {
+          "mtd": 7741.2,
+          "ytd": 77875.055,
+          "yesterday": 393.385
+        },
+        "Alkout": {
+          "mtd": 2750.981,
+          "ytd": 27902.564,
+          "yesterday": 191.113
+        },
+        "Qurain": {
+          "mtd": 9977.291,
+          "ytd": 130052.483,
+          "yesterday": 543.935
+        },
+        "Arena M1": {
+          "mtd": 946.05,
+          "ytd": 20272.85,
+          "yesterday": 0.0
+        },
+        "Ardiya": {
+          "mtd": 0.0,
+          "ytd": 233.242,
+          "yesterday": 0.0
+        },
+        "Marina": {
+          "mtd": 4762.48,
+          "ytd": 128819.521,
+          "yesterday": 318.45
+        },
+        "KhiranMall": {
+          "mtd": 10239.199,
+          "ytd": 83263.796,
+          "yesterday": 603.125
+        },
+        "Roastry": {
+          "mtd": 5482.442,
+          "ytd": 50573.442,
+          "yesterday": 0.0
+        },
+        "Event 8": {
+          "mtd": 0.0,
+          "ytd": 2338.7,
+          "yesterday": 0.0
+        },
+        "JahraGate": {
+          "mtd": 10297.167,
+          "ytd": 142351.226,
+          "yesterday": 600.735
+        },
+        "360Mall": {
+          "mtd": 10714.452,
+          "ytd": 98777.093,
+          "yesterday": 638.35
+        },
+        "Arena": {
+          "mtd": 0.0,
+          "ytd": 23673.85,
+          "yesterday": 0.0
+        },
+        "Event 6": {
+          "mtd": 47.0,
+          "ytd": 3840.393,
+          "yesterday": 47.0
+        },
+        "Jabriya": {
+          "mtd": 9188.355,
+          "ytd": 64554.27,
+          "yesterday": 581.501
+        },
+        "Salmiya": {
+          "mtd": 6321.752,
+          "ytd": 97999.78,
+          "yesterday": 354.592
+        },
+        "AIU": {
+          "mtd": 1076.0,
+          "ytd": 9194.4,
+          "yesterday": 80.75
+        },
+        "Event 4": {
+          "mtd": 84.5,
+          "ytd": 21757.067,
+          "yesterday": 0.0
+        },
+        "Qortuba": {
+          "mtd": 3808.289,
+          "ytd": 63457.225,
+          "yesterday": 162.4
+        },
+        "Event 7": {
+          "mtd": 0.0,
+          "ytd": 4135.1,
+          "yesterday": 0.0
+        },
+        "Crystal": {
+          "mtd": 7818.084,
+          "ytd": 57669.737,
+          "yesterday": 416.993
+        },
+        "SabahHospital": {
+          "mtd": 2911.077,
+          "ytd": 31578.07,
+          "yesterday": 165.1
+        },
+        "AUM": {
+          "mtd": 1503.044,
+          "ytd": 14447.999,
+          "yesterday": 53.737
+        },
+        "Catering&Events": {
+          "mtd": 13425.5,
+          "ytd": 43662.57,
+          "yesterday": 480.5
+        },
+        "Kaifan": {
+          "mtd": 11647.104,
+          "ytd": 159312.016,
+          "yesterday": 730.119
+        },
+        "Alnasser": {
+          "mtd": 10076.227,
+          "ytd": 140489.737,
+          "yesterday": 621.2
+        },
+        "Event 5": {
+          "mtd": 3475.9,
+          "ytd": 9183.179,
+          "yesterday": 291.8
+        },
+        "TheLane": {
+          "mtd": 8778.571,
+          "ytd": 111931.71,
+          "yesterday": 554.33
+        }
+      }
+    },
+    "week": {
+      "trend": [
+        {
+          "date": "2026-07-11",
+          "label": "Sat",
+          "sales": 8795.823,
+          "orders": 2739,
+          "channels": {
+            "dine_in": 8795.823,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-12",
+          "label": "Sun",
+          "sales": 8515.198,
+          "orders": 2989,
+          "channels": {
+            "dine_in": 8515.198,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-13",
+          "label": "Mon",
+          "sales": 13329.513,
+          "orders": 2902,
+          "channels": {
+            "dine_in": 13329.513,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-14",
+          "label": "Tue",
+          "sales": 8074.273,
+          "orders": 3289,
+          "channels": {
+            "dine_in": 8074.273,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-15",
+          "label": "Wed",
+          "sales": 10360.864,
+          "orders": 2980,
+          "channels": {
+            "dine_in": 10360.864,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-16",
+          "label": "Thu",
+          "sales": 9290.335,
+          "orders": 2981,
+          "channels": {
+            "dine_in": 9290.335,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-17",
+          "label": "Fri",
+          "sales": 9593.309,
+          "orders": 2876,
+          "channels": {
+            "dine_in": 9593.309,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        }
+      ],
+      "weekly_channels": {
+        "dine_in": 67959.315,
+        "talabat": 0.0,
+        "keeta": 0.0,
+        "others": 0.0
+      }
+    }
+  }
+}
