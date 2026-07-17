@@ -5,6 +5,7 @@
     "password_hash": "$2b$12$80YOze60V2bT.tDnnUPh4O3Ui8bxzn4spSctto4DHS/MXT3TjIGRi",
     "role": "super_admin",
     "brand": null,
+    "brands": [],
     "branches": [],
     "active": true,
     "created_at": "2026-05-22T08:34:52Z",
@@ -20,6 +21,7 @@
     "password_hash": "$2b$12$HelJAubspjcy0ngtYn2OEOY7kcP9WdaXf4OwSEeHQmt5migfeY.QO",
     "role": "super_admin",
     "brand": null,
+    "brands": [],
     "branches": [],
     "active": true,
     "created_at": "2026-05-31T09:49:01Z",
@@ -32,6 +34,10 @@
     "password_hash": "$2b$12$Z91iVg9Wvjvt9V0WtosmQeupmgwJdUJ4zijDMwIYA6jS1Ga1FHnIa",
     "role": "brand_manager",
     "brand": null,
+    "brands": [
+      "CAF",
+      "WACHAMEAN"
+    ],
     "branches": [],
     "active": true,
     "created_at": "2026-06-08T07:21:15Z",
@@ -44,6 +50,7 @@
     "password_hash": "$2b$12$5ZP2i.m0OXFqW2xXBjCrlO9/42yhrxULUtqm4.AsnwoecwM5X3emW",
     "role": "viewer",
     "brand": null,
+    "brands": [],
     "branches": [],
     "active": true,
     "created_at": "2026-07-12T06:49:15Z",
@@ -59,6 +66,9 @@
     "password_hash": "$2b$12$QnjDLWqln0bGuVjzMPHb3uVzF6buJYt9cjTU4.Rjst8vZHAuLz2rO",
     "role": "viewer",
     "brand": "WACHAMEAN",
+    "brands": [
+      "WACHAMEAN"
+    ],
     "branches": [],
     "active": true,
     "created_at": "2026-07-12T12:03:38Z",
