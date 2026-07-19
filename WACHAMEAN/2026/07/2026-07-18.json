@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-19T08:11:21.034448+03:00",
-  "generated_by": "scheduler",
+  "generated_at": "2026-07-19T08:11:28.684558+03:00",
+  "generated_by": "api_refresh",
   "brand": "WACHAMEAN",
   "date": "2026-07-18",
   "is_closed": false,
@@ -274,7 +274,8 @@
           "ytd": 3079.984,
           "yesterday": 0.0
         }
-      }
+      },
+      "_v": 18
     },
     "week": {
       "trend": [
