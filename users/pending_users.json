@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "94e120f32edb",
+    "username": "m.abdou@cafcafe.com",
+    "password_hash": "$2b$12$W8N56SRfKeN7uq/WWymnwugYNotXK/7G0P5Kg9f2FJqriRe5/zPru",
+    "requested_at": "2026-07-20T07:05:51Z",
+    "notes": null
+  }
+]
