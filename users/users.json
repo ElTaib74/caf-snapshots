@@ -98,5 +98,21 @@
     "display_name": "",
     "phone": "",
     "job_title": ""
+  },
+  {
+    "id": "e045577454d8",
+    "username": "TheKhaldi",
+    "password_hash": "$2b$12$RQHpjwQBmUbTa97JuVcu8OISojYfpS0MOG4tgm1jeJR3GZ9rhJAq.",
+    "role": "branch_manager",
+    "brand": null,
+    "brands": [],
+    "branches": [],
+    "active": true,
+    "created_at": "2026-07-20T07:50:23Z",
+    "last_login": null,
+    "permissions": {},
+    "display_name": "",
+    "phone": "",
+    "job_title": ""
   }
 ]
