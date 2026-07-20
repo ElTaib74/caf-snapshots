@@ -90,7 +90,8 @@
     "role": "brand_manager",
     "brand": null,
     "brands": [
-      "CAF"
+      "CAF",
+      "WACHAMEAN"
     ],
     "branches": [],
     "active": true,
