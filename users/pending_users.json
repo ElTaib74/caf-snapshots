@@ -5,5 +5,12 @@
     "password_hash": "$2b$12$W8N56SRfKeN7uq/WWymnwugYNotXK/7G0P5Kg9f2FJqriRe5/zPru",
     "requested_at": "2026-07-20T07:05:51Z",
     "notes": null
+  },
+  {
+    "id": "d10bbb75ebc6",
+    "username": "TheKhaldi",
+    "password_hash": "$2b$12$RQHpjwQBmUbTa97JuVcu8OISojYfpS0MOG4tgm1jeJR3GZ9rhJAq.",
+    "requested_at": "2026-07-20T07:11:17Z",
+    "notes": null
   }
 ]
