@@ -82,5 +82,21 @@
     "display_name": "",
     "phone": "",
     "job_title": ""
+  },
+  {
+    "id": "05a6f397f672",
+    "username": "m.abdou@cafcafe.com",
+    "password_hash": "$2b$12$W8N56SRfKeN7uq/WWymnwugYNotXK/7G0P5Kg9f2FJqriRe5/zPru",
+    "role": "brand_manager",
+    "brand": null,
+    "brands": [],
+    "branches": [],
+    "active": true,
+    "created_at": "2026-07-20T07:50:17Z",
+    "last_login": null,
+    "permissions": {},
+    "display_name": "",
+    "phone": "",
+    "job_title": ""
   }
 ]
