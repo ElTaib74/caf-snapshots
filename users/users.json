@@ -127,7 +127,9 @@
     "password_hash": "$2b$12$.yNPauKej8CWRMQDOHEuwe8hdBYGQ.JPjBtGNsDoTiFGKJUZ5y/5a",
     "role": "branch_manager",
     "brand": null,
-    "brands": [],
+    "brands": [
+      "CAF"
+    ],
     "branches": [],
     "active": true,
     "created_at": "2026-07-20T10:45:01Z",
