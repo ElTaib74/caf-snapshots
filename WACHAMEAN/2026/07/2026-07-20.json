@@ -1,11 +1,190 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-21T08:05:08.278624+03:00",
-  "generated_by": "api_refresh",
+  "generated_at": "2026-07-21T08:10:53.397046+03:00",
+  "generated_by": "scheduler",
   "brand": "WACHAMEAN",
   "date": "2026-07-20",
   "is_closed": false,
   "data": {
+    "today": {
+      "day_total": 424.35,
+      "day_orders": 87,
+      "branches": [
+        {
+          "name": "Ardiya",
+          "sales": 157.7,
+          "orders": 30,
+          "discount": 0.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 157.7,
+              "orders": 30
+            }
+          }
+        },
+        {
+          "name": "HAP - Qurain Kitchen Cloud",
+          "sales": 83.3,
+          "orders": 18,
+          "discount": 22.9,
+          "order_types": {
+            "Delivery": {
+              "sales": 83.3,
+              "orders": 18
+            }
+          }
+        },
+        {
+          "name": "Qurain Kitchen Cloud",
+          "sales": 73.6,
+          "orders": 17,
+          "discount": 0.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 73.6,
+              "orders": 17
+            }
+          }
+        },
+        {
+          "name": "Qortuba",
+          "sales": 67.25,
+          "orders": 13,
+          "discount": 0.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 67.25,
+              "orders": 13
+            }
+          }
+        },
+        {
+          "name": "HAP - Qortuba",
+          "sales": 42.5,
+          "orders": 9,
+          "discount": 20.5,
+          "order_types": {
+            "Delivery": {
+              "sales": 42.5,
+              "orders": 9
+            }
+          }
+        },
+        {
+          "name": "The Lane",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "City Tower",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Jahra",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Khiran Mall",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Marina Mall",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Shuwaikh",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Alsalam Co-op",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "360 Mall",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Salmiya KP",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Salwa Cloud Kitchen",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Warehouse Mall",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "HAP - The Lane",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "HAP - Alsalam Co-op",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "HAP - Jahra",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "HAP - Shuwaikh",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "HAP-Ardiya",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        }
+      ],
+      "active_branches": 5
+    },
     "totals": {
       "mtd_total": 43882.225,
       "ytd_total": 518262.986,
@@ -91,8 +270,7 @@
           "ytd": 20441.941,
           "yesterday": 0.0
         }
-      },
-      "_v": 18
+      }
     },
     "week": {
       "trend": [
