@@ -1,533 +1,543 @@
 {
-  "day_total": 9415.358,
-  "day_orders": 2619,
-  "branches": [
-    {
-      "name": "Catering&Events",
-      "sales": 1485.0,
-      "orders": 3,
-      "discount": 315.0,
-      "order_types": {
-        "Delivery": {
-          "sales": 1485.0,
-          "orders": 3
-        }
-      }
-    },
-    {
-      "name": "SabahSalem",
-      "sales": 652.722,
-      "orders": 206,
-      "discount": 37.428,
-      "order_types": {
-        "Drive Thru": {
-          "sales": 230.15,
-          "orders": 89
-        },
-        "Delivery": {
-          "sales": 345.6,
-          "orders": 84
-        },
-        "Dine IN": {
-          "sales": 66.522,
-          "orders": 27
-        },
-        "Take Out": {
-          "sales": 7.3,
-          "orders": 4
-        },
-        "Pick UP": {
-          "sales": 3.15,
-          "orders": 2
-        }
-      }
-    },
-    {
-      "name": "Kaifan",
-      "sales": 643.163,
-      "orders": 213,
-      "discount": 30.938,
-      "order_types": {
-        "Dine IN": {
-          "sales": 439.538,
-          "orders": 145
-        },
-        "Delivery": {
-          "sales": 134.0,
-          "orders": 42
-        },
-        "Take Out": {
-          "sales": 69.625,
-          "orders": 26
-        }
-      }
-    },
-    {
-      "name": "Alnasser",
-      "sales": 599.439,
-      "orders": 180,
-      "discount": 17.311,
-      "order_types": {
-        "Delivery": {
-          "sales": 328.45,
-          "orders": 81
-        },
-        "Dine IN": {
-          "sales": 253.484,
-          "orders": 91
-        },
-        "Vthru Pickup": {
-          "sales": 13.55,
-          "orders": 6
-        },
-        "Take Out": {
-          "sales": 3.955,
-          "orders": 2
-        }
-      }
-    },
-    {
-      "name": "Crystal",
-      "sales": 577.363,
-      "orders": 159,
-      "discount": 32.462,
-      "order_types": {
-        "Dine IN": {
-          "sales": 298.307,
-          "orders": 126
-        },
-        "Delivery": {
-          "sales": 268.202,
-          "orders": 29
-        },
-        "Car Service": {
-          "sales": 4.95,
-          "orders": 1
-        },
-        "Take Out": {
-          "sales": 5.904,
-          "orders": 3
-        }
-      }
-    },
-    {
-      "name": "Qurain",
-      "sales": 554.05,
-      "orders": 183,
-      "discount": 16.8,
-      "order_types": {
-        "Dine IN": {
-          "sales": 79.7,
-          "orders": 24
-        },
-        "Drive Thru": {
-          "sales": 276.8,
-          "orders": 112
-        },
-        "Delivery": {
-          "sales": 173.25,
-          "orders": 41
-        },
-        "Vthru Pickup": {
-          "sales": 6.0,
-          "orders": 2
-        },
-        "Take Out": {
-          "sales": 16.35,
-          "orders": 3
-        },
-        "Pick UP": {
-          "sales": 1.95,
-          "orders": 1
-        }
-      }
-    },
-    {
-      "name": "360Mall",
-      "sales": 530.59,
-      "orders": 195,
-      "discount": 31.86,
-      "order_types": {
-        "Dine IN": {
-          "sales": 473.34,
-          "orders": 167
-        },
-        "Take Out": {
-          "sales": 55.95,
-          "orders": 27
-        },
-        "Pick UP": {
-          "sales": 1.3,
-          "orders": 1
-        }
-      }
-    },
-    {
-      "name": "Jabriya",
-      "sales": 525.8,
-      "orders": 168,
-      "discount": 27.6,
-      "order_types": {
-        "Delivery": {
-          "sales": 208.1,
-          "orders": 52
-        },
-        "Drive Thru": {
-          "sales": 170.1,
-          "orders": 63
-        },
-        "Dine IN": {
-          "sales": 123.85,
-          "orders": 45
-        },
-        "Take Out": {
-          "sales": 3.3,
-          "orders": 2
-        },
-        "Vthru Pickup": {
-          "sales": 14.7,
-          "orders": 3
-        },
-        "Pick UP": {
-          "sales": 5.75,
-          "orders": 3
-        }
-      }
-    },
-    {
-      "name": "JahraGate",
-      "sales": 522.994,
-      "orders": 158,
-      "discount": 31.056,
-      "order_types": {
-        "Delivery": {
-          "sales": 323.3,
-          "orders": 84
-        },
-        "Dine IN": {
-          "sales": 141.219,
-          "orders": 51
-        },
-        "Pick UP": {
-          "sales": 1.95,
-          "orders": 1
-        },
-        "Take Out": {
-          "sales": 54.075,
-          "orders": 21
-        },
-        "Car Service": {
-          "sales": 2.45,
-          "orders": 1
-        }
-      }
-    },
-    {
-      "name": "Daralshifa",
-      "sales": 510.315,
-      "orders": 171,
-      "discount": 17.035,
-      "order_types": {
-        "Dine IN": {
-          "sales": 261.715,
-          "orders": 87
-        },
-        "Take Out": {
-          "sales": 248.6,
-          "orders": 84
-        }
-      }
-    },
-    {
-      "name": "TheLane",
-      "sales": 478.54,
-      "orders": 146,
-      "discount": 24.61,
-      "order_types": {
-        "Drive Thru": {
-          "sales": 187.0,
-          "orders": 67
-        },
-        "Delivery": {
-          "sales": 200.35,
-          "orders": 52
-        },
-        "Dine IN": {
-          "sales": 77.3,
-          "orders": 23
-        },
-        "Take Out": {
-          "sales": 13.89,
-          "orders": 4
-        }
-      }
-    },
-    {
-      "name": "Salmiya",
-      "sales": 392.26,
-      "orders": 127,
-      "discount": 20.64,
-      "order_types": {
-        "Drive Thru": {
-          "sales": 139.85,
-          "orders": 51
-        },
-        "Dine IN": {
-          "sales": 129.36,
-          "orders": 46
-        },
-        "Delivery": {
-          "sales": 121.2,
-          "orders": 29
-        },
-        "Pick UP": {
-          "sales": 1.85,
-          "orders": 1
-        }
-      }
-    },
-    {
-      "name": "Event 5",
-      "sales": 347.85,
-      "orders": 112,
-      "discount": 0.0,
-      "order_types": {
-        "Take Out": {
-          "sales": 347.85,
-          "orders": 112
-        }
-      }
-    },
-    {
-      "name": "KhiranMall",
-      "sales": 293.455,
-      "orders": 75,
-      "discount": 7.345,
-      "order_types": {
-        "Dine IN": {
-          "sales": 250.405,
-          "orders": 70
-        },
-        "Delivery": {
-          "sales": 43.05,
-          "orders": 5
-        }
-      }
-    },
-    {
-      "name": "Warehousemall",
-      "sales": 284.36,
-      "orders": 96,
-      "discount": 11.89,
-      "order_types": {
-        "Dine IN": {
-          "sales": 283.06,
-          "orders": 95
-        },
-        "Take Out": {
-          "sales": 1.3,
-          "orders": 1
-        }
-      }
-    },
-    {
-      "name": "Marina",
-      "sales": 243.35,
-      "orders": 98,
-      "discount": 29.8,
-      "order_types": {
-        "Dine IN": {
-          "sales": 243.35,
-          "orders": 98
-        }
-      }
-    },
-    {
-      "name": "SabahHospital",
-      "sales": 194.779,
-      "orders": 71,
-      "discount": 6.221,
-      "order_types": {
-        "Take Out": {
-          "sales": 122.219,
-          "orders": 51
-        },
-        "Delivery": {
-          "sales": 72.56,
-          "orders": 20
-        },
-        "Dine IN": {
-          "sales": 0.0,
-          "orders": 0
-        }
-      }
-    },
-    {
-      "name": "Qortuba",
-      "sales": 168.8,
-      "orders": 59,
-      "discount": 8.45,
-      "order_types": {
-        "Delivery": {
-          "sales": 126.85,
-          "orders": 41
-        },
-        "Dine IN": {
-          "sales": 9.95,
-          "orders": 5
-        },
-        "Take Out": {
-          "sales": 23.05,
-          "orders": 9
-        },
-        "Vthru Pickup": {
-          "sales": 8.95,
-          "orders": 4
-        }
-      }
-    },
-    {
-      "name": "Alkout",
-      "sales": 151.8,
-      "orders": 53,
-      "discount": 8.4,
-      "order_types": {
-        "Dine IN": {
-          "sales": 77.6,
-          "orders": 32
-        },
-        "Take Out": {
-          "sales": 38.55,
-          "orders": 13
-        },
-        "Delivery": {
-          "sales": 35.65,
-          "orders": 8
-        }
-      }
-    },
-    {
-      "name": "AUM",
-      "sales": 141.738,
-      "orders": 79,
-      "discount": 44.39,
-      "order_types": {
-        "Take Out": {
-          "sales": 97.337,
-          "orders": 57
-        },
-        "Dine IN": {
-          "sales": 40.5,
-          "orders": 21
-        },
-        "Vthru Pickup": {
-          "sales": 3.9,
-          "orders": 1
-        }
-      }
-    },
-    {
-      "name": "AIU",
-      "sales": 102.85,
-      "orders": 58,
-      "discount": 5.75,
-      "order_types": {
-        "Take Out": {
-          "sales": 102.85,
-          "orders": 58
-        },
-        "Dine IN": {
-          "sales": 0.0,
-          "orders": 0
-        }
-      }
-    },
-    {
-      "name": "Ardiya",
-      "sales": 14.14,
-      "orders": 9,
-      "discount": 11.51,
-      "order_types": {
-        "Take Out": {
-          "sales": 0.0,
-          "orders": 0
-        },
-        "Dine IN": {
-          "sales": 14.14,
-          "orders": 9
-        },
-        "Pick UP": {
-          "sales": 0.0,
-          "orders": 0
-        }
-      }
-    },
-    {
-      "name": "AlassimamallRooftop",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    },
-    {
-      "name": "Arena",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    },
-    {
-      "name": "Roastry",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    },
-    {
-      "name": "Event 4",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    },
-    {
-      "name": "Event 6",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    },
-    {
-      "name": "Event 7",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    },
-    {
-      "name": "Event 8",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    },
-    {
-      "name": "Arena M1",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    },
-    {
-      "name": "KuwaitHospital",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    }
-  ],
-  "active_branches": 22,
+  "schema_version": 2,
+  "generated_at": "2026-07-21T17:36:08.395794+03:00",
+  "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-07-05",
-  "_v": 20
+  "is_closed": true,
+  "data": {
+    "today": {
+      "day_total": 9415.358,
+      "day_orders": 2619,
+      "branches": [
+        {
+          "name": "Catering&Events",
+          "sales": 1485.0,
+          "orders": 3,
+          "discount": 315.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 1485.0,
+              "orders": 3
+            }
+          }
+        },
+        {
+          "name": "SabahSalem",
+          "sales": 652.722,
+          "orders": 206,
+          "discount": 37.428,
+          "order_types": {
+            "Drive Thru": {
+              "sales": 230.15,
+              "orders": 89
+            },
+            "Delivery": {
+              "sales": 345.6,
+              "orders": 84
+            },
+            "Dine IN": {
+              "sales": 66.522,
+              "orders": 27
+            },
+            "Take Out": {
+              "sales": 7.3,
+              "orders": 4
+            },
+            "Pick UP": {
+              "sales": 3.15,
+              "orders": 2
+            }
+          }
+        },
+        {
+          "name": "Kaifan",
+          "sales": 643.163,
+          "orders": 213,
+          "discount": 30.938,
+          "order_types": {
+            "Dine IN": {
+              "sales": 439.538,
+              "orders": 145
+            },
+            "Delivery": {
+              "sales": 134.0,
+              "orders": 42
+            },
+            "Take Out": {
+              "sales": 69.625,
+              "orders": 26
+            }
+          }
+        },
+        {
+          "name": "Alnasser",
+          "sales": 599.439,
+          "orders": 180,
+          "discount": 17.311,
+          "order_types": {
+            "Delivery": {
+              "sales": 328.45,
+              "orders": 81
+            },
+            "Dine IN": {
+              "sales": 253.484,
+              "orders": 91
+            },
+            "Vthru Pickup": {
+              "sales": 13.55,
+              "orders": 6
+            },
+            "Take Out": {
+              "sales": 3.955,
+              "orders": 2
+            }
+          }
+        },
+        {
+          "name": "Crystal",
+          "sales": 577.363,
+          "orders": 159,
+          "discount": 32.462,
+          "order_types": {
+            "Dine IN": {
+              "sales": 298.307,
+              "orders": 126
+            },
+            "Delivery": {
+              "sales": 268.202,
+              "orders": 29
+            },
+            "Car Service": {
+              "sales": 4.95,
+              "orders": 1
+            },
+            "Take Out": {
+              "sales": 5.904,
+              "orders": 3
+            }
+          }
+        },
+        {
+          "name": "Qurain",
+          "sales": 554.05,
+          "orders": 183,
+          "discount": 16.8,
+          "order_types": {
+            "Dine IN": {
+              "sales": 79.7,
+              "orders": 24
+            },
+            "Drive Thru": {
+              "sales": 276.8,
+              "orders": 112
+            },
+            "Delivery": {
+              "sales": 173.25,
+              "orders": 41
+            },
+            "Vthru Pickup": {
+              "sales": 6.0,
+              "orders": 2
+            },
+            "Take Out": {
+              "sales": 16.35,
+              "orders": 3
+            },
+            "Pick UP": {
+              "sales": 1.95,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "360Mall",
+          "sales": 530.59,
+          "orders": 195,
+          "discount": 31.86,
+          "order_types": {
+            "Dine IN": {
+              "sales": 473.34,
+              "orders": 167
+            },
+            "Take Out": {
+              "sales": 55.95,
+              "orders": 27
+            },
+            "Pick UP": {
+              "sales": 1.3,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Jabriya",
+          "sales": 525.8,
+          "orders": 168,
+          "discount": 27.6,
+          "order_types": {
+            "Delivery": {
+              "sales": 208.1,
+              "orders": 52
+            },
+            "Drive Thru": {
+              "sales": 170.1,
+              "orders": 63
+            },
+            "Dine IN": {
+              "sales": 123.85,
+              "orders": 45
+            },
+            "Take Out": {
+              "sales": 3.3,
+              "orders": 2
+            },
+            "Vthru Pickup": {
+              "sales": 14.7,
+              "orders": 3
+            },
+            "Pick UP": {
+              "sales": 5.75,
+              "orders": 3
+            }
+          }
+        },
+        {
+          "name": "JahraGate",
+          "sales": 522.994,
+          "orders": 158,
+          "discount": 31.056,
+          "order_types": {
+            "Delivery": {
+              "sales": 323.3,
+              "orders": 84
+            },
+            "Dine IN": {
+              "sales": 141.219,
+              "orders": 51
+            },
+            "Pick UP": {
+              "sales": 1.95,
+              "orders": 1
+            },
+            "Take Out": {
+              "sales": 54.075,
+              "orders": 21
+            },
+            "Car Service": {
+              "sales": 2.45,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Daralshifa",
+          "sales": 510.315,
+          "orders": 171,
+          "discount": 17.035,
+          "order_types": {
+            "Dine IN": {
+              "sales": 261.715,
+              "orders": 87
+            },
+            "Take Out": {
+              "sales": 248.6,
+              "orders": 84
+            }
+          }
+        },
+        {
+          "name": "TheLane",
+          "sales": 478.54,
+          "orders": 146,
+          "discount": 24.61,
+          "order_types": {
+            "Drive Thru": {
+              "sales": 187.0,
+              "orders": 67
+            },
+            "Delivery": {
+              "sales": 200.35,
+              "orders": 52
+            },
+            "Dine IN": {
+              "sales": 77.3,
+              "orders": 23
+            },
+            "Take Out": {
+              "sales": 13.89,
+              "orders": 4
+            }
+          }
+        },
+        {
+          "name": "Salmiya",
+          "sales": 392.26,
+          "orders": 127,
+          "discount": 20.64,
+          "order_types": {
+            "Drive Thru": {
+              "sales": 139.85,
+              "orders": 51
+            },
+            "Dine IN": {
+              "sales": 129.36,
+              "orders": 46
+            },
+            "Delivery": {
+              "sales": 121.2,
+              "orders": 29
+            },
+            "Pick UP": {
+              "sales": 1.85,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Event 5",
+          "sales": 347.85,
+          "orders": 112,
+          "discount": 0.0,
+          "order_types": {
+            "Take Out": {
+              "sales": 347.85,
+              "orders": 112
+            }
+          }
+        },
+        {
+          "name": "KhiranMall",
+          "sales": 293.455,
+          "orders": 75,
+          "discount": 7.345,
+          "order_types": {
+            "Dine IN": {
+              "sales": 250.405,
+              "orders": 70
+            },
+            "Delivery": {
+              "sales": 43.05,
+              "orders": 5
+            }
+          }
+        },
+        {
+          "name": "Warehousemall",
+          "sales": 284.36,
+          "orders": 96,
+          "discount": 11.89,
+          "order_types": {
+            "Dine IN": {
+              "sales": 283.06,
+              "orders": 95
+            },
+            "Take Out": {
+              "sales": 1.3,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Marina",
+          "sales": 243.35,
+          "orders": 98,
+          "discount": 29.8,
+          "order_types": {
+            "Dine IN": {
+              "sales": 243.35,
+              "orders": 98
+            }
+          }
+        },
+        {
+          "name": "SabahHospital",
+          "sales": 194.779,
+          "orders": 71,
+          "discount": 6.221,
+          "order_types": {
+            "Take Out": {
+              "sales": 122.219,
+              "orders": 51
+            },
+            "Delivery": {
+              "sales": 72.56,
+              "orders": 20
+            },
+            "Dine IN": {
+              "sales": 0.0,
+              "orders": 0
+            }
+          }
+        },
+        {
+          "name": "Qortuba",
+          "sales": 168.8,
+          "orders": 59,
+          "discount": 8.45,
+          "order_types": {
+            "Delivery": {
+              "sales": 126.85,
+              "orders": 41
+            },
+            "Dine IN": {
+              "sales": 9.95,
+              "orders": 5
+            },
+            "Take Out": {
+              "sales": 23.05,
+              "orders": 9
+            },
+            "Vthru Pickup": {
+              "sales": 8.95,
+              "orders": 4
+            }
+          }
+        },
+        {
+          "name": "Alkout",
+          "sales": 151.8,
+          "orders": 53,
+          "discount": 8.4,
+          "order_types": {
+            "Dine IN": {
+              "sales": 77.6,
+              "orders": 32
+            },
+            "Take Out": {
+              "sales": 38.55,
+              "orders": 13
+            },
+            "Delivery": {
+              "sales": 35.65,
+              "orders": 8
+            }
+          }
+        },
+        {
+          "name": "AUM",
+          "sales": 141.738,
+          "orders": 79,
+          "discount": 44.39,
+          "order_types": {
+            "Take Out": {
+              "sales": 97.337,
+              "orders": 57
+            },
+            "Dine IN": {
+              "sales": 40.5,
+              "orders": 21
+            },
+            "Vthru Pickup": {
+              "sales": 3.9,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "AIU",
+          "sales": 102.85,
+          "orders": 58,
+          "discount": 5.75,
+          "order_types": {
+            "Take Out": {
+              "sales": 102.85,
+              "orders": 58
+            },
+            "Dine IN": {
+              "sales": 0.0,
+              "orders": 0
+            }
+          }
+        },
+        {
+          "name": "Ardiya",
+          "sales": 14.14,
+          "orders": 9,
+          "discount": 11.51,
+          "order_types": {
+            "Take Out": {
+              "sales": 0.0,
+              "orders": 0
+            },
+            "Dine IN": {
+              "sales": 14.14,
+              "orders": 9
+            },
+            "Pick UP": {
+              "sales": 0.0,
+              "orders": 0
+            }
+          }
+        },
+        {
+          "name": "AlassimamallRooftop",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Arena",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Roastry",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Event 4",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Event 6",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Event 7",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Event 8",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Arena M1",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "KuwaitHospital",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        }
+      ],
+      "active_branches": 22,
+      "brand": "CAF",
+      "date": "2026-07-05",
+      "_v": 20
+    }
+  }
 }
