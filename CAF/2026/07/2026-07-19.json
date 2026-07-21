@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-21T14:14:09.965948+03:00",
+  "generated_at": "2026-07-21T17:33:56.398882+03:00",
   "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-07-19",
@@ -549,6 +549,100 @@
       "brand": "CAF",
       "date": "2026-07-19",
       "_v": 20
+    },
+    "week": {
+      "trend": [
+        {
+          "date": "2026-07-13",
+          "label": "Mon",
+          "sales": 13329.513,
+          "orders": 2902,
+          "channels": {
+            "dine_in": 13329.513,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-14",
+          "label": "Tue",
+          "sales": 8074.273,
+          "orders": 3289,
+          "channels": {
+            "dine_in": 8074.273,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-15",
+          "label": "Wed",
+          "sales": 10360.864,
+          "orders": 2980,
+          "channels": {
+            "dine_in": 10360.864,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-16",
+          "label": "Thu",
+          "sales": 9290.335,
+          "orders": 2981,
+          "channels": {
+            "dine_in": 9290.335,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-17",
+          "label": "Fri",
+          "sales": 9683.309,
+          "orders": 2877,
+          "channels": {
+            "dine_in": 9683.309,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-18",
+          "label": "Sat",
+          "sales": 7560.126,
+          "orders": 2469,
+          "channels": {
+            "dine_in": 7560.126,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-07-19",
+          "label": "Sun",
+          "sales": 9000.582,
+          "orders": 2682,
+          "channels": {
+            "dine_in": 9000.582,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        }
+      ],
+      "weekly_channels": {
+        "dine_in": 67299.002,
+        "talabat": 0.0,
+        "keeta": 0.0,
+        "others": 0.0
+      }
     }
   }
 }
