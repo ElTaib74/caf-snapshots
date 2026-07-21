@@ -103,7 +103,8 @@
     "permissions": {
       "canSeeHourly": true,
       "canSeeChannels": true,
-      "canSeeAnalytics": true
+      "canSeeAnalytics": true,
+      "canSeeBonus": false
     },
     "display_name": "",
     "phone": "",
