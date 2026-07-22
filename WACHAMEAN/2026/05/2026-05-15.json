@@ -1,126 +1,234 @@
 {
-  "day_total": 2814.25,
-  "day_orders": 488,
-  "branches": [
-    {
-      "name": "360 Mall",
-      "sales": 954.8,
-      "orders": 179,
-      "discount": 4.86,
-      "order_types": {
-        "Dine IN": {
-          "sales": 954.8,
-          "orders": 179
-        }
-      }
-    },
-    {
-      "name": "Qortuba",
-      "sales": 670.9,
-      "orders": 88,
-      "discount": 3.12,
-      "order_types": {
-        "Delivery": {
-          "sales": 648.1,
-          "orders": 85
-        },
-        "Dine IN": {
-          "sales": 12.1,
-          "orders": 1
-        },
-        "Pick UP": {
-          "sales": 10.7,
-          "orders": 2
-        }
-      }
-    },
-    {
-      "name": "Qurain Kitchen Cloud",
-      "sales": 368.85,
-      "orders": 60,
-      "discount": 3.104,
-      "order_types": {
-        "Delivery": {
-          "sales": 368.85,
-          "orders": 60
-        },
-        "Dine IN": {
-          "sales": 0.0,
-          "orders": 0
-        }
-      }
-    },
-    {
-      "name": "Ardiya",
-      "sales": 293.35,
-      "orders": 58,
-      "discount": 9.052,
-      "order_types": {
-        "Delivery": {
-          "sales": 293.35,
-          "orders": 58
-        },
-        "Dine IN": {
-          "sales": 0.0,
-          "orders": 0
-        },
-        "Car Service": {
-          "sales": 0.0,
-          "orders": 0
-        }
-      }
-    },
-    {
-      "name": "Khiran Mall",
-      "sales": 290.2,
-      "orders": 53,
-      "discount": 2.388,
-      "order_types": {
-        "Delivery": {
-          "sales": 116.1,
-          "orders": 11
-        },
-        "Dine IN": {
-          "sales": 164.65,
-          "orders": 40
-        },
-        "Pick UP": {
-          "sales": 2.45,
-          "orders": 1
-        },
-        "Vthru Pickup": {
-          "sales": 7.0,
-          "orders": 1
-        }
-      }
-    },
-    {
-      "name": "HAP - Qortuba",
-      "sales": 122.9,
-      "orders": 26,
-      "discount": 101.0,
-      "order_types": {
-        "Delivery": {
-          "sales": 122.9,
-          "orders": 26
-        }
-      }
-    },
-    {
-      "name": "HAP - Qurain Kitchen Cloud",
-      "sales": 113.25,
-      "orders": 24,
-      "discount": 43.75,
-      "order_types": {
-        "Delivery": {
-          "sales": 113.25,
-          "orders": 24
-        }
-      }
-    }
-  ],
-  "active_branches": 7,
+  "schema_version": 2,
+  "generated_at": "2026-07-22T13:21:40.027791+03:00",
+  "generated_by": "api_refresh",
   "brand": "WACHAMEAN",
   "date": "2026-05-15",
-  "_v": 20
+  "is_closed": true,
+  "data": {
+    "today": {
+      "day_total": 2814.25,
+      "day_orders": 488,
+      "branches": [
+        {
+          "name": "360 Mall",
+          "sales": 954.8,
+          "orders": 179,
+          "discount": 4.86,
+          "order_types": {
+            "Dine IN": {
+              "sales": 954.8,
+              "orders": 179
+            }
+          }
+        },
+        {
+          "name": "Qortuba",
+          "sales": 670.9,
+          "orders": 88,
+          "discount": 3.12,
+          "order_types": {
+            "Delivery": {
+              "sales": 648.1,
+              "orders": 85
+            },
+            "Dine IN": {
+              "sales": 12.1,
+              "orders": 1
+            },
+            "Pick UP": {
+              "sales": 10.7,
+              "orders": 2
+            }
+          }
+        },
+        {
+          "name": "Qurain Kitchen Cloud",
+          "sales": 368.85,
+          "orders": 60,
+          "discount": 3.104,
+          "order_types": {
+            "Delivery": {
+              "sales": 368.85,
+              "orders": 60
+            },
+            "Dine IN": {
+              "sales": 0.0,
+              "orders": 0
+            }
+          }
+        },
+        {
+          "name": "Ardiya",
+          "sales": 293.35,
+          "orders": 58,
+          "discount": 9.052,
+          "order_types": {
+            "Delivery": {
+              "sales": 293.35,
+              "orders": 58
+            },
+            "Dine IN": {
+              "sales": 0.0,
+              "orders": 0
+            },
+            "Car Service": {
+              "sales": 0.0,
+              "orders": 0
+            }
+          }
+        },
+        {
+          "name": "Khiran Mall",
+          "sales": 290.2,
+          "orders": 53,
+          "discount": 2.388,
+          "order_types": {
+            "Delivery": {
+              "sales": 116.1,
+              "orders": 11
+            },
+            "Dine IN": {
+              "sales": 164.65,
+              "orders": 40
+            },
+            "Pick UP": {
+              "sales": 2.45,
+              "orders": 1
+            },
+            "Vthru Pickup": {
+              "sales": 7.0,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "HAP - Qortuba",
+          "sales": 122.9,
+          "orders": 26,
+          "discount": 101.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 122.9,
+              "orders": 26
+            }
+          }
+        },
+        {
+          "name": "HAP - Qurain Kitchen Cloud",
+          "sales": 113.25,
+          "orders": 24,
+          "discount": 43.75,
+          "order_types": {
+            "Delivery": {
+              "sales": 113.25,
+              "orders": 24
+            }
+          }
+        },
+        {
+          "name": "The Lane",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "City Tower",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Jahra",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Marina Mall",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Shuwaikh",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Alsalam Co-op",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Salmiya KP",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Salwa Cloud Kitchen",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Warehouse Mall",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "HAP - The Lane",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "HAP - Alsalam Co-op",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "HAP - Jahra",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "HAP - Shuwaikh",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "HAP-Ardiya",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        }
+      ],
+      "active_branches": 7,
+      "brand": "WACHAMEAN",
+      "date": "2026-05-15",
+      "_v": 20
+    }
+  }
 }
