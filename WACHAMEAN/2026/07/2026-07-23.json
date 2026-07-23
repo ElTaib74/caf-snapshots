@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-24T00:12:55.078416+03:00",
+  "generated_at": "2026-07-24T00:12:57.196510+03:00",
   "generated_by": "api_refresh",
   "brand": "WACHAMEAN",
   "date": "2026-07-23",
@@ -315,6 +315,94 @@
         "keeta": 0.0,
         "others": 3443.55
       }
+    },
+    "totals": {
+      "mtd_total": 50334.505,
+      "ytd_total": 524715.266,
+      "yest_total": 1919.45,
+      "branch_totals": {
+        "360 Mall": {
+          "mtd": 12250.955,
+          "ytd": 96241.511,
+          "yesterday": 413.85
+        },
+        "HAP - Qurain Kitchen Cloud": {
+          "mtd": 2675.875,
+          "ytd": 12268.892,
+          "yesterday": 83.275
+        },
+        "HAP - Alsalam Co-op": {
+          "mtd": 0.0,
+          "ytd": 8472.057,
+          "yesterday": 0.0
+        },
+        "HAP - The Lane": {
+          "mtd": 0.0,
+          "ytd": 3079.984,
+          "yesterday": 0.0
+        },
+        "HAP - Qortuba": {
+          "mtd": 2668.525,
+          "ytd": 9420.475,
+          "yesterday": 136.325
+        },
+        "Ardiya": {
+          "mtd": 8159.95,
+          "ytd": 57436.015,
+          "yesterday": 284.95
+        },
+        "Shuwaikh": {
+          "mtd": 0.0,
+          "ytd": 19249.464,
+          "yesterday": 0.0
+        },
+        "Salwa Cloud Kitchen": {
+          "mtd": 0.0,
+          "ytd": 13588.85,
+          "yesterday": 0.0
+        },
+        "Qurain Kitchen Cloud": {
+          "mtd": 8509.15,
+          "ytd": 63403.19,
+          "yesterday": 363.6
+        },
+        "The Lane": {
+          "mtd": 0.0,
+          "ytd": 20441.941,
+          "yesterday": 0.0
+        },
+        "HAP - Shuwaikh": {
+          "mtd": 0.0,
+          "ytd": 3714.235,
+          "yesterday": 0.0
+        },
+        "Qortuba": {
+          "mtd": 11985.85,
+          "ytd": 101149.522,
+          "yesterday": 571.9
+        },
+        "HAP - Jahra": {
+          "mtd": 0.0,
+          "ytd": 6988.503,
+          "yesterday": 0.0
+        },
+        "Jahra": {
+          "mtd": 0.0,
+          "ytd": 35128.095,
+          "yesterday": 0.0
+        },
+        "Khiran Mall": {
+          "mtd": 4084.2,
+          "ytd": 33544.827,
+          "yesterday": 65.55
+        },
+        "Alsalam Co-op": {
+          "mtd": 0.0,
+          "ytd": 40587.705,
+          "yesterday": 0.0
+        }
+      },
+      "_v": 18
     }
   }
 }
