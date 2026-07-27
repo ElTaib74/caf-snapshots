@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "bc5cfe9762cb",
+    "username": "TEST",
+    "password_hash": "$2b$12$dPZH87scXZrL9H5S.vvUPO06MRGXyIpGej4UHDBf2iG5H3uIbPFIy",
+    "requested_at": "2026-07-27T09:59:18Z",
+    "notes": null
+  }
+]
