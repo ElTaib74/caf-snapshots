@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-27T23:39:25.157012+03:00",
+  "generated_at": "2026-07-27T23:39:30.608844+03:00",
   "generated_by": "api_refresh",
   "brand": "WACHAMEAN",
   "date": "2026-07-24",
@@ -328,6 +328,7 @@
           "label": "Sat",
           "sales": 2011.025,
           "orders": 415,
+          "net_orders": 385,
           "channels": {
             "dine_in": 1489.525,
             "talabat": 0.0,
@@ -340,6 +341,7 @@
           "label": "Sun",
           "sales": 1785.975,
           "orders": 368,
+          "net_orders": 336,
           "channels": {
             "dine_in": 1262.55,
             "talabat": 0.0,
@@ -352,6 +354,7 @@
           "label": "Mon",
           "sales": 1629.15,
           "orders": 401,
+          "net_orders": 367,
           "channels": {
             "dine_in": 1295.975,
             "talabat": 0.0,
@@ -364,6 +367,7 @@
           "label": "Tue",
           "sales": 1771.855,
           "orders": 382,
+          "net_orders": 357,
           "channels": {
             "dine_in": 1343.005,
             "talabat": 0.0,
@@ -376,6 +380,7 @@
           "label": "Wed",
           "sales": 1919.45,
           "orders": 416,
+          "net_orders": 376,
           "channels": {
             "dine_in": 1472.575,
             "talabat": 0.0,
@@ -388,6 +393,7 @@
           "label": "Thu",
           "sales": 2760.975,
           "orders": 558,
+          "net_orders": 515,
           "channels": {
             "dine_in": 2100.775,
             "talabat": 0.0,
@@ -398,10 +404,11 @@
         {
           "date": "2026-07-24",
           "label": "Fri",
-          "sales": 2936.0,
-          "orders": 593,
+          "sales": 2943.15,
+          "orders": 594,
+          "net_orders": 556,
           "channels": {
-            "dine_in": 2418.05,
+            "dine_in": 2425.2,
             "talabat": 0.0,
             "keeta": 0.0,
             "others": 517.95
@@ -409,7 +416,7 @@
         }
       ],
       "weekly_channels": {
-        "dine_in": 11382.455,
+        "dine_in": 11389.605,
         "talabat": 0.0,
         "keeta": 0.0,
         "others": 3431.975
