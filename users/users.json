@@ -146,9 +146,7 @@
     "active": true,
     "created_at": "2026-07-27T09:59:41Z",
     "last_login": "2026-07-27T18:27:48Z",
-    "permissions": {
-      "canSeeAnalytics": true
-    },
+    "permissions": {},
     "display_name": "",
     "phone": "",
     "job_title": ""
