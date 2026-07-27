@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-27T23:22:18.376472+03:00",
+  "generated_at": "2026-07-27T23:22:23.905882+03:00",
   "generated_by": "api_refresh",
   "brand": "WACHAMEAN",
   "date": "2026-07-26",
@@ -317,6 +317,7 @@
           "label": "Mon",
           "sales": 1629.15,
           "orders": 401,
+          "net_orders": 367,
           "channels": {
             "dine_in": 1295.975,
             "talabat": 0.0,
@@ -329,6 +330,7 @@
           "label": "Tue",
           "sales": 1771.855,
           "orders": 382,
+          "net_orders": 357,
           "channels": {
             "dine_in": 1343.005,
             "talabat": 0.0,
@@ -341,6 +343,7 @@
           "label": "Wed",
           "sales": 1919.45,
           "orders": 416,
+          "net_orders": 376,
           "channels": {
             "dine_in": 1472.575,
             "talabat": 0.0,
@@ -353,6 +356,7 @@
           "label": "Thu",
           "sales": 2760.975,
           "orders": 558,
+          "net_orders": 515,
           "channels": {
             "dine_in": 2100.775,
             "talabat": 0.0,
@@ -365,6 +369,7 @@
           "label": "Fri",
           "sales": 2943.15,
           "orders": 594,
+          "net_orders": 556,
           "channels": {
             "dine_in": 2425.2,
             "talabat": 0.0,
@@ -377,6 +382,7 @@
           "label": "Sat",
           "sales": 2337.6,
           "orders": 494,
+          "net_orders": 466,
           "channels": {
             "dine_in": 1782.8,
             "talabat": 0.0,
@@ -389,6 +395,7 @@
           "label": "Sun",
           "sales": 1923.35,
           "orders": 406,
+          "net_orders": 384,
           "channels": {
             "dine_in": 1406.925,
             "talabat": 0.0,
