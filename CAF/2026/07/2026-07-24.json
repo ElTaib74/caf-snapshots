@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-27T23:38:53.987788+03:00",
+  "generated_at": "2026-07-27T23:39:02.065206+03:00",
   "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-07-24",
@@ -694,6 +694,7 @@
           "label": "Sat",
           "sales": 7560.126,
           "orders": 2469,
+          "net_orders": 2290,
           "channels": {
             "dine_in": 7560.126,
             "talabat": 0.0,
@@ -706,6 +707,7 @@
           "label": "Sun",
           "sales": 9000.582,
           "orders": 2682,
+          "net_orders": 2435,
           "channels": {
             "dine_in": 9000.582,
             "talabat": 0.0,
@@ -718,6 +720,7 @@
           "label": "Mon",
           "sales": 7854.986,
           "orders": 2542,
+          "net_orders": 2299,
           "channels": {
             "dine_in": 7854.986,
             "talabat": 0.0,
@@ -730,6 +733,7 @@
           "label": "Tue",
           "sales": 7291.694,
           "orders": 2646,
+          "net_orders": 2389,
           "channels": {
             "dine_in": 7291.694,
             "talabat": 0.0,
@@ -742,6 +746,7 @@
           "label": "Wed",
           "sales": 7945.829,
           "orders": 2769,
+          "net_orders": 2537,
           "channels": {
             "dine_in": 7945.829,
             "talabat": 0.0,
@@ -754,6 +759,7 @@
           "label": "Thu",
           "sales": 9572.674,
           "orders": 3176,
+          "net_orders": 2928,
           "channels": {
             "dine_in": 9572.674,
             "talabat": 0.0,
@@ -766,6 +772,7 @@
           "label": "Fri",
           "sales": 9949.311,
           "orders": 3009,
+          "net_orders": 2799,
           "channels": {
             "dine_in": 9949.311,
             "talabat": 0.0,
