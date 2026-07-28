@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-22T13:22:07.503780+03:00",
+  "generated_at": "2026-07-28T13:51:57.852397+03:00",
   "generated_by": "api_refresh",
   "brand": "WACHAMEAN",
   "date": "2026-05-19",
@@ -216,7 +216,7 @@
       "active_branches": 7,
       "brand": "WACHAMEAN",
       "date": "2026-05-19",
-      "_v": 20
+      "_v": 22
     }
   }
 }
