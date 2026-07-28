@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-25T00:37:07.518936+03:00",
+  "generated_at": "2026-07-28T10:56:09.988089+03:00",
   "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-06-23",
@@ -563,7 +563,7 @@
       "active_branches": 24,
       "brand": "CAF",
       "date": "2026-06-23",
-      "_v": 20
+      "_v": 21
     },
     "totals": {
       "mtd_total": 222553.738,
