@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-28T00:06:19.954222+03:00",
+  "generated_at": "2026-07-28T11:53:44.437575+03:00",
   "generated_by": "api_refresh",
   "brand": "WACHAMEAN",
   "date": "2026-07-21",
@@ -228,7 +228,7 @@
       "active_branches": 7,
       "brand": "WACHAMEAN",
       "date": "2026-07-21",
-      "_v": 21
+      "_v": 22
     },
     "totals": {
       "mtd_total": 45654.08,
