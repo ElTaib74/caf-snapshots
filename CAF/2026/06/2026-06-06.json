@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-28T10:54:39.475995+03:00",
+  "generated_at": "2026-07-28T15:30:09.909296+03:00",
   "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-06-06",
@@ -478,7 +478,7 @@
       "active_branches": 19,
       "brand": "CAF",
       "date": "2026-06-06",
-      "_v": 21
+      "_v": 22
     }
   }
 }
