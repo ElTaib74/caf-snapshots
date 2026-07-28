@@ -127,6 +127,8 @@
     "permissions": {
       "canSeeHourly": true,
       "canSeeChannels": true,
+      "canSeeAnalytics": true,
+      "canSeeFinancials": true,
       "canSeeDrilldown": true
     },
     "display_name": "",
