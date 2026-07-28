@@ -140,7 +140,8 @@
     "role": "viewer",
     "brand": "CAF",
     "brands": [
-      "CAF"
+      "CAF",
+      "WACHAMEAN"
     ],
     "branches": [],
     "active": true,
