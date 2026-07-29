@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-30T00:01:28.094383+03:00",
+  "generated_at": "2026-07-30T00:01:49.278323+03:00",
   "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-07-29",
@@ -567,7 +567,7 @@
     "totals": {
       "mtd_total": 272722.469,
       "ytd_total": 1982431.06,
-      "yest_total": 8500.218,
+      "yest_total": 8894.378,
       "branch_totals": {
         "Jabriya": {
           "mtd": 15313.561,
@@ -592,7 +592,7 @@
         "KuwaitHospital": {
           "mtd": 9206.436,
           "ytd": 9206.436,
-          "yesterday": 0.0
+          "yesterday": 379.74
         },
         "360Mall": {
           "mtd": 18032.654,
@@ -672,7 +672,7 @@
         "Ardiya": {
           "mtd": 384.475,
           "ytd": 384.475,
-          "yesterday": 0.0
+          "yesterday": 14.42
         },
         "Marina": {
           "mtd": 7808.155,
@@ -724,7 +724,8 @@
           "ytd": 3936.793,
           "yesterday": 0.0
         }
-      }
+      },
+      "_v": 18
     },
     "week": {
       "trend": [
