@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-30T00:01:21.739845+03:00",
-  "generated_by": "scheduler",
+  "generated_at": "2026-07-30T00:01:28.094383+03:00",
+  "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-07-29",
   "is_closed": false,
   "data": {
     "today": {
-      "day_total": 10513.488,
-      "day_orders": 2646,
+      "day_total": 11034.703,
+      "day_orders": 2828,
       "branches": [
         {
           "name": "Roastry",
@@ -251,6 +251,22 @@
           }
         },
         {
+          "name": "KuwaitHospital",
+          "sales": 498.762,
+          "orders": 170,
+          "discount": 20.645,
+          "order_types": {
+            "Take Out": {
+              "sales": 457.647,
+              "orders": 151
+            },
+            "Dine IN": {
+              "sales": 41.115,
+              "orders": 19
+            }
+          }
+        },
+        {
           "name": "Daralshifa",
           "sales": 467.775,
           "orders": 162,
@@ -443,6 +459,22 @@
           }
         },
         {
+          "name": "Ardiya",
+          "sales": 22.453,
+          "orders": 12,
+          "discount": 119.899,
+          "order_types": {
+            "Take Out": {
+              "sales": 20.203,
+              "orders": 11
+            },
+            "Dine IN": {
+              "sales": 2.25,
+              "orders": 1
+            }
+          }
+        },
+        {
           "name": "Event 4",
           "sales": 19.65,
           "orders": 11,
@@ -527,7 +559,10 @@
           "order_types": {}
         }
       ],
-      "active_branches": 21
+      "active_branches": 23,
+      "brand": "CAF",
+      "date": "2026-07-29",
+      "_v": 22
     },
     "totals": {
       "mtd_total": 272722.469,
