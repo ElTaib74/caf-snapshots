@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-01T00:07:31.122759+03:00",
+  "generated_at": "2026-08-01T00:07:56.582438+03:00",
   "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-07-31",
@@ -511,9 +511,9 @@
       "_v": 22
     },
     "totals": {
-      "mtd_total": 285217.087,
+      "mtd_total": 295226.648,
       "ytd_total": 2004935.238,
-      "yest_total": 12145.027,
+      "yest_total": 12491.209,
       "branch_totals": {
         "Event 6": {
           "mtd": 143.4,
@@ -641,14 +641,14 @@
           "yesterday": 729.878
         },
         "KuwaitHospital": {
-          "mtd": 0.0,
+          "mtd": 9596.263,
           "ytd": 9596.263,
-          "yesterday": 0.0
+          "yesterday": 317.36
         },
         "Ardiya": {
-          "mtd": 0.0,
+          "mtd": 413.297,
           "ytd": 413.297,
-          "yesterday": 0.0
+          "yesterday": 28.823
         },
         "AlassimamallRooftop": {
           "mtd": 0.0,
@@ -670,7 +670,8 @@
           "ytd": 4135.1,
           "yesterday": 0.0
         }
-      }
+      },
+      "_v": 18
     },
     "week": {
       "trend": [
