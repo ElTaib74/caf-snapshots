@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-01T00:07:25.146887+03:00",
-  "generated_by": "scheduler",
+  "generated_at": "2026-08-01T00:07:31.122759+03:00",
+  "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-07-31",
   "is_closed": false,
   "data": {
     "today": {
-      "day_total": 9940.501,
-      "day_orders": 2778,
+      "day_total": 10012.969,
+      "day_orders": 2803,
       "branches": [
         {
           "name": "KhiranMall",
@@ -419,6 +419,22 @@
           }
         },
         {
+          "name": "KuwaitHospital",
+          "sales": 72.468,
+          "orders": 25,
+          "discount": 16.534,
+          "order_types": {
+            "Take Out": {
+              "sales": 72.468,
+              "orders": 25
+            },
+            "Dine IN": {
+              "sales": 0.0,
+              "orders": 0
+            }
+          }
+        },
+        {
           "name": "AIU",
           "sales": 0.0,
           "orders": 0,
@@ -480,9 +496,19 @@
           "orders": 0,
           "discount": 0.0,
           "order_types": {}
+        },
+        {
+          "name": "Ardiya",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
         }
       ],
-      "active_branches": 20
+      "active_branches": 21,
+      "brand": "CAF",
+      "date": "2026-07-31",
+      "_v": 22
     },
     "totals": {
       "mtd_total": 285217.087,
