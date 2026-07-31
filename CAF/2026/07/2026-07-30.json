@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-31T08:10:39.203357+03:00",
-  "generated_by": "scheduler",
+  "generated_at": "2026-07-31T13:28:49.354420+03:00",
+  "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-07-30",
   "is_closed": false,
@@ -560,7 +560,10 @@
           "order_types": {}
         }
       ],
-      "active_branches": 24
+      "active_branches": 24,
+      "brand": "CAF",
+      "date": "2026-07-30",
+      "_v": 22
     },
     "totals": {
       "mtd_total": 285213.679,
