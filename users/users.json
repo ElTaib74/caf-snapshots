@@ -25,8 +25,11 @@
     "branches": [],
     "active": true,
     "created_at": "2026-05-31T09:49:01Z",
-    "last_login": "2026-06-18T20:25:03Z",
-    "permissions": {}
+    "last_login": "2026-08-01T19:06:17Z",
+    "permissions": {},
+    "display_name": "",
+    "phone": "",
+    "job_title": ""
   },
   {
     "id": "21a76e4e7209",
