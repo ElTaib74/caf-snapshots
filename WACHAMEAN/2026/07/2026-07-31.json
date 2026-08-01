@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-01T08:05:08.715688+03:00",
-  "generated_by": "api_refresh",
+  "generated_at": "2026-08-01T08:10:55.303208+03:00",
+  "generated_by": "scheduler",
   "brand": "WACHAMEAN",
   "date": "2026-07-31",
   "is_closed": false,
@@ -249,10 +249,94 @@
           "order_types": {}
         }
       ],
-      "active_branches": 7,
-      "brand": "WACHAMEAN",
-      "date": "2026-07-31",
-      "_v": 22
+      "active_branches": 7
+    },
+    "totals": {
+      "mtd_total": 68923.105,
+      "ytd_total": 543303.866,
+      "yest_total": 2360.575,
+      "branch_totals": {
+        "HAP - Jahra": {
+          "mtd": 0.0,
+          "ytd": 6988.503,
+          "yesterday": 0.0
+        },
+        "Shuwaikh": {
+          "mtd": 0.0,
+          "ytd": 19249.464,
+          "yesterday": 0.0
+        },
+        "HAP - The Lane": {
+          "mtd": 0.0,
+          "ytd": 3079.984,
+          "yesterday": 0.0
+        },
+        "HAP - Qortuba": {
+          "mtd": 3631.35,
+          "ytd": 10383.3,
+          "yesterday": 136.3
+        },
+        "HAP - Shuwaikh": {
+          "mtd": 0.0,
+          "ytd": 3714.235,
+          "yesterday": 0.0
+        },
+        "Qortuba": {
+          "mtd": 16391.6,
+          "ytd": 105555.272,
+          "yesterday": 605.8
+        },
+        "Alsalam Co-op": {
+          "mtd": 0.0,
+          "ytd": 40587.705,
+          "yesterday": 0.0
+        },
+        "HAP - Qurain Kitchen Cloud": {
+          "mtd": 3453.45,
+          "ytd": 13046.467,
+          "yesterday": 59.675
+        },
+        "Jahra": {
+          "mtd": 0.0,
+          "ytd": 35128.095,
+          "yesterday": 0.0
+        },
+        "Qurain Kitchen Cloud": {
+          "mtd": 11532.7,
+          "ytd": 66426.74,
+          "yesterday": 392.25
+        },
+        "HAP - Alsalam Co-op": {
+          "mtd": 0.0,
+          "ytd": 8472.057,
+          "yesterday": 0.0
+        },
+        "The Lane": {
+          "mtd": 0.0,
+          "ytd": 20441.941,
+          "yesterday": 0.0
+        },
+        "Ardiya": {
+          "mtd": 11134.9,
+          "ytd": 60410.965,
+          "yesterday": 389.8
+        },
+        "Salwa Cloud Kitchen": {
+          "mtd": 0.0,
+          "ytd": 13588.85,
+          "yesterday": 0.0
+        },
+        "360 Mall": {
+          "mtd": 17006.155,
+          "ytd": 100996.711,
+          "yesterday": 566.95
+        },
+        "Khiran Mall": {
+          "mtd": 5772.95,
+          "ytd": 35233.577,
+          "yesterday": 209.8
+        }
+      }
     },
     "week": {
       "trend": [
@@ -354,94 +438,6 @@
         "keeta": 0.0,
         "others": 3283.175
       }
-    },
-    "totals": {
-      "mtd_total": 68923.105,
-      "ytd_total": 543303.866,
-      "yest_total": 2360.575,
-      "branch_totals": {
-        "HAP - Jahra": {
-          "mtd": 0.0,
-          "ytd": 6988.503,
-          "yesterday": 0.0
-        },
-        "Shuwaikh": {
-          "mtd": 0.0,
-          "ytd": 19249.464,
-          "yesterday": 0.0
-        },
-        "HAP - The Lane": {
-          "mtd": 0.0,
-          "ytd": 3079.984,
-          "yesterday": 0.0
-        },
-        "HAP - Qortuba": {
-          "mtd": 3631.35,
-          "ytd": 10383.3,
-          "yesterday": 136.3
-        },
-        "HAP - Shuwaikh": {
-          "mtd": 0.0,
-          "ytd": 3714.235,
-          "yesterday": 0.0
-        },
-        "Qortuba": {
-          "mtd": 16391.6,
-          "ytd": 105555.272,
-          "yesterday": 605.8
-        },
-        "Alsalam Co-op": {
-          "mtd": 0.0,
-          "ytd": 40587.705,
-          "yesterday": 0.0
-        },
-        "HAP - Qurain Kitchen Cloud": {
-          "mtd": 3453.45,
-          "ytd": 13046.467,
-          "yesterday": 59.675
-        },
-        "Jahra": {
-          "mtd": 0.0,
-          "ytd": 35128.095,
-          "yesterday": 0.0
-        },
-        "Qurain Kitchen Cloud": {
-          "mtd": 11532.7,
-          "ytd": 66426.74,
-          "yesterday": 392.25
-        },
-        "HAP - Alsalam Co-op": {
-          "mtd": 0.0,
-          "ytd": 8472.057,
-          "yesterday": 0.0
-        },
-        "The Lane": {
-          "mtd": 0.0,
-          "ytd": 20441.941,
-          "yesterday": 0.0
-        },
-        "Ardiya": {
-          "mtd": 11134.9,
-          "ytd": 60410.965,
-          "yesterday": 389.8
-        },
-        "Salwa Cloud Kitchen": {
-          "mtd": 0.0,
-          "ytd": 13588.85,
-          "yesterday": 0.0
-        },
-        "360 Mall": {
-          "mtd": 17006.155,
-          "ytd": 100996.711,
-          "yesterday": 566.95
-        },
-        "Khiran Mall": {
-          "mtd": 5772.95,
-          "ytd": 35233.577,
-          "yesterday": 209.8
-        }
-      },
-      "_v": 18
     }
   }
 }
