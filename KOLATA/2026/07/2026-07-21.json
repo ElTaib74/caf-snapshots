@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-22T03:00:14.006067+03:00",
+  "generated_at": "2026-08-02T09:32:53.191363+03:00",
   "generated_by": "api_refresh",
   "brand": "KOLATA",
   "date": "2026-07-21",
-  "is_closed": false,
+  "is_closed": true,
   "data": {
     "today": {
       "day_total": 367.3,
@@ -88,7 +88,7 @@
       "active_branches": 4,
       "brand": "KOLATA",
       "date": "2026-07-21",
-      "_v": 20
+      "_v": 22
     }
   }
 }
