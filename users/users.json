@@ -131,6 +131,7 @@
       "canSeeHourly": true,
       "canSeeChannels": true,
       "canSeeAnalytics": true,
+      "canSeeDiscounts": true,
       "canSeeFinancials": true,
       "canSeeDrilldown": true
     },
