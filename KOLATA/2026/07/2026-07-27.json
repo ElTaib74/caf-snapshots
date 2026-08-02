@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-28T03:00:11.976182+03:00",
+  "generated_at": "2026-08-02T09:33:04.679432+03:00",
   "generated_by": "api_refresh",
   "brand": "KOLATA",
   "date": "2026-07-27",
-  "is_closed": false,
+  "is_closed": true,
   "data": {
     "today": {
-      "day_total": 568.5,
+      "day_total": 546.75,
       "day_orders": 160,
       "branches": [
         {
@@ -32,12 +32,12 @@
         },
         {
           "name": "Qurain",
-          "sales": 181.45,
+          "sales": 161.45,
           "orders": 39,
           "discount": 1.3,
           "order_types": {
             "Delivery": {
-              "sales": 181.45,
+              "sales": 161.45,
               "orders": 39
             }
           }
@@ -56,12 +56,12 @@
         },
         {
           "name": "Salmiya",
-          "sales": 54.9,
+          "sales": 53.15,
           "orders": 11,
           "discount": 11.6,
           "order_types": {
             "Delivery": {
-              "sales": 54.9,
+              "sales": 53.15,
               "orders": 11
             }
           }
@@ -91,7 +91,7 @@
       "active_branches": 4,
       "brand": "KOLATA",
       "date": "2026-07-27",
-      "_v": 21
+      "_v": 22
     }
   }
 }
