@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-07-18T01:16:28.269730+03:00",
+  "generated_at": "2026-08-02T09:33:34.453894+03:00",
   "generated_by": "api_refresh",
   "brand": "KOLATA",
   "date": "2026-06-17",
@@ -33,6 +33,85 @@
         }
       },
       "_v": 18
+    },
+    "today": {
+      "day_total": 462.1,
+      "day_orders": 126,
+      "branches": [
+        {
+          "name": "Catering&Events",
+          "sales": 201.75,
+          "orders": 66,
+          "discount": 163.7,
+          "order_types": {
+            "Pickup": {
+              "sales": 201.75,
+              "orders": 66
+            }
+          }
+        },
+        {
+          "name": "Khaitan",
+          "sales": 109.1,
+          "orders": 18,
+          "discount": 42.4,
+          "order_types": {
+            "Delivery": {
+              "sales": 109.1,
+              "orders": 18
+            }
+          }
+        },
+        {
+          "name": "Qurain",
+          "sales": 86.2,
+          "orders": 30,
+          "discount": 24.45,
+          "order_types": {
+            "Delivery": {
+              "sales": 86.2,
+              "orders": 30
+            }
+          }
+        },
+        {
+          "name": "Salmiya",
+          "sales": 65.05,
+          "orders": 12,
+          "discount": 49.95,
+          "order_types": {
+            "Delivery": {
+              "sales": 65.05,
+              "orders": 12
+            }
+          }
+        },
+        {
+          "name": "Ardiya",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "CentralKitchen",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Catering&EventsKhiran",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        }
+      ],
+      "active_branches": 4,
+      "brand": "KOLATA",
+      "date": "2026-06-17",
+      "_v": 22
     }
   }
 }
