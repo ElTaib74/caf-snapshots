@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-04T01:33:47.530306+03:00",
+  "generated_at": "2026-08-04T01:33:51.078925+03:00",
   "generated_by": "api_refresh",
   "brand": "WACHAMEAN",
   "date": "2026-08-03",
@@ -225,6 +225,94 @@
       "brand": "WACHAMEAN",
       "date": "2026-08-03",
       "_v": 22
+    },
+    "totals": {
+      "mtd_total": 6139.425,
+      "ytd_total": 549443.291,
+      "yest_total": 1920.2,
+      "branch_totals": {
+        "Ardiya": {
+          "mtd": 794.8,
+          "ytd": 61205.765,
+          "yesterday": 214.1
+        },
+        "Khiran Mall": {
+          "mtd": 507.9,
+          "ytd": 35741.477,
+          "yesterday": 168.35
+        },
+        "Qortuba": {
+          "mtd": 1243.0,
+          "ytd": 106798.272,
+          "yesterday": 365.7
+        },
+        "Qurain Kitchen Cloud": {
+          "mtd": 1197.65,
+          "ytd": 67624.39,
+          "yesterday": 421.1
+        },
+        "HAP - The Lane": {
+          "mtd": 0.0,
+          "ytd": 3079.984,
+          "yesterday": 0.0
+        },
+        "HAP - Alsalam Co-op": {
+          "mtd": 0.0,
+          "ytd": 8472.057,
+          "yesterday": 0.0
+        },
+        "HAP - Jahra": {
+          "mtd": 0.0,
+          "ytd": 6988.503,
+          "yesterday": 0.0
+        },
+        "Jahra": {
+          "mtd": 0.0,
+          "ytd": 35128.095,
+          "yesterday": 0.0
+        },
+        "Salwa Cloud Kitchen": {
+          "mtd": 0.0,
+          "ytd": 13588.85,
+          "yesterday": 0.0
+        },
+        "Alsalam Co-op": {
+          "mtd": 0.0,
+          "ytd": 40587.705,
+          "yesterday": 0.0
+        },
+        "The Lane": {
+          "mtd": 0.0,
+          "ytd": 20441.941,
+          "yesterday": 0.0
+        },
+        "HAP - Shuwaikh": {
+          "mtd": 0.0,
+          "ytd": 3714.235,
+          "yesterday": 0.0
+        },
+        "HAP - Qurain Kitchen Cloud": {
+          "mtd": 269.25,
+          "ytd": 13315.717,
+          "yesterday": 70.625
+        },
+        "Shuwaikh": {
+          "mtd": 0.0,
+          "ytd": 19249.464,
+          "yesterday": 0.0
+        },
+        "360 Mall": {
+          "mtd": 1804.7,
+          "ytd": 102801.411,
+          "yesterday": 603.8
+        },
+        "HAP - Qortuba": {
+          "mtd": 322.125,
+          "ytd": 10705.425,
+          "yesterday": 76.525
+        }
+      },
+      "_v": 18
     }
   }
 }
