@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-05T01:33:48.327492+03:00",
+  "generated_at": "2026-08-05T03:00:10.966277+03:00",
   "generated_by": "api_refresh",
   "brand": "WACHAMEAN",
   "date": "2026-08-04",
@@ -196,8 +196,8 @@
       }
     },
     "today": {
-      "day_total": 1788.275,
-      "day_orders": 366,
+      "day_total": 1792.075,
+      "day_orders": 367,
       "branches": [
         {
           "name": "360 Mall",
@@ -213,17 +213,17 @@
         },
         {
           "name": "Qortuba",
-          "sales": 329.75,
-          "orders": 58,
+          "sales": 333.55,
+          "orders": 59,
           "discount": 46.502,
           "order_types": {
+            "Delivery": {
+              "sales": 310.35,
+              "orders": 55
+            },
             "Dine IN": {
               "sales": 17.6,
               "orders": 2
-            },
-            "Delivery": {
-              "sales": 306.55,
-              "orders": 54
             },
             "Vthru Pickup": {
               "sales": 2.75,
