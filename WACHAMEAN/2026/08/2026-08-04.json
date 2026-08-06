@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-05T08:10:56.058915+03:00",
-  "generated_by": "scheduler",
+  "generated_at": "2026-08-06T08:05:03.069335+03:00",
+  "generated_by": "api_refresh",
   "brand": "WACHAMEAN",
   "date": "2026-08-04",
-  "is_closed": false,
+  "is_closed": true,
   "data": {
     "today": {
       "day_total": 1792.075,
@@ -221,7 +221,10 @@
           "order_types": {}
         }
       ],
-      "active_branches": 7
+      "active_branches": 7,
+      "brand": "WACHAMEAN",
+      "date": "2026-08-04",
+      "_v": 22
     },
     "totals": {
       "mtd_total": 7931.5,
