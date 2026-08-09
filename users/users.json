@@ -143,7 +143,7 @@
   {
     "id": "8b6605f06a4c",
     "username": "TEST",
-    "password_hash": "$2b$12$dPZH87scXZrL9H5S.vvUPO06MRGXyIpGej4UHDBf2iG5H3uIbPFIy",
+    "password_hash": "$2b$12$Mhz0aRsISrWNFyG.485abuRYtQB1/BwRM.K6iAz6ZSvDj7jWJ5OaO",
     "role": "viewer",
     "brand": "CAF",
     "brands": [
@@ -159,6 +159,7 @@
     },
     "display_name": "",
     "phone": "",
-    "job_title": ""
+    "job_title": "",
+    "recovery_email": ""
   }
 ]
