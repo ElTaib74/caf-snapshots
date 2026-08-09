@@ -202,7 +202,12 @@
     "active": true,
     "created_at": "2026-08-09T10:17:11Z",
     "last_login": null,
-    "permissions": {},
+    "permissions": {
+      "canSeeHourly": true,
+      "canSeeChannels": true,
+      "canSeeAnalytics": true,
+      "canSeeDiscounts": true
+    },
     "display_name": "",
     "phone": "",
     "job_title": "",
