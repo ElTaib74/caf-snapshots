@@ -5,5 +5,12 @@
     "password_hash": "$2b$12$Kjz/.bU2RTl.K5uyRnBaoeuAfFxlCGQCzy0rUB9OfIFZjTEtKNlU.",
     "requested_at": "2026-08-09T10:06:39Z",
     "notes": null
+  },
+  {
+    "id": "52f9fd989b44",
+    "username": "Tareq",
+    "password_hash": "$2b$12$ziP2PHfJIS3qAW75GhkqFuMGTLVyAB7af1gO/qhCRf0UJZR9G3p/2",
+    "requested_at": "2026-08-09T10:16:17Z",
+    "notes": null
   }
 ]
