@@ -132,6 +132,7 @@
       "canSeeChannels": true,
       "canSeeAnalytics": true,
       "canSeeDiscounts": true,
+      "canSeeCostControl": true,
       "canSeeFinancials": true,
       "canSeeDrilldown": true
     },
