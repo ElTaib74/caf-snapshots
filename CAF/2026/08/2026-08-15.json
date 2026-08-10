@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-10T10:36:06.527865+03:00",
+  "generated_at": "2026-08-10T10:36:25.755839+03:00",
   "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-08-15",
@@ -106,6 +106,169 @@
         "keeta": 0.0,
         "others": 0.0
       }
+    },
+    "totals": {
+      "mtd_total": 80135.056,
+      "ytd_total": 2085070.294,
+      "yest_total": 0.0,
+      "branch_totals": {
+        "AlassimamallRooftop": {
+          "mtd": 0.0,
+          "ytd": 36100.156,
+          "yesterday": 0.0
+        },
+        "Alnasser": {
+          "mtd": 4629.675,
+          "ytd": 154058.033,
+          "yesterday": 0.0
+        },
+        "Event 4": {
+          "mtd": 235.55,
+          "ytd": 22236.567,
+          "yesterday": 0.0
+        },
+        "SabahSalem": {
+          "mtd": 5303.316,
+          "ytd": 173518.909,
+          "yesterday": 0.0
+        },
+        "AIU": {
+          "mtd": 522.9,
+          "ytd": 10009.6,
+          "yesterday": 0.0
+        },
+        "Qortuba": {
+          "mtd": 2109.605,
+          "ytd": 68969.045,
+          "yesterday": 0.0
+        },
+        "Alkout": {
+          "mtd": 1654.222,
+          "ytd": 32226.957,
+          "yesterday": 0.0
+        },
+        "Qurain": {
+          "mtd": 5122.51,
+          "ytd": 143544.762,
+          "yesterday": 0.0
+        },
+        "Event 8": {
+          "mtd": 0.0,
+          "ytd": 2338.7,
+          "yesterday": 0.0
+        },
+        "Daralshifa": {
+          "mtd": 5061.065,
+          "ytd": 89383.175,
+          "yesterday": 0.0
+        },
+        "Ardiya": {
+          "mtd": 117.78,
+          "ytd": 531.077,
+          "yesterday": 0.0
+        },
+        "Event 5": {
+          "mtd": 322.55,
+          "ytd": 9696.329,
+          "yesterday": 0.0
+        },
+        "360Mall": {
+          "mtd": 5863.047,
+          "ytd": 113499.953,
+          "yesterday": 0.0
+        },
+        "Event 6": {
+          "mtd": 0.0,
+          "ytd": 3936.793,
+          "yesterday": 0.0
+        },
+        "Salmiya": {
+          "mtd": 3171.677,
+          "ytd": 106697.989,
+          "yesterday": 0.0
+        },
+        "Marina": {
+          "mtd": 2602.15,
+          "ytd": 135243.016,
+          "yesterday": 0.0
+        },
+        "Catering&Events": {
+          "mtd": 186.0,
+          "ytd": 44798.07,
+          "yesterday": 0.0
+        },
+        "Jabriya": {
+          "mtd": 4653.327,
+          "ytd": 76514.699,
+          "yesterday": 0.0
+        },
+        "Arena M1": {
+          "mtd": 0.0,
+          "ytd": 20999.4,
+          "yesterday": 0.0
+        },
+        "JahraGate": {
+          "mtd": 5230.445,
+          "ytd": 157571.954,
+          "yesterday": 0.0
+        },
+        "Kaifan": {
+          "mtd": 6163.4,
+          "ytd": 175570.539,
+          "yesterday": 0.0
+        },
+        "TheLane": {
+          "mtd": 4835.409,
+          "ytd": 123926.008,
+          "yesterday": 0.0
+        },
+        "SabahHospital": {
+          "mtd": 1005.219,
+          "ytd": 34261.451,
+          "yesterday": 0.0
+        },
+        "KuwaitHospital": {
+          "mtd": 3532.794,
+          "ytd": 13129.058,
+          "yesterday": 0.0
+        },
+        "Arena": {
+          "mtd": 0.0,
+          "ytd": 23673.85,
+          "yesterday": 0.0
+        },
+        "KhiranMall": {
+          "mtd": 4941.61,
+          "ytd": 96846.409,
+          "yesterday": 0.0
+        },
+        "Crystal": {
+          "mtd": 2215.921,
+          "ytd": 63690.822,
+          "yesterday": 0.0
+        },
+        "Event 7": {
+          "mtd": 0.0,
+          "ytd": 4135.1,
+          "yesterday": 0.0
+        },
+        "AUM": {
+          "mtd": 0.0,
+          "ytd": 14547.074,
+          "yesterday": 0.0
+        },
+        "Roastry": {
+          "mtd": 7041.98,
+          "ytd": 67473.41,
+          "yesterday": 0.0
+        },
+        "Warehousemall": {
+          "mtd": 3612.901,
+          "ytd": 65941.391,
+          "yesterday": 0.0
+        }
+      },
+      "_v": 18
     }
   }
 }
