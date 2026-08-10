@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-08-10T10:27:55.824279+03:00",
+  "generated_by": "api_refresh",
+  "brand": "CAF",
+  "date": "2026-08-31",
+  "is_closed": false,
+  "data": {
+    "week": {
+      "trend": [
+        {
+          "date": "2026-08-25",
+          "label": "Tue",
+          "sales": 0.0,
+          "orders": 0,
+          "net_orders": 0,
+          "channels": {
+            "dine_in": 0.0,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-26",
+          "label": "Wed",
+          "sales": 0.0,
+          "orders": 0,
+          "net_orders": 0,
+          "channels": {
+            "dine_in": 0.0,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-27",
+          "label": "Thu",
+          "sales": 0.0,
+          "orders": 0,
+          "net_orders": 0,
+          "channels": {
+            "dine_in": 0.0,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-28",
+          "label": "Fri",
+          "sales": 0.0,
+          "orders": 0,
+          "net_orders": 0,
+          "channels": {
+            "dine_in": 0.0,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-29",
+          "label": "Sat",
+          "sales": 0.0,
+          "orders": 0,
+          "net_orders": 0,
+          "channels": {
+            "dine_in": 0.0,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-30",
+          "label": "Sun",
+          "sales": 0.0,
+          "orders": 0,
+          "net_orders": 0,
+          "channels": {
+            "dine_in": 0.0,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-31",
+          "label": "Mon",
+          "sales": 0.0,
+          "orders": 0,
+          "net_orders": 0,
+          "channels": {
+            "dine_in": 0.0,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        }
+      ],
+      "weekly_channels": {
+        "dine_in": 0.0,
+        "talabat": 0.0,
+        "keeta": 0.0,
+        "others": 0.0
+      }
+    }
+  }
+}
