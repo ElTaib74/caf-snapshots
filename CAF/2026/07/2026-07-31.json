@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-10T15:06:21.856665+03:00",
+  "generated_at": "2026-08-11T11:56:13.717279+03:00",
   "generated_by": "api_refresh",
   "brand": "CAF",
   "date": "2026-07-31",
@@ -515,74 +515,9 @@
       "ytd_total": 2004935.238,
       "yest_total": 12491.209,
       "branch_totals": {
-        "AlassimamallRooftop": {
+        "Event 7": {
           "mtd": 0.0,
-          "ytd": 36100.156,
-          "yesterday": 0.0
-        },
-        "Alnasser": {
-          "mtd": 19014.849,
-          "ytd": 149428.358,
-          "yesterday": 716.45
-        },
-        "Event 4": {
-          "mtd": 328.45,
-          "ytd": 22001.017,
-          "yesterday": 27.7
-        },
-        "SabahSalem": {
-          "mtd": 21839.33,
-          "ytd": 168215.593,
-          "yesterday": 909.25
-        },
-        "AIU": {
-          "mtd": 1368.3,
-          "ytd": 9486.7,
-          "yesterday": 46.35
-        },
-        "Qortuba": {
-          "mtd": 7210.504,
-          "ytd": 66859.44,
-          "yesterday": 343.681
-        },
-        "Alkout": {
-          "mtd": 5421.151,
-          "ytd": 30572.734,
-          "yesterday": 239.45
-        },
-        "Qurain": {
-          "mtd": 18347.06,
-          "ytd": 138422.252,
-          "yesterday": 728.444
-        },
-        "Event 8": {
-          "mtd": 0.0,
-          "ytd": 2338.7,
-          "yesterday": 0.0
-        },
-        "Daralshifa": {
-          "mtd": 14188.255,
-          "ytd": 84322.11,
-          "yesterday": 457.415
-        },
-        "Ardiya": {
-          "mtd": 413.297,
-          "ytd": 413.297,
-          "yesterday": 28.823
-        },
-        "Event 5": {
-          "mtd": 3666.5,
-          "ytd": 9373.779,
-          "yesterday": 78.05
-        },
-        "360Mall": {
-          "mtd": 19574.264,
-          "ytd": 107636.906,
-          "yesterday": 737.61
-        },
-        "Event 6": {
-          "mtd": 143.4,
-          "ytd": 3936.793,
+          "ytd": 4135.1,
           "yesterday": 0.0
         },
         "Marina": {
@@ -590,85 +525,150 @@
           "ytd": 132640.866,
           "yesterday": 331.82
         },
-        "Salmiya": {
-          "mtd": 11848.284,
-          "ytd": 103526.312,
-          "yesterday": 388.452
+        "KhiranMall": {
+          "mtd": 18880.201,
+          "ytd": 91904.799,
+          "yesterday": 729.878
         },
-        "Catering&Events": {
-          "mtd": 14375.0,
-          "ytd": 44612.07,
-          "yesterday": 0.0
-        },
-        "Jabriya": {
-          "mtd": 16495.456,
-          "ytd": 71861.371,
-          "yesterday": 574.845
-        },
-        "Arena M1": {
-          "mtd": 1672.6,
-          "ytd": 20999.4,
-          "yesterday": 726.55
+        "Event 4": {
+          "mtd": 328.45,
+          "ytd": 22001.017,
+          "yesterday": 27.7
         },
         "JahraGate": {
           "mtd": 20287.45,
           "ytd": 152341.509,
           "yesterday": 876.91
         },
-        "Kaifan": {
-          "mtd": 21742.226,
-          "ytd": 169407.139,
-          "yesterday": 844.426
-        },
-        "TheLane": {
-          "mtd": 15937.46,
-          "ytd": 119090.599,
-          "yesterday": 547.119
+        "Qurain": {
+          "mtd": 18347.06,
+          "ytd": 138422.252,
+          "yesterday": 728.444
         },
         "SabahHospital": {
           "mtd": 4589.24,
           "ytd": 33256.233,
           "yesterday": 147.6
         },
-        "KuwaitHospital": {
-          "mtd": 9596.263,
-          "ytd": 9596.263,
-          "yesterday": 317.36
+        "Roastry": {
+          "mtd": 15340.43,
+          "ytd": 60431.43,
+          "yesterday": 1908.702
         },
-        "Arena": {
+        "AlassimamallRooftop": {
           "mtd": 0.0,
-          "ytd": 23673.85,
+          "ytd": 36100.156,
           "yesterday": 0.0
         },
-        "KhiranMall": {
-          "mtd": 18880.201,
-          "ytd": 91904.799,
-          "yesterday": 729.878
+        "Qortuba": {
+          "mtd": 7210.504,
+          "ytd": 66859.44,
+          "yesterday": 343.681
         },
-        "Crystal": {
-          "mtd": 11623.248,
-          "ytd": 61474.901,
-          "yesterday": 362.225
-        },
-        "Event 7": {
-          "mtd": 0.0,
-          "ytd": 4135.1,
-          "yesterday": 0.0
+        "Jabriya": {
+          "mtd": 16495.456,
+          "ytd": 71861.371,
+          "yesterday": 574.845
         },
         "AUM": {
           "mtd": 1602.119,
           "ytd": 14547.074,
           "yesterday": 0.0
         },
-        "Roastry": {
-          "mtd": 15340.43,
-          "ytd": 60431.43,
-          "yesterday": 1908.702
+        "Event 8": {
+          "mtd": 0.0,
+          "ytd": 2338.7,
+          "yesterday": 0.0
+        },
+        "Event 6": {
+          "mtd": 143.4,
+          "ytd": 3936.793,
+          "yesterday": 0.0
+        },
+        "Event 5": {
+          "mtd": 3666.5,
+          "ytd": 9373.779,
+          "yesterday": 78.05
+        },
+        "Arena M1": {
+          "mtd": 1672.6,
+          "ytd": 20999.4,
+          "yesterday": 726.55
+        },
+        "Kaifan": {
+          "mtd": 21742.226,
+          "ytd": 169407.139,
+          "yesterday": 844.426
+        },
+        "Daralshifa": {
+          "mtd": 14188.255,
+          "ytd": 84322.11,
+          "yesterday": 457.415
+        },
+        "Catering&Events": {
+          "mtd": 14375.0,
+          "ytd": 44612.07,
+          "yesterday": 0.0
         },
         "Warehousemall": {
           "mtd": 11137.484,
           "ytd": 62328.489,
           "yesterday": 422.1
+        },
+        "Alkout": {
+          "mtd": 5421.151,
+          "ytd": 30572.734,
+          "yesterday": 239.45
+        },
+        "SabahSalem": {
+          "mtd": 21839.33,
+          "ytd": 168215.593,
+          "yesterday": 909.25
+        },
+        "360Mall": {
+          "mtd": 19574.264,
+          "ytd": 107636.906,
+          "yesterday": 737.61
+        },
+        "Alnasser": {
+          "mtd": 19014.849,
+          "ytd": 149428.358,
+          "yesterday": 716.45
+        },
+        "AIU": {
+          "mtd": 1368.3,
+          "ytd": 9486.7,
+          "yesterday": 46.35
+        },
+        "Salmiya": {
+          "mtd": 11848.284,
+          "ytd": 103526.312,
+          "yesterday": 388.452
+        },
+        "Crystal": {
+          "mtd": 11623.248,
+          "ytd": 61474.901,
+          "yesterday": 362.225
+        },
+        "Arena": {
+          "mtd": 0.0,
+          "ytd": 23673.85,
+          "yesterday": 0.0
+        },
+        "Ardiya": {
+          "mtd": 413.297,
+          "ytd": 413.297,
+          "yesterday": 28.823
+        },
+        "TheLane": {
+          "mtd": 15937.46,
+          "ytd": 119090.599,
+          "yesterday": 547.119
+        },
+        "KuwaitHospital": {
+          "mtd": 9596.263,
+          "ytd": 9596.263,
+          "yesterday": 317.36
         }
       },
       "_v": 18
