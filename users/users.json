@@ -84,11 +84,12 @@
     "branches": [],
     "active": true,
     "created_at": "2026-07-20T07:50:17Z",
-    "last_login": "2026-08-06T06:21:10Z",
+    "last_login": "2026-08-11T08:25:30Z",
     "permissions": {},
     "display_name": "Mohamad Abdou",
     "phone": "m.abdou@cafcafe.com",
-    "job_title": "Brand Manager"
+    "job_title": "Brand Manager",
+    "recovery_email": ""
   },
   {
     "id": "e045577454d8",
