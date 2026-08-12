@@ -228,7 +228,14 @@
     "active": true,
     "created_at": "2026-08-12T07:45:52Z",
     "last_login": "2026-08-12T07:45:59Z",
-    "permissions": {},
+    "permissions": {
+      "canSeeHourly": true,
+      "canSeeChannels": true,
+      "canSeeTargets": true,
+      "canSeeAnalytics": true,
+      "canSeeDiscounts": true,
+      "canSeeBonus": true
+    },
     "display_name": "",
     "phone": "",
     "job_title": "",
