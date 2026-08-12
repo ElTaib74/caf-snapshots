@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-12T03:00:11.874602+03:00",
+  "generated_at": "2026-08-12T08:01:13.298254+03:00",
   "generated_by": "api_refresh",
   "brand": "KOLATA",
   "date": "2026-08-11",
@@ -84,6 +84,39 @@
       "brand": "KOLATA",
       "date": "2026-08-11",
       "_v": 22
+    },
+    "totals": {
+      "mtd_total": 10038.625,
+      "ytd_total": 68647.084,
+      "yest_total": 744.462,
+      "branch_totals": {
+        "Qurain": {
+          "mtd": 1996.5,
+          "ytd": 17610.5,
+          "yesterday": 157.3
+        },
+        "Catering&Events": {
+          "mtd": 975.175,
+          "ytd": 18667.409,
+          "yesterday": 0.0
+        },
+        "Khaitan": {
+          "mtd": 2164.025,
+          "ytd": 15088.025,
+          "yesterday": 190.65
+        },
+        "Salmiya": {
+          "mtd": 1353.95,
+          "ytd": 10264.975,
+          "yesterday": 88.15
+        },
+        "Catering&EventsKhiran": {
+          "mtd": 3548.975,
+          "ytd": 7016.175,
+          "yesterday": 308.363
+        }
+      },
+      "_v": 18
     }
   }
 }
