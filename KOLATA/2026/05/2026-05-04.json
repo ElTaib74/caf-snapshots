@@ -1,50 +1,88 @@
 {
-  "day_total": 130.7,
-  "day_orders": 18,
-  "branches": [
-    {
-      "name": "Salmiya",
-      "sales": 61.15,
-      "orders": 9,
-      "discount": 10.35,
-      "order_types": {
-        "Delivery": {
-          "sales": 61.15,
-          "orders": 9
-        }
-      }
-    },
-    {
-      "name": "Khaitan",
-      "sales": 54.55,
-      "orders": 6,
-      "discount": 21.45,
-      "order_types": {
-        "Delivery": {
-          "sales": 54.55,
-          "orders": 6
-        }
-      }
-    },
-    {
-      "name": "Qurain",
-      "sales": 15.0,
-      "orders": 3,
-      "discount": 15.0,
-      "order_types": {
-        "Delivery": {
-          "sales": 8.5,
-          "orders": 2
-        },
-        "Pickup": {
-          "sales": 6.5,
-          "orders": 1
-        }
-      }
-    }
-  ],
-  "active_branches": 3,
+  "schema_version": 2,
+  "generated_at": "2026-08-12T15:16:17.844928+03:00",
+  "generated_by": "api_refresh",
   "brand": "KOLATA",
   "date": "2026-05-04",
-  "_v": 20
+  "is_closed": true,
+  "data": {
+    "today": {
+      "day_total": 130.7,
+      "day_orders": 18,
+      "branches": [
+        {
+          "name": "Salmiya",
+          "sales": 61.15,
+          "orders": 9,
+          "discount": 10.35,
+          "order_types": {
+            "Delivery": {
+              "sales": 61.15,
+              "orders": 9
+            }
+          }
+        },
+        {
+          "name": "Khaitan",
+          "sales": 54.55,
+          "orders": 6,
+          "discount": 21.45,
+          "order_types": {
+            "Delivery": {
+              "sales": 54.55,
+              "orders": 6
+            }
+          }
+        },
+        {
+          "name": "Qurain",
+          "sales": 15.0,
+          "orders": 3,
+          "discount": 15.0,
+          "order_types": {
+            "Delivery": {
+              "sales": 8.5,
+              "orders": 2
+            },
+            "Pickup": {
+              "sales": 6.5,
+              "orders": 1
+            }
+          }
+        },
+        {
+          "name": "Ardiya",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "CentralKitchen",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Catering&Events",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Catering&EventsKhiran",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        }
+      ],
+      "active_branches": 3,
+      "brand": "KOLATA",
+      "date": "2026-05-04",
+      "_v": 22
+    }
+  }
 }
