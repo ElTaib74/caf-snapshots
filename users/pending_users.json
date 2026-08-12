@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "e9df326cf101",
+    "username": "Karim",
+    "password_hash": "$2b$12$Y8PmFHRSItPR5gZHqH2bG.97hY37ZuVshVsMmnE6S4o8TAPqKNSiG",
+    "requested_at": "2026-08-12T07:46:35Z",
+    "notes": null
+  }
+]
