@@ -214,5 +214,22 @@
     "phone": "",
     "job_title": "",
     "recovery_email": ""
+  },
+  {
+    "id": "f8c232d5a1be",
+    "username": "ALI",
+    "password_hash": "$2b$12$YaF39vaAe8MsgZQ/79rjeu8XS/meBEVQuGoXW8DN1mi94.iUl5hcC",
+    "role": "viewer",
+    "brand": "CAF",
+    "brands": [],
+    "branches": [],
+    "active": true,
+    "created_at": "2026-08-12T07:45:52Z",
+    "last_login": null,
+    "permissions": {},
+    "display_name": "",
+    "phone": "",
+    "job_title": "",
+    "recovery_email": ""
   }
 ]
