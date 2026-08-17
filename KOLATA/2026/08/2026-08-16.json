@@ -1,79 +1,190 @@
 {
-  "day_total": 513.125,
-  "day_orders": 134,
-  "branches": [
-    {
-      "name": "Catering&EventsKhiran",
-      "sales": 246.1,
-      "orders": 65,
-      "discount": 6.7,
-      "order_types": {
-        "Unknown": {
-          "sales": 246.1,
-          "orders": 65
-        }
-      }
-    },
-    {
-      "name": "Qurain",
-      "sales": 112.0,
-      "orders": 33,
-      "discount": 30.75,
-      "order_types": {
-        "Delivery": {
-          "sales": 112.0,
-          "orders": 33
-        }
-      }
-    },
-    {
-      "name": "Khaitan",
-      "sales": 105.625,
-      "orders": 25,
-      "discount": 57.875,
-      "order_types": {
-        "Delivery": {
-          "sales": 105.625,
-          "orders": 25
-        }
-      }
-    },
-    {
-      "name": "Salmiya",
-      "sales": 49.4,
-      "orders": 11,
-      "discount": 19.6,
-      "order_types": {
-        "Delivery": {
-          "sales": 49.4,
-          "orders": 11
-        }
-      }
-    },
-    {
-      "name": "Ardiya",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    },
-    {
-      "name": "CentralKitchen",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    },
-    {
-      "name": "Catering&Events",
-      "sales": 0.0,
-      "orders": 0,
-      "discount": 0.0,
-      "order_types": {}
-    }
-  ],
-  "active_branches": 4,
+  "schema_version": 2,
+  "generated_at": "2026-08-17T10:19:32.825549+03:00",
+  "generated_by": "api_refresh",
   "brand": "KOLATA",
   "date": "2026-08-16",
-  "_v": 22
+  "is_closed": false,
+  "data": {
+    "today": {
+      "day_total": 513.125,
+      "day_orders": 134,
+      "branches": [
+        {
+          "name": "Catering&EventsKhiran",
+          "sales": 246.1,
+          "orders": 65,
+          "discount": 6.7,
+          "order_types": {
+            "Unknown": {
+              "sales": 246.1,
+              "orders": 65
+            }
+          }
+        },
+        {
+          "name": "Qurain",
+          "sales": 112.0,
+          "orders": 33,
+          "discount": 30.75,
+          "order_types": {
+            "Delivery": {
+              "sales": 112.0,
+              "orders": 33
+            }
+          }
+        },
+        {
+          "name": "Khaitan",
+          "sales": 105.625,
+          "orders": 25,
+          "discount": 57.875,
+          "order_types": {
+            "Delivery": {
+              "sales": 105.625,
+              "orders": 25
+            }
+          }
+        },
+        {
+          "name": "Salmiya",
+          "sales": 49.4,
+          "orders": 11,
+          "discount": 19.6,
+          "order_types": {
+            "Delivery": {
+              "sales": 49.4,
+              "orders": 11
+            }
+          }
+        },
+        {
+          "name": "Ardiya",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "CentralKitchen",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        },
+        {
+          "name": "Catering&Events",
+          "sales": 0.0,
+          "orders": 0,
+          "discount": 0.0,
+          "order_types": {}
+        }
+      ],
+      "active_branches": 4,
+      "brand": "KOLATA",
+      "date": "2026-08-16",
+      "_v": 22
+    },
+    "week": {
+      "trend": [
+        {
+          "date": "2026-08-10",
+          "label": "Mon",
+          "sales": 744.462,
+          "orders": 162,
+          "net_orders": 158,
+          "channels": {
+            "dine_in": 744.462,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-11",
+          "label": "Tue",
+          "sales": 613.45,
+          "orders": 141,
+          "net_orders": 135,
+          "channels": {
+            "dine_in": 613.45,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-12",
+          "label": "Wed",
+          "sales": 662.25,
+          "orders": 145,
+          "net_orders": 141,
+          "channels": {
+            "dine_in": 662.25,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-13",
+          "label": "Thu",
+          "sales": 1119.225,
+          "orders": 212,
+          "net_orders": 201,
+          "channels": {
+            "dine_in": 1119.225,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-14",
+          "label": "Fri",
+          "sales": 1542.6,
+          "orders": 290,
+          "net_orders": 280,
+          "channels": {
+            "dine_in": 1542.6,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-15",
+          "label": "Sat",
+          "sales": 858.662,
+          "orders": 196,
+          "net_orders": 193,
+          "channels": {
+            "dine_in": 858.662,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-16",
+          "label": "Sun",
+          "sales": 513.125,
+          "orders": 135,
+          "net_orders": 134,
+          "channels": {
+            "dine_in": 513.125,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        }
+      ],
+      "weekly_channels": {
+        "dine_in": 6053.774,
+        "talabat": 0.0,
+        "keeta": 0.0,
+        "others": 0.0
+      }
+    }
+  }
 }
