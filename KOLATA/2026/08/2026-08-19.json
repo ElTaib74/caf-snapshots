@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-20T10:15:24.256840+03:00",
+  "generated_at": "2026-08-20T10:15:25.635595+03:00",
   "generated_by": "api_refresh",
   "brand": "KOLATA",
   "date": "2026-08-19",
@@ -117,6 +117,107 @@
         }
       },
       "_v": 18
+    },
+    "week": {
+      "trend": [
+        {
+          "date": "2026-08-13",
+          "label": "Thu",
+          "sales": 1119.225,
+          "orders": 212,
+          "net_orders": 201,
+          "channels": {
+            "dine_in": 1119.225,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-14",
+          "label": "Fri",
+          "sales": 1542.6,
+          "orders": 290,
+          "net_orders": 280,
+          "channels": {
+            "dine_in": 1542.6,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-15",
+          "label": "Sat",
+          "sales": 858.662,
+          "orders": 196,
+          "net_orders": 193,
+          "channels": {
+            "dine_in": 858.662,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-16",
+          "label": "Sun",
+          "sales": 513.125,
+          "orders": 135,
+          "net_orders": 134,
+          "channels": {
+            "dine_in": 513.125,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-17",
+          "label": "Mon",
+          "sales": 566.75,
+          "orders": 131,
+          "net_orders": 131,
+          "channels": {
+            "dine_in": 566.75,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-18",
+          "label": "Tue",
+          "sales": 556.762,
+          "orders": 136,
+          "net_orders": 135,
+          "channels": {
+            "dine_in": 556.762,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        },
+        {
+          "date": "2026-08-19",
+          "label": "Wed",
+          "sales": 727.45,
+          "orders": 145,
+          "net_orders": 145,
+          "channels": {
+            "dine_in": 727.45,
+            "talabat": 0.0,
+            "keeta": 0.0,
+            "others": 0.0
+          }
+        }
+      ],
+      "weekly_channels": {
+        "dine_in": 5884.574,
+        "talabat": 0.0,
+        "keeta": 0.0,
+        "others": 0.0
+      }
     }
   }
 }
